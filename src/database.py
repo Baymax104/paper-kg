@@ -2,9 +2,10 @@
 import json
 import threading
 from concurrent import futures
-from typing import Any
+from typing import Any, Annotated
 
 import loguru
+import typer
 from py2neo import Graph, Node, Relationship
 from tqdm import tqdm
 
@@ -76,14 +77,13 @@ class Database:
             return self.thread_positions[thread_id]
 
 
-def insert(filename, type_):
+def insert(
+    filename: Annotated[str, typer.Argument(help='jsonl file')],
+    type_: Annotated[str, typer.Argument()],
+):
     db = Database(batch_size=2500, max_workers=15)
     with open(filename, 'r', encoding='utf-8') as f:
         data = [json.loads(line) for line in f]
-    # del data[27465:27467]
-    # with open(filename, 'w', encoding='utf-8') as f:
-    #     for d in data:
-    #         f.write(json.dumps(d, ensure_ascii=False) + '\n')
     if type_ == 'relation':
         db.batch_insert_relations(data)
     elif type_ == 'entity':
@@ -91,7 +91,4 @@ def insert(filename, type_):
 
 
 if __name__ == '__main__':
-    # insert('../output/result_entities.jsonl', 'entity')
-    # insert('../output/paper_result_relations.jsonl', 'relation')
-    # insert('../output/conclusion_entities.jsonl', 'entity')
-    insert('../output/paper_conclusion_relations.jsonl', 'relation')
+    typer.run(insert)
