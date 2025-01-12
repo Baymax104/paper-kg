@@ -1,0 +1,1841 @@
+{"id": "88aa5984eb634579bf93002d7b23c9a9", "type": "Subject1", "name": "Data Science and Big Data"}
+{"id": "c4eaa4960e8c4a63a9aa9b8394e4ffa9", "type": "Subject1", "name": "Soft Robotics"}
+{"id": "2c55bbdc956c472f887df29ddd4b68f5", "type": "Subject1", "name": "Storage Systems"}
+{"id": "12f4ef70592b4a9db8686cc8aefc4f3d", "type": "Subject1", "name": "Data Structures and Algorithms"}
+{"id": "1a1639e14a47400897c8766e87010010", "type": "Subject1", "name": "Robotics"}
+{"id": "039d4b8e5d98497ca45e163bb3364467", "type": "Subject1", "name": "Cognitive Science"}
+{"id": "5b73aa2eb21e4027b01d3464b99305bb", "type": "Subject1", "name": "Control Systems"}
+{"id": "d2febb8d851148f7a72c637d5087ab2d", "type": "Subject1", "name": "Health Informatics"}
+{"id": "6a0eaa2922ee4f9e9101d37d00d05e2f", "type": "Subject1", "name": "Mechanical Engineering"}
+{"id": "b1a1aa3e245f439397f4744228219828", "type": "Subject1", "name": "Neural Networks and Deep Learning"}
+{"id": "b066a6ae276c42a989c3a3528022b4e7", "type": "Subject1", "name": "Machine Learning"}
+{"id": "d7285ecf3f8f479f8849df583b396a70", "type": "Subject1", "name": "Quantum Computing"}
+{"id": "1a43ea261ae34aa583184b2e183c2807", "type": "Subject1", "name": "Human-Computer Interaction"}
+{"id": "d1de8150d5db4e29be14f9d16e67e63a", "type": "Subject1", "name": "Optimization Theory"}
+{"id": "d49b598234664ee89b3779a91d5ac0ba", "type": "Subject1", "name": "Cultural Studies"}
+{"id": "bae363118d654af08e331ab98e51df2b", "type": "Subject1", "name": "Educational Technology"}
+{"id": "6ef32b4c09d14f6685354ac74db309ec", "type": "Subject1", "name": "Atmospheric Science"}
+{"id": "a81d5ffcc89d4867bbe14744c1277976", "type": "Subject1", "name": "Distributed Computing"}
+{"id": "8a1fb5d80b2f47c891f5e4a58b023013", "type": "Subject1", "name": "Networking"}
+{"id": "91533c44bf5644b9b4b9e988e6cda295", "type": "Subject1", "name": "Computer Vision"}
+{"id": "2b3f1b3316bb49e4b83237a191355cad", "type": "Subject1", "name": "Natural Language Processing"}
+{"id": "4b2ac4c60fb64218bdc4147cb70ff614", "type": "Subject1", "name": "Exhibit Design and Technology"}
+{"id": "e893f8d79856451b991a5d48cb367e35", "type": "Subject1", "name": "Artificial Intelligence"}
+{"id": "9bdbda6607424522b850fdecef806258", "type": "Subject1", "name": "Social Psychology"}
+{"id": "7be753410e004a169aff6f45e08495ee", "type": "Subject1", "name": "Network and Distributed Systems"}
+{"id": "873e956122a44fb2a50a1245e74c0e00", "type": "Subject1", "name": "Geophysics"}
+{"id": "3a885640f3ca4509a47c380ca74e009e", "type": "Subject1", "name": "Information Security"}
+{"id": "565cbfd824344e0086ce0bbca77492ef", "type": "Subject1", "name": "Signal Processing"}
+{"id": "bab4420bb02945bfa385e12739c03c07", "type": "Subject1", "name": "Algorithm Design"}
+{"id": "40f7ce57466249a2b7601db382bda0ae", "type": "Subject1", "name": "Software Engineering"}
+{"id": "d8eef4544ada4bb0b69e70ec7fc5673c", "type": "Subject1", "name": "Oceanography"}
+{"id": "a241f7d6179d423caaffe3f6bc26ee97", "type": "Subject1", "name": "Remote Sensing and Image Processing"}
+{"id": "7cafe87769ed4df89564d128f58541d7", "type": "Subject1", "name": "Databases"}
+{"id": "3dd40ea09b464f66bbec32ef88bff124", "type": "Subject1", "name": "Theoretical Computer Science"}
+{"id": "69c05274e8464eb4a21b6c9acaf48f78", "type": "Subject1", "name": "Image Processing and Analysis"}
+{"id": "bd8e0055eee042c19518ddfda887c0f4", "type": "Subject1", "name": "Speech and Audio Processing"}
+{"id": "dc9ad6a96ee24424a36ffbb4d5328c49", "type": "Subject1", "name": "Design and Human Factors"}
+{"id": "0972aded5b544bad9f02e8c76c6c266a", "type": "Subject1", "name": "Psychology"}
+{"id": "c01ea40dbb844c9bbeeb6e9e40af10d4", "type": "Subject1", "name": "Computer-Aided Design"}
+{"id": "01f888fff3dd49afaea1f1741a8696b7", "type": "Subject1", "name": "Diversity and Inclusion in Library Services"}
+{"id": "44bd202702d7431abf9c750af5fc66d9", "type": "Subject1", "name": "Information Retrieval"}
+{"id": "0efac2192a73467ea3ed22923a34c112", "type": "Subject1", "name": "Image Processing"}
+{"id": "7572ea266ff040079ce1303685b386fa", "type": "Subject1", "name": "Data Mining"}
+{"id": "8b2d879220ae4af7b655bec8b1b35999", "type": "Subject1", "name": "Information Systems"}
+{"id": "4313e22239f24837bc323b2283617b01", "type": "Subject1", "name": "Fisheries and Aquaculture"}
+{"id": "7c794e43ee7e4306853856c4a7e1a539", "type": "Subject1", "name": "Mobile Computing"}
+{"id": "bad0aa3983564a1f99ca8c642da871da", "type": "Subject1", "name": "Medical Informatics"}
+{"id": "975dcc8fa3ec48f3a3061c6665d604f6", "type": "Subject1", "name": "Network Security"}
+{"id": "0c79e97eaace4e75a5ae31e710736580", "type": "Subject1", "name": "Cybersecurity"}
+{"id": "b785f95c5b774264a5ce34de1a320a62", "type": "Subject1", "name": "Industrial Engineering"}
+{"id": "5521678313e84da18a2fba1dc9ba0d04", "type": "Subject1", "name": "Geoinformatics"}
+{"id": "23072879f14d48078d05497982467d97", "type": "Subject1", "name": "Embryology"}
+{"id": "a8bb6ee880be44c8a24aae1adb781fcb", "type": "Subject1", "name": "Reading and Literacy"}
+{"id": "177f5c74161d45ed89f583c20c50508c", "type": "Subject1", "name": "Geriatrics"}
+{"id": "6b5d8b74c14743769fa0d62c9bf39167", "type": "Subject1", "name": "Public Health"}
+{"id": "baadd9cd5e9c4a46858309949ccd81bb", "type": "Subject1", "name": "Computer Architecture"}
+{"id": "d74763c2e9cb483085ca23fc22eda1bc", "type": "Subject1", "name": "Accident Analysis and Prevention"}
+{"id": "1034c593a2a94bdba9afdb3ba0fe153d", "type": "Subject1", "name": "Social Computing"}
+{"id": "44f8bdf442e4425ca9004107e42ef127", "type": "Subject1", "name": "Computational Electromagnetics"}
+{"id": "9945c78e2544462e9b173cc4c08dffe8", "type": "Subject1", "name": "Optimization"}
+{"id": "46cf07e1f47740a396306b6d6738884a", "type": "Subject1", "name": "Occupational Studies"}
+{"id": "fe5e49fabeff4c62aefe30e3ce2e62a9", "type": "Subject1", "name": "Data Management"}
+{"id": "0005059108854b158826f8b21a16c2e4", "type": "Subject1", "name": "Cryptography"}
+{"id": "2964911ba1c64a7abc889d77062bd297", "type": "Subject1", "name": "Database and Information Systems"}
+{"id": "c40b4eebbaa54389882c92f28f31731b", "type": "Subject1", "name": "Graphics and Visualization"}
+{"id": "82b63bbe9db84bcfaf48d34b0a681a9a", "type": "Subject1", "name": "E-commerce"}
+{"id": "b013349b403140a296a26be348f93ea2", "type": "Subject1", "name": "VLSI and Microelectronics"}
+{"id": "5337e83c4b8a454e94440262e1204158", "type": "Subject1", "name": "Cognitive Psychology"}
+{"id": "3596ba600aef40ca97f20aebc9893642", "type": "Subject1", "name": "Parallel and Distributed Computing"}
+{"id": "44f0b25f148d4de6b451238bfe94b6d6", "type": "Subject1", "name": "Networking and Distributed Systems"}
+{"id": "620934e6fed849fe8c6f3185954f1405", "type": "Subject1", "name": "Operations Research"}
+{"id": "2ece49502d534e1ea5237a5092381108", "type": "Subject1", "name": "Manufacturing Engineering"}
+{"id": "3fe8ffb723fd44959d08bdcbc4399edd", "type": "Subject1", "name": "Sustainable Agriculture"}
+{"id": "6d32cbf27f584a3da69ce2b284c1c439", "type": "Subject1", "name": "Hydrology"}
+{"id": "a48ca2ae5eb749459c60b6b687d07214", "type": "Subject1", "name": "Automated Vehicles"}
+{"id": "52530f89fb434470b0f252b8a3e102fb", "type": "Subject1", "name": "Control Theory"}
+{"id": "51fbde6d9b3d4975b19f62eb38368aa2", "type": "Subject1", "name": "Water Quality"}
+{"id": "09cf48b8c8214ab0a1d1c21633d5e785", "type": "Subject1", "name": "Information Theory"}
+{"id": "e7a417dc061f4fefb272903b0cd09505", "type": "Subject1", "name": "Construction Engineering"}
+{"id": "01fc37af610c40b3a137112adfb24db7", "type": "Subject1", "name": "VLSI and Computer-Aided Design"}
+{"id": "7355c6d58f0f4804af4c8f297141893a", "type": "Subject1", "name": "Data Science and Machine Learning"}
+{"id": "3d3b375eaa3b40bb94b912a591f1ec31", "type": "Subject1", "name": "Communication Engineering"}
+{"id": "b97980afbc184542bf8a1d20c1a5c876", "type": "Subject1", "name": "Formal Methods"}
+{"id": "e3652f9411374fd786ebfc9c44ca7cc7", "type": "Subject1", "name": "Vibration Engineering"}
+{"id": "6544fbb48a3a4caab974842669e864da", "type": "Subject1", "name": "Urban Studies"}
+{"id": "3f0e64685ab349dbbd6ba6c9beb00aba", "type": "Subject1", "name": "Recommender Systems"}
+{"id": "2e5727379c56454089ded41df7b17596", "type": "Subject1", "name": "Biomedical Engineering"}
+{"id": "09b58f00439144aba96861bff7a00c1a", "type": "Subject1", "name": "Recommendation Systems"}
+{"id": "c1887fb50a0a458a9bbd312229621c4c", "type": "Subject1", "name": "Waste Management"}
+{"id": "9d26788dc23d4354b7c31f0ff39ad6d2", "type": "Subject1", "name": "Nutrition and Dietetics"}
+{"id": "b585b8b1e9b4454f9dc0f8afb83163ad", "type": "Subject1", "name": "Nutrition"}
+{"id": "2010d9b79e804cf5a0ef9da5e23903d3", "type": "Subject1", "name": "European Union Law"}
+{"id": "c0df3a9e3f9941199ed85eb99c68e4ec", "type": "Subject1", "name": "Educational Evaluation and Assessment"}
+{"id": "091145403b2c41d6aee47b162085e3f4", "type": "Subject1", "name": "Non-Communicable Diseases (NCDs) Management"}
+{"id": "21c7741f47dd4b879559485d41d9eefb", "type": "Subject1", "name": "Nutrition and Metabolism"}
+{"id": "b7296a76194741bc9487043dde8b4fcb", "type": "Subject1", "name": "Demographics"}
+{"id": "6006b1d437984913bde757cdca31039a", "type": "Subject1", "name": "Underwater Acoustics"}
+{"id": "e2903d79bc5a400f950329c8e0a19de8", "type": "Subject1", "name": "Probability Theory"}
+{"id": "b11aad9a580148faa612a675a712a770", "type": "Subject1", "name": "Distributed and Parallel Computing"}
+{"id": "1d3cc230a012417e945483abc945c032", "type": "Subject1", "name": "Oncology"}
+{"id": "540986b56b8c4d64b4c703befb43b1eb", "type": "Subject1", "name": "Neurology"}
+{"id": "87aa4369ba234ab787041c8dfe2543ec", "type": "Subject1", "name": "Genetics"}
+{"id": "1085dc462a4e4bf4bfb2fc6be95723d6", "type": "Subject1", "name": "Real-Time Systems"}
+{"id": "597bc0cc1a2f495da37e80832cc9ab37", "type": "Subject1", "name": "Telemedicine and Telecare"}
+{"id": "b7d4a4e58ee647fe9cbcf3c1d6c01cf1", "type": "Subject1", "name": "Radiology"}
+{"id": "608b09f0748f431f80ba43ea459b9b60", "type": "Subject1", "name": "Cancer Biology"}
+{"id": "bf3c44c9248d4093ae54dba30d07e2b4", "type": "Subject1", "name": "Molecular and Cellular Biology"}
+{"id": "169438a8cd604f3393394bfc8d387fec", "type": "Subject1", "name": "Bioinformatics"}
+{"id": "25211c0abde24c68be090148a011040a", "type": "Subject1", "name": "Public Health Informatics"}
+{"id": "841bc0f24abc48cfa453df8386726bdc", "type": "Subject1", "name": "Applied Linguistics"}
+{"id": "2bd9c0bfc3254d9cb00b717a8e8ebc85", "type": "Subject1", "name": "Critical Care Medicine"}
+{"id": "9581aa2d4f87421b8248e718e3bd871c", "type": "Subject1", "name": "Virtual Reality"}
+{"id": "d4438c5a1c5840eab2886efd832aa862", "type": "Subject1", "name": "Atomic, Molecular, and Optical Physics"}
+{"id": "1957c8a402604918ae7a93b13486923d", "type": "Subject1", "name": "Environmental Engineering"}
+{"id": "2bf0ef895f774198be3757812eb26109", "type": "Subject1", "name": "General Topology"}
+{"id": "171cc8900f1a41b489267a8df27b7810", "type": "Subject1", "name": "Classical Mechanics"}
+{"id": "08d43206179b47748c009b67a6bf1fb9", "type": "Subject1", "name": "Structural Dynamics"}
+{"id": "cd94e85c57224e9f827bbf3f6c611c36", "type": "Subject1", "name": "Semantics"}
+{"id": "175bd217925f434f8f52b7329f60096b", "type": "Subject1", "name": "Chemical Engineering"}
+{"id": "c8fb215392b64d7f81821e91af29f147", "type": "Subject1", "name": "Microbiology"}
+{"id": "eb1aadd9b3cc48a383e1c86fef117148", "type": "Subject1", "name": "Acoustical Engineering"}
+{"id": "66115462115247b5b680e4cd5bd54c18", "type": "Subject1", "name": "Operating Systems"}
+{"id": "139c989af7f948528caba492964ed5b7", "type": "Subject1", "name": "Data Visualization"}
+{"id": "a6b0a4696c7c42d882d1a991268817a1", "type": "Subject1", "name": "Performance Engineering"}
+{"id": "b76f4e7b815e43099bc6c5b9b4cbe4e9", "type": "Subject1", "name": "Maintenance Engineering"}
+{"id": "496f9ab191134dea9de28146df0cdeee", "type": "Subject1", "name": "Public Policy and Administration"}
+{"id": "9b92e1dbc1364b74a5637a1162199600", "type": "Subject1", "name": "Telecommunications"}
+{"id": "25ad8fac3646444c864e608e89d262be", "type": "Subject1", "name": "Phonetics"}
+{"id": "f5536f9858fd44f89375bf7ddfc81a3d", "type": "Subject1", "name": "Radio Frequency Engineering"}
+{"id": "13d67483a23b4a5f882eaacedeeeba5b", "type": "Subject1", "name": "Electrical Engineering"}
+{"id": "5227e44b444c499b85bf521933d9275d", "type": "Subject1", "name": "Planetary Geology"}
+{"id": "de8b988f66e84aba920ae689772275d0", "type": "Subject1", "name": "High-Performance Computing"}
+{"id": "9bd5173e20104ea6b35275c8c30c7c35", "type": "Subject1", "name": "Special Education"}
+{"id": "3cc0475d5078454fa27bba72d3947fd8", "type": "Subject1", "name": "Digital Forensics"}
+{"id": "0235d143d9da46b9814bf30057a7191e", "type": "Subject1", "name": "Performance Analysis"}
+{"id": "60e9891c65d948659a2cf3027e1bfd58", "type": "Subject1", "name": "Computational Chemistry"}
+{"id": "35f7b318413f4486be4899a7462bcd6a", "type": "Subject1", "name": "Virology"}
+{"id": "19b30cf8627747bf90f5aaac9a0c2852", "type": "Subject1", "name": "Global Environmental Change"}
+{"id": "7983956b06904d339963c01ee7fc8265", "type": "Subject1", "name": "Climate Studies"}
+{"id": "139402c93c0e433db0e76a6900822c0f", "type": "Subject1", "name": "Ecology"}
+{"id": "3215084568e14c33a4cd6bc8671f4f4b", "type": "Subject1", "name": "Water Resources"}
+{"id": "fe707a39c75f410e91d86d5ccebd859f", "type": "Subject1", "name": "Social Inequality"}
+{"id": "b090e94e1da547f3810c49185da05051", "type": "Subject1", "name": "Memory and Storage Systems"}
+{"id": "b657cb3b0c4343cbb0ca3278c4f24880", "type": "Subject1", "name": "Agricultural Meteorology and Climatology"}
+{"id": "996c48354d8f40cda068b4b79b1a00a7", "type": "Subject1", "name": "Speech and Language Processing"}
+{"id": "b0f3610997fb45bb82425ce00d9ba36f", "type": "Subject1", "name": "Programming Languages"}
+{"id": "f8df28eb3f7c4867a9be4d5a2fec38eb", "type": "Subject1", "name": "Data Security and Cryptography"}
+{"id": "18e050b87ce0494a83ee91d83c684180", "type": "Subject1", "name": "Metabolism and Biochemistry"}
+{"id": "7bf31e1c4fc14ac0a1894166409ad9a2", "type": "Subject1", "name": "Environmental Chemistry"}
+{"id": "a6b3a5eb9b534c5d95b89791ca82bde5", "type": "Subject1", "name": "Communication Studies"}
+{"id": "8840be35094c40258f8a99309b624b21", "type": "Subject1", "name": "Developmental Biology"}
+{"id": "daf6b36418fb485b93863f05ac0b68fc", "type": "Subject1", "name": "Cellular and Molecular Biology"}
+{"id": "71d9b12199054fd991dd6a55e70533f0", "type": "Subject1", "name": "Industrial Informatics"}
+{"id": "614ea03ee7c34c53bbcf6bc5b94c0618", "type": "Subject1", "name": "Control Engineering"}
+{"id": "e5385eaffae24abeac2d2c76dd089b99", "type": "Subject1", "name": "Ocean Engineering"}
+{"id": "68637becd25643319d27c9693a30c493", "type": "Subject1", "name": "Game Theory"}
+{"id": "407d4220e71c4f91a674e51fdfa57f18", "type": "Subject1", "name": "Data科学与大数据"}
+{"id": "0f137b970ae4409ab6a5afd6bebdfb4e", "type": "Subject1", "name": "Systems Biology"}
+{"id": "9c6d42da88944f7389d84acd1f6ca715", "type": "Subject1", "name": "Maritime Transportation"}
+{"id": "6d143d98328c4b86b4ac27c127a13ceb", "type": "Subject1", "name": "Abstract Algebra"}
+{"id": "6f24fd974bc44fce98a60fef838edc9c", "type": "Subject1", "name": "Semiconductor Devices"}
+{"id": "ab722026cb9b47d9a4f1da23edf7b7a6", "type": "Subject1", "name": "Photonics"}
+{"id": "399fce9af4294430a47d6a98ed118023", "type": "Subject1", "name": "Neural Circuits"}
+{"id": "bb259d7d42aa4d12a8964373f45487c1", "type": "Subject1", "name": "Database Systems"}
+{"id": "81c9496a430e4445a9c2da2873325807", "type": "Subject1", "name": "Stochastic Processes"}
+{"id": "d93b88dfa2f34913a2ee3f983c488f23", "type": "Subject1", "name": "Reinforcement Learning"}
+{"id": "dfee03e9ecbb4854bbf39913a2f094a7", "type": "Subject1", "name": "Automata & Formal Languages"}
+{"id": "a743d3b45b4146c49235dbdaf395a1b5", "type": "Subject1", "name": "Medical Genetics"}
+{"id": "dbd6c3881f9b4af5a38720d4ad93d60f", "type": "Subject1", "name": "Geographical Information Systems"}
+{"id": "96b21dc8f6634f08b57a05057f4be20e", "type": "Subject1", "name": "Seismology"}
+{"id": "e8d9afa994654c83a403036fff66bb4a", "type": "Subject1", "name": "Molecular Biology"}
+{"id": "57063ad216244b4797458977c2df9043", "type": "Subject1", "name": "Remote Sensing and Geospatial Technology"}
+{"id": "1340e030861941aab7157bfaa87fe289", "type": "Subject1", "name": "Medical Imaging"}
+{"id": "082927239d45476f82314a428ad1f33b", "type": "Subject1", "name": "Environmental Science"}
+{"id": "14898765ab16403e8499612fba60e93f", "type": "Subject1", "name": "Internet Technologies"}
+{"id": "8f48171b08314991a0f5fd362c839750", "type": "Subject1", "name": "Security and Privacy"}
+{"id": "2986866988034fd0b4361019acbf1aae", "type": "Subject1", "name": "Economics and Game Theory"}
+{"id": "0eb6e08a76654e918d7465353856a8e5", "type": "Subject1", "name": "Protein Science"}
+{"id": "b051b6bd51f34364a5155c8838ca2d26", "type": "Subject1", "name": "Structural Biology"}
+{"id": "ff0fd15a53994ca49b7a58ca0b79c18b", "type": "Subject1", "name": "Proteomics"}
+{"id": "c5731f745e5a49188cd02bf48ddb3f8c", "type": "Subject1", "name": "Transportation Engineering"}
+{"id": "a895c666afaf4556afe5c71f84eb2305", "type": "Subject1", "name": "Vehicle Engineering"}
+{"id": "43311aa5fe5d4534bf732a0e12f88e45", "type": "Subject1", "name": "Fire Engineering"}
+{"id": "aa59dfce814e4cbd995bed668e5693d2", "type": "Subject1", "name": "Security and Cryptography"}
+{"id": "4c757abcb80948cbb95313c6a89efd8c", "type": "Subject1", "name": "E-commerce and Consumer Behavior"}
+{"id": "47b7574965f7494a96880d0ca6624fb4", "type": "Subject1", "name": "Marine Biology"}
+{"id": "543c9d80b6d64147aa75d6c0f9314221", "type": "Subject1", "name": "Forestry and Natural Resource Management"}
+{"id": "b4924408c7264f0a85c40f481807a737", "type": "Subject1", "name": "Systematics and Evolutionary Biology"}
+{"id": "e8a10513825c4d41a4a48c56ab363f9b", "type": "Subject1", "name": "Technology and Nature Interaction"}
+{"id": "4f19a124f6dd4c99a61f7745cc8fb27e", "type": "Subject1", "name": "Human Dimensions of Environmental Science"}
+{"id": "990e0982634f4f61b0401bdc38246ae6", "type": "Subject1", "name": "Audio Engineering"}
+{"id": "3fec63e24ccf49bfa8561f590875ab68", "type": "Subject1", "name": "Distributed Systems"}
+{"id": "0d51bf2af53547a4990b20ebdfc703cc", "type": "Subject1", "name": "Transportation Informatics"}
+{"id": "2e5879f113604783a6ba4b62ece734e4", "type": "Subject1", "name": "Urban Planning"}
+{"id": "c08f48b5a15e4914a08e5e0d93b1641e", "type": "Subject1", "name": "Hardware and Architecture"}
+{"id": "5963a09e545344319b5e5eaef1fe4b62", "type": "Subject1", "name": "Elderly Care Systems"}
+{"id": "a819c251e0b242848f0bf0612aa7afb0", "type": "Subject1", "name": "Performance Management"}
+{"id": "0d8b1322353a4f7cb7e4ec328b43bfca", "type": "Subject1", "name": "Logistics and Supply Chain Management"}
+{"id": "8a16ef74ecae4f8d9bf2389f112fcb40", "type": "Subject1", "name": "Transportation and Urban Planning"}
+{"id": "f37feda48707431992aeb8f5b6d9df39", "type": "Subject1", "name": "Automotive Engineering"}
+{"id": "94d8cf4685154030b8f1872341cbbada", "type": "Subject1", "name": "Database"}
+{"id": "d3bd0efa489942be903d47f4284e08fb", "type": "Subject1", "name": "Aerial Robotics"}
+{"id": "5e2ceed58d1c458293d12be2b6238306", "type": "Subject1", "name": "Computer Graphics"}
+{"id": "cce4ee48f42544de844d421de547833e", "type": "Subject1", "name": "Communication Systems"}
+{"id": "82481c0bdb72418bbc3b22a6cf259251", "type": "Subject1", "name": "Traffic Safety"}
+{"id": "40740caa7d8c40eaa8dd9bd7c1d6ea1c", "type": "Subject1", "name": "Audio and Speech Processing"}
+{"id": "53340fd773d3402fb517efb99f80afac", "type": "Subject1", "name": "Civil Engineering"}
+{"id": "5401d3941a2a4676935cdfc764c555c9", "type": "Subject1", "name": "Emergency Medicine"}
+{"id": "c93e5f8afcc041e8b5f988d12bfe4005", "type": "Subject1", "name": "Visualization"}
+{"id": "bbe79426f035480190bcd50f33a754a9", "type": "Subject1", "name": "Human Resource Management"}
+{"id": "a983eec18273418e98fdd396463f0f29", "type": "Subject1", "name": "Distributed and Parallel Systems"}
+{"id": "7489bec305fa4fb3abe65e879515acdc", "type": "Subject1", "name": "Reliability and Fault Tolerance"}
+{"id": "ac6a0113603949479e73c7e0f4c185df", "type": "Subject1", "name": "Electoral Studies"}
+{"id": "92705fe61716412c8d1bd965f3b79cc4", "type": "Subject1", "name": "Hematology"}
+{"id": "5bbd9857c2cf4354800d06e8503d4959", "type": "Subject1", "name": "Clinical Medicine"}
+{"id": "6c6f417e43be4b81a6054467f1abf91d", "type": "Subject1", "name": "Algorithms"}
+{"id": "d34cf3a032234185a4c5b7cff1c01055", "type": "Subject1", "name": "Memory Engineering"}
+{"id": "4e8cb99bfe394cc4ae35e3a6b0eea6f3", "type": "Subject1", "name": "Numerical Analysis"}
+{"id": "7378e82f3fb24401b5642dfc161b6d49", "type": "Subject1", "name": "Data Science"}
+{"id": "ad5ce367ad6a442e8350f182edf027b7", "type": "Subject1", "name": "Environmental Psychology"}
+{"id": "a94b2c834a2544e19fe80dcdef23a4d5", "type": "Subject1", "name": "Graph Theory"}
+{"id": "4893ffd50a2b4c1abd94348c6bc516b6", "type": "Subject1", "name": "Communication"}
+{"id": "a0ce7fa5feeb49ba8599fda39f58076f", "type": "Subject1", "name": "Product Design and Analysis"}
+{"id": "5ed733d5eadf472fbf408ee63ada53c6", "type": "Subject1", "name": "Speech Recognition"}
+{"id": "36b0e1a2f258408abd894a4f8807a511", "type": "Subject1", "name": "Developmental Psychology"}
+{"id": "7c5ed3198e9042d891e078df628e1f76", "type": "Subject1", "name": "Organizational Behavior"}
+{"id": "212722002f24444ea6eaaee5f99a8e5b", "type": "Subject1", "name": "Geodesy"}
+{"id": "78333a00090545e78a63d50aa28be87c", "type": "Subject1", "name": "Cybersecurity and Privacy"}
+{"id": "74e6daa2cb004aaf9ba77887e5abab18", "type": "Subject1", "name": "Ethics of AI"}
+{"id": "4c034d0eeac9411791fa71e6893fb4fa", "type": "Subject1", "name": "Image Processing and Computer Vision"}
+{"id": "179568ef98704c8e91c8a2079002dff2", "type": "Subject1", "name": "Power Systems"}
+{"id": "21fe329c589240c397b5be6449e74f55", "type": "Subject1", "name": "Global and Cross-Cultural Management"}
+{"id": "f4f35485c5ee4c31aa797fb8885ce912", "type": "Subject1", "name": "Optical Communications"}
+{"id": "5f691146f5ea4783a4ab9dd5ef2e413f", "type": "Subject1", "name": "Internet of Things (IoT)"}
+{"id": "e5feec090c704fef937917ad4857089b", "type": "Subject1", "name": "Quality of Experience (QoE)"}
+{"id": "89b3e331ea27416d812d792565cf06cc", "type": "Subject1", "name": "Health Inequality and Social Determinants"}
+{"id": "973a976fb5d34a278dcf3d19776b3ab8", "type": "Subject1", "name": "Pattern Recognition"}
+{"id": "84080c0bc3ec4842bd7b35f6201ddd7c", "type": "Subject1", "name": "Process Control and Optimization"}
+{"id": "7245bc67e9b64e9c80d16fee5802620e", "type": "Subject1", "name": "Memory Technology"}
+{"id": "a7e14a7070f045608cd8b180e8d36eae", "type": "Subject1", "name": "Optical Engineering"}
+{"id": "923847cd70ad4369ba9f5f1859798d15", "type": "Subject1", "name": "Data Sciences and Big Data"}
+{"id": "cacca7dddefa4048a0c996a92bbc08f1", "type": "Subject1", "name": "Data Engineering"}
+{"id": "a55bfb359c234faea38faf96cdad86f1", "type": "Subject1", "name": "Remote Sensing"}
+{"id": "d62454d8784f4b82a19faefc819d0c51", "type": "Subject1", "name": "Security"}
+{"id": "1187a37174e74db983a88fc81b70ec9b", "type": "Subject1", "name": "Speech Pathology"}
+{"id": "0fb496278e3e4fcfbc3f342b9759b13e", "type": "Subject1", "name": "Educational Leadership"}
+{"id": "6b736ce6576c4373ba2cebd4fce2cfd8", "type": "Subject1", "name": "Marketing"}
+{"id": "0da907afd08e4db58156b574a572af3d", "type": "Subject1", "name": "Strategy and Innovation"}
+{"id": "bd25fde22073439ca7d8a59f4dc7e91d", "type": "Subject1", "name": "Wireless Communications"}
+{"id": "e78c881dd22d4fa39fe40453add280ab", "type": "Subject1", "name": "Power Engineering"}
+{"id": "9b45e5b262fa43958fc4841d4482cac2", "type": "Subject1", "name": "Neural Networks"}
+{"id": "de4a0e0b30db4634991d5474313a9296", "type": "Subject1", "name": "Production and Scheduling"}
+{"id": "39e3160497f1471bb7d46f77206d5405", "type": "Subject1", "name": "Algorithm"}
+{"id": "4f4c133f8051463595d91c6ee1e35382", "type": "Subject1", "name": "Automotive Systems"}
+{"id": "960d5a6c0a604b8b9677c0442af75d88", "type": "Subject1", "name": "Infectious Diseases"}
+{"id": "e22d00d195ed43feafa0f4ef17301b11", "type": "Subject1", "name": "Pediatrics"}
+{"id": "aa08cc27ea6c4a4f8cd5d688a5a286f6", "type": "Subject1", "name": "Economics of Healthcare"}
+{"id": "b6695abe4652420888e71105e7bf2492", "type": "Subject1", "name": "Product Design"}
+{"id": "5ae42531010b4a39b085f1ef0b2dca1d", "type": "Subject1", "name": "Genomics"}
+{"id": "7f12d57a52e740ef84e2426885175157", "type": "Subject1", "name": "Embedded Systems"}
+{"id": "efb4e343848e49239e8fdbe88d5704b1", "type": "Subject1", "name": "Digital Hardware Design"}
+{"id": "268469c67c0b4519bf5cf25294e40da6", "type": "Subject1", "name": "Cyber-Physical Systems"}
+{"id": "9a2f7a93a92a4aebbc7ed16abb543942", "type": "Subject1", "name": "Audiology and Speech-Language Pathology"}
+{"id": "6bf41bfa69854257a546725968a0357f", "type": "Subject1", "name": "Phytochemistry"}
+{"id": "fa45ed8f0dfe408598cfeb3ddc2cce92", "type": "Subject1", "name": "Knowledge Representation and Reasoning"}
+{"id": "cb729e024e1742ada3b1433a5691b021", "type": "Subject1", "name": "Ultrasound Imaging"}
+{"id": "9e70e7ae16f54075887ad7443ae186ab", "type": "Subject1", "name": "Graphics and Computational Geometry"}
+{"id": "07ac93c97dc94f36a3aef57f1676443e", "type": "Subject1", "name": "Parallel and Distributed Systems"}
+{"id": "a76a7d9eede440bc8d3f22517ee14bfe", "type": "Subject1", "name": "Surgery"}
+{"id": "e6c73088722b48008497f44e0a132cb5", "type": "Subject1", "name": "Gastroenterology"}
+{"id": "47d6556f58154dc4a31272544f3caa29", "type": "Subject1", "name": "Financial Economics"}
+{"id": "d5a3f1b0520f49e3822e14ac023fbb91", "type": "Subject1", "name": "Otolaryngology"}
+{"id": "e90790c757ce411f9de2f01b7c3c93d0", "type": "Subject1", "name": "Cloud Computing"}
+{"id": "bb230b29c22043618fe78c64bf0d5bf9", "type": "Subject1", "name": "Epidemiology and Public Health Informatics"}
+{"id": "ea856d5181f545b186f631b3abdc84f8", "type": "Subject1", "name": "Clinical Informatics"}
+{"id": "1c8a337068a749b8b4c7d72cc771d8d0", "type": "Subject1", "name": "Acoustics and Signal Processing"}
+{"id": "622cd19886e544d69aa025176f637fc7", "type": "Subject1", "name": "Robotics and Automation"}
+{"id": "c8ae59e648eb43649d6ffb58de907d94", "type": "Subject1", "name": "Agricultural Economics"}
+{"id": "805bc295d049478480cbfbf06aafcfa8", "type": "Subject1", "name": "Neuropsychology"}
+{"id": "440aafb295cb4aaabe2c26b45c646b7f", "type": "Subject1", "name": "Audio Signal Processing"}
+{"id": "e7897e139acb4899876a07bd8c6bdbf7", "type": "Subject1", "name": "Audio and Music Processing"}
+{"id": "8e29d12074844751beeae6976f97200a", "type": "Subject1", "name": "Public Relations"}
+{"id": "5e87d407c4474d7b8a8b09ceba286711", "type": "Subject1", "name": "Media Computing"}
+{"id": "c6db6cb8571b4e56839cca244e110e69", "type": "Subject1", "name": "Graphics and Vision"}
+{"id": "5c465964a3f24abe9ebbbb6c4d0516cb", "type": "Subject1", "name": "Electrical and Electronic Engineering"}
+{"id": "bad62a6d60594411ba3b1cf24ebe9b66", "type": "Subject1", "name": "Graphics"}
+{"id": "9db034a993ec42f2be567911b552d677", "type": "Subject1", "name": "Digital Currency and Cryptocurrency"}
+{"id": "f467a15ff2cf430b9835fc3d3e45d14a", "type": "Subject1", "name": "Neuroscience"}
+{"id": "58d9bb42cf0944a182d736341cc3a2c0", "type": "Subject1", "name": "Human Biology"}
+{"id": "8b60996263194397a8fd1d7b3ed2b1ad", "type": "Subject1", "name": "Environmental Communication"}
+{"id": "7e3fc69761ce4c3b9e578107f3458b23", "type": "Subject1", "name": "Industrial Organization"}
+{"id": "fcd08b91902f4c9eb4bc1eb033fe8f26", "type": "Subject1", "name": "Neural Circuits and Systems"}
+{"id": "ef8892371d2c42b7a1cba36c1ae510d9", "type": "Subject1", "name": "Curriculum and Instruction"}
+{"id": "5e642cf4205d43cb95e6d2f38b5561e0", "type": "Subject1", "name": "Nationalism Studies"}
+{"id": "33e28402d30542abbaa01a27774db1e0", "type": "Subject1", "name": "Combinatorics"}
+{"id": "4a496de3443545059dae08708b7ab161", "type": "Subject1", "name": "Acoustic Oceanography"}
+{"id": "9516d5b39fc64a07bc849810f9348cb9", "type": "Subject1", "name": "Microwave Engineering"}
+{"id": "26b9910a6c1946d09488ba05fe335240", "type": "Subject1", "name": "Ceramics Engineering"}
+{"id": "0ccde9fe45304c24981f1ab903a696cb", "type": "Subject1", "name": "Networks and Distributed Systems"}
+{"id": "284cb2df48af47879d7f6d55993ec7ee", "type": "Subject1", "name": "Information Science and Systems"}
+{"id": "112919da3b8c4d5a87524788dc101b2b", "type": "Subject1", "name": "Real-Time and Embedded Systems"}
+{"id": "f5b6938749364159bbb5662d15e3637f", "type": "Subject1", "name": "Educational Systems"}
+{"id": "3bb7faa7261f4964b5dbeaac8db5fc3c", "type": "Subject1", "name": "Simulation"}
+{"id": "32e0bada70ed4b53a5fbe33625a8b5ee", "type": "Subject1", "name": "Computer-Aided Geometric Design"}
+{"id": "85583a6337564adba3bdc80f9ab3a7c1", "type": "Subject1", "name": "Metaphysics"}
+{"id": "f12758f0cf0842e1a2ff085b57ff679f", "type": "Subject1", "name": "Glaciology"}
+{"id": "fdb26110c44744a29e79efa19e9469cf", "type": "Subject1", "name": "Noise Pollution"}
+{"id": "7aaa6c2048db4bb485299167970d87ff", "type": "Subject1", "name": "Information Science"}
+{"id": "6b269965216a4013926c276e43bd44e6", "type": "Subject1", "name": "Atmospheric Sciences"}
+{"id": "fed1f74143eb45a7bed3adee6d0cc7a7", "type": "Subject1", "name": "User Interface and User Experience"}
+{"id": "b27d671abdae442187d511c3f23146d4", "type": "Subject1", "name": "High-Performance and Distributed Computing"}
+{"id": "33bd3dfd1b9949529728a05f1c296b39", "type": "Subject1", "name": "Biomechanical Engineering"}
+{"id": "b0ddf918e4ed41debf6bded212b27d72", "type": "Subject1", "name": "Discrete Mathematics"}
+{"id": "c90348021ce644368db260e46e5e1c4d", "type": "Subject1", "name": "Biochemistry"}
+{"id": "b97a23c3d1ba473097991aac81905734", "type": "Subject1", "name": "Optical Communication"}
+{"id": "f72156a403bf47f9a147541b00246abe", "type": "Subject1", "name": "Urban and Regional Studies"}
+{"id": "b7eb6491e8ce40eeb4f78fcaf0aa93fd", "type": "Subject1", "name": "Macroeconomics"}
+{"id": "3ceb4105d4554bd1861596ac4ee972e0", "type": "Subject1", "name": "Wireless and Mobile Computing"}
+{"id": "4d806cd305134bddbca2515fbfeae934", "type": "Subject1", "name": "Clinical Psychology"}
+{"id": "d72f1c84dcc641e18c1a105a20892987", "type": "Subject1", "name": "Ethology"}
+{"id": "d58203dae1194ae7a87a72c185304b85", "type": "Subject1", "name": "Sport Computing"}
+{"id": "e7ac1d1822454498ba8b3b5371d9db0a", "type": "Subject1", "name": "Petroleum Engineering"}
+{"id": "e864c47e479e41ccbd2279a033d4e8f0", "type": "Subject1", "name": "Pedagogy and Curriculum"}
+{"id": "f643c276f2454d8e9bbdfd8ef4be8b4d", "type": "Subject1", "name": "Geospatial Information Systems"}
+{"id": "abbb4c87e6414d65a30445f1a2c818f7", "type": "Subject1", "name": "Consumer Behavior"}
+{"id": "e373a976440d46f29b32adb5513e9f14", "type": "Subject1", "name": "User Experience"}
+{"id": "7114cc44751941d587b1d7454196fe2b", "type": "Subject1", "name": "Human Rights Law"}
+{"id": "7a70e4dd3d7d4f2fa4d4ee817bc2a3b3", "type": "Subject1", "name": "Cardiology"}
+{"id": "d9b565762a8e405a94e0c49c9e5e2379", "type": "Subject1", "name": "Character Development and Themes"}
+{"id": "d1d579993f6b47e09e11eb9ebdffa021", "type": "Subject1", "name": "Education"}
+{"id": "f68c89ee0f594917a29950dd8cb0cfbe", "type": "Subject1", "name": "Aeronautical Engineering"}
+{"id": "5f693b45b3cb4a98b69e6eb9b30ec232", "type": "Subject1", "name": "Language Education"}
+{"id": "435190c7ad4147df918873b75152bcd2", "type": "Subject1", "name": "Knowledge Management"}
+{"id": "4584716794684145bf49e34bb52c049b", "type": "Subject1", "name": "Rheumatology"}
+{"id": "daeef26106cf418bb3e491dd36a65c52", "type": "Subject1", "name": "Sociology"}
+{"id": "579d8550396e41c6b7ed1a26b821c2de", "type": "Subject1", "name": "Dermatology"}
+{"id": "b5e3f0d1df384fd4a6674506780c53be", "type": "Subject1", "name": "Ophthalmology"}
+{"id": "9adf7e3e71614b3c934b74dc41a7e319", "type": "Subject1", "name": "Linguistics"}
+{"id": "c3739ee1adf9462f99417c43b733524d", "type": "Subject1", "name": "Military History"}
+{"id": "ceb32dc741764642a87341c32098b5f1", "type": "Subject1", "name": "Acoustics"}
+{"id": "2981144f2bc94422bc68ee842c159de4", "type": "Subject1", "name": "Electronic Design Automation (EDA)"}
+{"id": "789c8f16af804b66ac598fcec2147990", "type": "Subject1", "name": "Biometrics"}
+{"id": "315c3048c9894067827ca266b4970e77", "type": "Subject1", "name": "Building Systems and Equipment"}
+{"id": "e64876dcd1a34158aa7464c0e279a8a1", "type": "Subject1", "name": "Digital Marketing"}
+{"id": "90acee34ecab469486c99bf86bbbbb8d", "type": "Subject1", "name": "Nanoelectronics"}
+{"id": "5a03b78f8dad40e182ea3e31e9841b06", "type": "Subject1", "name": "Immunology"}
+{"id": "5cbe16aa1e374876ba641cbdf9272e42", "type": "Subject1", "name": "Pharmacology"}
+{"id": "03b74a4fa9e14832938434758f84b02b", "type": "Subject1", "name": "Naval Engineering"}
+{"id": "2be572be418142afb7d60ce21bdcc892", "type": "Subject1", "name": "Healthcare Management"}
+{"id": "405b155fab784305b4615a4274aebbdc", "type": "Subject1", "name": "Naval Architecture and Ocean Engineering"}
+{"id": "5818bc712d0a4520b32802d2ca3ac93f", "type": "Subject1", "name": "VLSI and Circuit Design"}
+{"id": "7abda3041e454380aaca5d30f032d717", "type": "Subject1", "name": "Building Science"}
+{"id": "cf3bddd6c2964fe69c60d8708ff53bbe", "type": "Subject1", "name": "Automotive Computing"}
+{"id": "aa2031b1f9504a1d96af8760e75b1def", "type": "Subject1", "name": "Industrial and Organizational Psychology"}
+{"id": "66efcf563a8d43f8bff4f37d86e9cc3d", "type": "Subject1", "name": "Ethics"}
+{"id": "c7093c3d173c437b9ebce865abf2976b", "type": "Subject1", "name": "Social Network Analysis"}
+{"id": "d0aae0c80748472dbf0ac415402c2c31", "type": "Subject1", "name": "Design and Manufacturing"}
+{"id": "dc70eefdfbc3428d86400a51b342ece2", "type": "Subject1", "name": "Financial Informatics"}
+{"id": "97888a72f77c4efcbf356b3f8036b0ab", "type": "Subject1", "name": "Digital Signal Processing"}
+{"id": "8c82cebbe1314282adf205c39362a0fe", "type": "Subject1", "name": "Virtual Reality and Human-Computer Interaction"}
+{"id": "fc81e9056091458f80f45036aaa5e0fe", "type": "Subject1", "name": "Railway Engineering"}
+{"id": "e8034066fa954fe29853339e8f29790b", "type": "Subject1", "name": "Discourse Analysis"}
+{"id": "cd032c12abf44eff9022095749d8750d", "type": "Subject1", "name": "Geographic Information Systems"}
+{"id": "bc7c7c86f9c54da8b60df66389eb4f5e", "type": "Subject1", "name": "Osteoporosis Research"}
+{"id": "d92e36b3e25040e29815d7eb1d31374e", "type": "Subject1", "name": "Conferences and Speeches"}
+{"id": "2b6f03a853454bbea06a8988ea5f39a8", "type": "Subject1", "name": "Medical Diagnostics"}
+{"id": "f6f0a554a6a8482a993aeacc1921958f", "type": "Subject1", "name": "Elderly Health Informatics"}
+{"id": "d0c43e31fa5149519083766489bb0f02", "type": "Subject1", "name": "Electronic Design Automation"}
+{"id": "ef19b37675174d539f36e14909ea8060", "type": "Subject1", "name": "Science Fiction and Futuristic"}
+{"id": "3cc56254f69a49f68e1a0a017da1c8b3", "type": "Subject1", "name": "Educational Psychology"}
+{"id": "bc6f50de73da494e83e2d0df936f4cc8", "type": "Subject1", "name": "Network Science"}
+{"id": "0228e9d6a2fe47ce9bf20266925d6d09", "type": "Subject1", "name": "Biostatistics and Bioinformatics"}
+{"id": "7f10e73244ee4994b59375f72e625409", "type": "Subject1", "name": "Blockchain Technology"}
+{"id": "0d9e5d74ab9c46ccbda701522c6527aa", "type": "Subject1", "name": "Performance Evaluation"}
+{"id": "4ff2bd25900f48adad11d9761eae7b0c", "type": "Subject1", "name": "Combinatorial Optimization"}
+{"id": "19d5fa2f318d4f0fa7fbc754835cf3c7", "type": "Subject1", "name": "Decision Making"}
+{"id": "18b043ae55504304b25ddcef5b413cf2", "type": "Subject1", "name": "Language and Communication"}
+{"id": "8fe9bb1838f348d3a074425dd1c8ce6f", "type": "Subject1", "name": "Algebra"}
+{"id": "a9910ea44c784190a1a4b542f1da918d", "type": "Subject1", "name": "Decision Support Systems"}
+{"id": "dfd616622a9c4646887e36dc4a32da9b", "type": "Subject1", "name": "Geographic Information Science"}
+{"id": "dc87f05635e045e4b0f4c8feb6165361", "type": "Subject1", "name": "Energy and Resources"}
+{"id": "2bb3a683d66c4e80853c780a3d0c1ea5", "type": "Subject1", "name": "Energy Informatics"}
+{"id": "8fdc194cb6214f7abde96178cb17974f", "type": "Subject1", "name": "Geospatial Information Science"}
+{"id": "6049f4f374f04753b9e3acac275f52fd", "type": "Subject1", "name": "Comparative Literature"}
+{"id": "01d5629efcd6407dabb875453483bc9d", "type": "Subject1", "name": "Cell Biology"}
+{"id": "572594f0432b4acaba7df49af1fe80d4", "type": "Subject1", "name": "Data Management and Analytics"}
+{"id": "15e833e0d64c470693d26234c8d5f286", "type": "Subject1", "name": "Pathology"}
+{"id": "65a64004741a4381b2f528a3e4336cb9", "type": "Subject1", "name": "Anatomy"}
+{"id": "d8bcf82ece7a42499cfa8499e892d8d7", "type": "Subject1", "name": "Project Management"}
+{"id": "6db97178c77e442d8194a75350d552fa", "type": "Subject1", "name": "Data Integration and Management"}
+{"id": "7d30c1b1781d4fb9baf0bf325cb1558b", "type": "Subject1", "name": "Planetary Science"}
+{"id": "e05c27502a7b44ddaf6d3b9590a0bb5e", "type": "Subject1", "name": "Circuit Design"}
+{"id": "f77c82afa55048388e91af1a9fc21855", "type": "Subject1", "name": "Neuromorphic Engineering"}
+{"id": "889412566eaf4747bf8ae60605d80d37", "type": "Subject1", "name": "Mass Spectrometry"}
+{"id": "68c9f61574144c2baebda4595370a5a5", "type": "Subject1", "name": "Virtualization"}
+{"id": "423017f80ded48469d095c4dbd91286d", "type": "Subject1", "name": "Electromagnetics"}
+{"id": "3db86eae44e749579143287218c88d35", "type": "Subject1", "name": "Magnetic Memory"}
+{"id": "6fa7e82dea9c4a26889fc030e2868fb3", "type": "Subject1", "name": "Genetics and Genomics"}
+{"id": "ce9c8eaa85d746eab53675850da57bd5", "type": "Subject1", "name": "Communication and Collaboration"}
+{"id": "3e5f3a0fb1544280a4015ba18eed658f", "type": "Subject1", "name": "Performance Studies"}
+{"id": "4d6c4122d55e4d47b64b35c1b9073e1f", "type": "Subject1", "name": "Obstetrics and Gynecology"}
+{"id": "a9d4a610b2ec429a8478e95fb2ce428f", "type": "Subject1", "name": "Nursing"}
+{"id": "cfdbd6a684b740579be484d47f5eda0a", "type": "Subject1", "name": "Data Privacy and Security"}
+{"id": "e0336531964b4ca4be95cbd78730c6a3", "type": "Subject1", "name": "Regulatory Compliance"}
+{"id": "a16b10bfcd21490e87a41d3d100cd70f", "type": "Subject1", "name": "Medical Image Analysis"}
+{"id": "e5f3130d62874b5887a8705c41262fd5", "type": "Subject1", "name": "Behavioral and Social Sciences"}
+{"id": "eb66fe62861048598c44c759131dd40d", "type": "Subject1", "name": "Urban Planning and Design"}
+{"id": "31d25ff179324095a938e1f97c779450", "type": "Subject1", "name": "Genomics and Bioinformatics"}
+{"id": "44fb996c284549d4a740662c7fbd701c", "type": "Subject1", "name": "Neurodegenerative Diseases"}
+{"id": "39ab171afe404ae382dfa31489e9c4b3", "type": "Subject1", "name": "Pulmonary and Respiratory Medicine"}
+{"id": "d818ecbc334742af81ab3b6cf544ff1a", "type": "Subject1", "name": "Epidemiology"}
+{"id": "5feec96cbab34e24a659d70a6dc6d7b8", "type": "Subject1", "name": "Neuroengineering"}
+{"id": "f26f79b551c740bd8e19cbebf1abc336", "type": "Subject1", "name": "Instrumentation and Measurement"}
+{"id": "4b3540f3705b456186ea0c87e4ad5740", "type": "Subject1", "name": "Neuroinformatics"}
+{"id": "30240def8b1e4b5e90989dc4a1013293", "type": "Subject1", "name": "Pathology Informatics"}
+{"id": "126be25dc7804910ab8721c084a10cd2", "type": "Subject1", "name": "Forensic Anthropology"}
+{"id": "f1d230405d3b473eb73b3f7a864b991c", "type": "Subject1", "name": "Early Childhood Education"}
+{"id": "c25b1a32fe274f998df0e4ff7b6ef8fc", "type": "Subject1", "name": "Epidemiology and Public Health"}
+{"id": "7001da338e5744709f031c0efee28ef7", "type": "Subject1", "name": "Soil Science"}
+{"id": "44524baad891438f98da2428a8c9a1e4", "type": "Subject1", "name": "Plant Breeding and Genetics"}
+{"id": "9e943722f0c1435ba7cc2087766af33b", "type": "Subject1", "name": "Clinical Decision Support Systems"}
+{"id": "d81fff2922754f4db5ab2fae803420e2", "type": "Subject1", "name": "Data Storage and Management"}
+{"id": "f5f81471d56f4026a0a3714bc0428cae", "type": "Subject1", "name": "Criminology"}
+{"id": "37e911cbd1924d8d899cf47304b963c7", "type": "Subject1", "name": "Public Policy"}
+{"id": "0be14eca81b2453ea3e125eecee3bc04", "type": "Subject1", "name": "Acoustics and Vibration Engineering"}
+{"id": "e48f3ce4c4f34c7f828f1340145b5abb", "type": "Subject1", "name": "Algebraic Geometry"}
+{"id": "2d045f18afcf4b8eb6ac44bfd96a38c7", "type": "Subject1", "name": "Statistical Mechanics"}
+{"id": "e538a881597c4edea70c01cd871c464b", "type": "Subject1", "name": "Communications"}
+{"id": "a1f9be4d0e8548e9b92e86e655dce63e", "type": "Subject1", "name": "Postmodern Literature"}
+{"id": "93cfca6107e54d45a7bbc4bde2547787", "type": "Subject1", "name": "Endocrinology"}
+{"id": "b30b55282224483aa195e7c12995a6a0", "type": "Subject1", "name": "Sleep Medicine"}
+{"id": "241fe1c9caa2446e872da340ce19e3de", "type": "Subject1", "name": "Automated Vehicle Systems"}
+{"id": "a69bb72abea54761a869f2daffd9e3d9", "type": "Subject1", "name": "Networks"}
+{"id": "19adaf4ffa1e45529f1369669c66e4a0", "type": "Subject1", "name": "Cardiovascular Imaging"}
+{"id": "66d752b4a93545d4871d1b8b966e5cd3", "type": "Subject1", "name": "Avionics and Unmanned Systems"}
+{"id": "fedc98528d904a41b74bfaf2c97fa263", "type": "Subject1", "name": "Energy and Power"}
+{"id": "7746ac181db84005918c163a73ac00ee", "type": "Subject1", "name": "Materials Engineering"}
+{"id": "d5df4832445c490e9238d88d11f0dead", "type": "Subject1", "name": "Blockchain"}
+{"id": "40352f40dc354762b9e5dc0f0baf28a3", "type": "Subject1", "name": "Value Design"}
+{"id": "beecd88fe6ff4e1cbcc6e7c243516c2a", "type": "Subject1", "name": "Statistical Learning"}
+{"id": "cb722edfaa324d4ebe315a9db842203c", "type": "Subject1", "name": "Survival Analysis"}
+{"id": "754efb4a69ff486995ca3b4766a1109c", "type": "Subject1", "name": "Construction Management"}
+{"id": "437637806a2149b6b129483ef874dfe7", "type": "Subject1", "name": "Blockchain and Cryptocurrency"}
+{"id": "fb59875bebda4769af6be490891932e4", "type": "Subject1", "name": "Oral Medicine"}
+{"id": "4f8058e36bb14e62b4e2af9b192301ce", "type": "Subject1", "name": "Parallel Computing"}
+{"id": "be05f6c8d88c452998424e4669d64c5c", "type": "Subject1", "name": "Demographics and Social Dynamics"}
+{"id": "9a23be0c2b9e4f44a982b9bfbfeb79eb", "type": "Subject1", "name": "Memory Management"}
+{"id": "51bfc20dee9b4c48acf721eb99adc2cf", "type": "Subject1", "name": "Materials Science"}
+{"id": "d61ad2664304473b804d418d7e47b075", "type": "Subject1", "name": "Anatomy and Embryology"}
+{"id": "91a939d327d149b5b3204ff212e446fb", "type": "Subject1", "name": "Finance"}
+{"id": "b657d5cdbbfd46498cda740f1be2f24a", "type": "Subject1", "name": "Banking and Finance"}
+{"id": "f50cff9a6ab349da90d5abe0a8e95df3", "type": "Subject1", "name": "Paleontology"}
+{"id": "500265c3009b4e5a8113d71d7b717f25", "type": "Subject1", "name": "Entomology"}
+{"id": "d99879a94d55463fabe77132c13c8b98", "type": "Subject1", "name": "Zoology"}
+{"id": "127e238d78504b22bfb0f72f3823d3cd", "type": "Subject1", "name": "Nonlinear Control"}
+{"id": "457b612ca63141e7a3c63ba3b5db8671", "type": "Subject1", "name": "Evolutionary Computation"}
+{"id": "acf53188e9904b2789d37b7a2c73cca8", "type": "Subject1", "name": "VLSI and Computer Architecture"}
+{"id": "d2ccbc921b054ba3bc0e7fa1ae4b18ab", "type": "Subject1", "name": "Computational Geometry"}
+{"id": "b83361ae2b33462b9715476de0309157", "type": "Subject1", "name": "Tunnel Engineering"}
+{"id": "f745d6a932674b0dbb11f6e5a8202b10", "type": "Subject1", "name": "Emotion and Cognition"}
+{"id": "a192c7a2835d4084aa62ebefe6738999", "type": "Subject1", "name": "Media Informatics"}
+{"id": "d7c9ec342396484e830d3d00a9461d7a", "type": "Subject1", "name": "Materials Science and Engineering"}
+{"id": "dcfce9d75d7c4ac594b28a8da7877bd1", "type": "Subject1", "name": "Child Psychology"}
+{"id": "5e61350d6579490bb225849952c71758", "type": "Subject1", "name": "Circuit Design and Analysis"}
+{"id": "fd5dfcafa8144e00af8ee0b7cefce6c3", "type": "Subject1", "name": "Service Management"}
+{"id": "ae4b4ea35fad41dfbf9df45110ee1b61", "type": "Subject1", "name": "Transportation Studies"}
+{"id": "0d3940ce657d440182f9a8b63779bfc7", "type": "Subject1", "name": "Anesthesiology"}
+{"id": "4121651ffa2f462fb45ff0a550b86711", "type": "Subject1", "name": "Visualizations"}
+{"id": "a15f818e209b42bf9a6fa5e3c5e04de7", "type": "Subject1", "name": "Higher Education"}
+{"id": "c81582edd7104d1c8cf476ebe3afc594", "type": "Subject1", "name": "Wood Science and Technology"}
+{"id": "f73be448d6654d9483ea9d44c1806ee3", "type": "Subject1", "name": "Memory Systems"}
+{"id": "5e294c713d6341f8b98e3ce6ff095455", "type": "Subject1", "name": "Computer Security"}
+{"id": "39528be86eec410f8cb37f27f687169a", "type": "Subject1", "name": "Human Resources Management"}
+{"id": "ae98705b41ed4093a8123683b624b9a7", "type": "Subject1", "name": "Fuzzy Systems"}
+{"id": "ff57ed73548346488864da2bfb222e2d", "type": "Subject1", "name": "Fatigue and Fracture Mechanics"}
+{"id": "96470f756d0942e9b2e1212bde50df21", "type": "Subject1", "name": "Wildfire and Forest Management"}
+{"id": "c34930b06985457ebe52a517fdc83ef0", "type": "Subject1", "name": "Disaster Recovery and Management"}
+{"id": "3b4a4a21cc804e2c94dd83949120ed09", "type": "Subject1", "name": "Energy and Power Engineering"}
+{"id": "20e4eaac840b4f988853fa14f57ec3e3", "type": "Subject1", "name": "Microelectronics"}
+{"id": "c9cce341919c446d9e18f634c024483d", "type": "Subject1", "name": "Pharmacy"}
+{"id": "dfd3dcb0edba4f828141ef0382986f09", "type": "Subject1", "name": "Medical Image Processing"}
+{"id": "e756f7bc5f4944ada233ad685001c31e", "type": "Subject1", "name": "Geography"}
+{"id": "36aba4a959ea4761863a5b77597c2280", "type": "Subject1", "name": "Neurophysiology"}
+{"id": "5d278947a1014a6e973f09b693c4997b", "type": "Subject1", "name": "Optoelectronics"}
+{"id": "97c0e4135d94462b9977f9b638f9d85c", "type": "Subject1", "name": "Scheduling Theory"}
+{"id": "286578bbebab492cace7de5602f2e193", "type": "Subject1", "name": "Transportation and Traffic Engineering"}
+{"id": "c509e656276a4c9a9fd5f5ab695be50c", "type": "Subject1", "name": "Health Disparities and Equity"}
+{"id": "28500172957b4fdd9967ad4853b05f89", "type": "Subject1", "name": "Musical Acoustics"}
+{"id": "4ab0d11bc95a4880841c444477f84970", "type": "Subject1", "name": "Toxicology"}
+{"id": "35a3329ea19c4041b150a788bfe411c1", "type": "Subject1", "name": "Accessibility and Human-Computer Interaction"}
+{"id": "e16a21dbbefa4fd48b597e132fb70eec", "type": "Subject1", "name": "Energy Harvesting"}
+{"id": "d6a15bc9d6c24e7db0946638a1260906", "type": "Subject1", "name": "Energy"}
+{"id": "4027fe2d3af541c095c7766873cd5d78", "type": "Subject1", "name": "Solid-State Electronics"}
+{"id": "e6ce5873c68647069c8cd7959357c3e5", "type": "Subject1", "name": "Electromechanical Engineering"}
+{"id": "183bf5d9170e4228bbba0a67d33ca11b", "type": "Subject1", "name": "Contemporary Art Studies"}
+{"id": "f7da2a180f8242b9bc10144c06aefc3f", "type": "Subject1", "name": "Automated Reasoning"}
+{"id": "8957e5a5e09d43e2946321169f72d56f", "type": "Subject1", "name": "Physical Activity and Exercise"}
+{"id": "0bffcf8792cc455580f4dd89e6c3dd36", "type": "Subject1", "name": "Game Development"}
+{"id": "7f11c4a7b7f84f3ba2bf9e45d47c0477", "type": "Subject1", "name": "Endocrinology and Diabetes"}
+{"id": "9df767b046a74bcdac56c8803a5d3c49", "type": "Subject1", "name": "Biomedical Informatics"}
+{"id": "22e364496bc34b56ac8f630d3469ec2f", "type": "Subject1", "name": "Web Technologies"}
+{"id": "bb44baf7cdcd4b9a9ff9d746a8a88973", "type": "Subject1", "name": "Social Impact and Policy Analysis"}
+{"id": "8207e3fd83104c2196691d85a0dc2ed4", "type": "Subject1", "name": "Speech and Natural Language Processing"}
+{"id": "39095e11ba68493f91432a669af48edf", "type": "Subject1", "name": "Biomechanics"}
+{"id": "c9bb08eb7ef24928a17b9f36344f48b2", "type": "Subject1", "name": "Sensory Processes"}
+{"id": "d81d9461f5584fe798035f94022f88d3", "type": "Subject1", "name": "Industrial Design"}
+{"id": "ee9af31e5d32492dad5132a3c1ac698a", "type": "Subject1", "name": "Pedagogy"}
+{"id": "dbdec6cd744245f5bf9c1a2e1afa046f", "type": "Subject1", "name": "Hardware and Systems"}
+{"id": "ca7fbe9064a24b2d8013ea43035124f2", "type": "Subject1", "name": "Semiotics"}
+{"id": "cf1ef25f1ed84fe69649301e4ec0798d", "type": "Subject1", "name": "Neural Networks and Dynamics"}
+{"id": "d60b50ce53774f9289f30e9f0e8625b1", "type": "Subject1", "name": "Geolocation"}
+{"id": "31c06e879adf4aa28f6e91113536dfb0", "type": "Subject1", "name": "Economics"}
+{"id": "a21e0bc51930436da00a2aa5a78e0a36", "type": "Subject1", "name": "Psycholinguistics"}
+{"id": "3023ecd6561246f3ae0a9d8d9d1213fb", "type": "Subject1", "name": "Statistical Physics"}
+{"id": "2928d8d6422c443ebb358a9e50b50427", "type": "Subject1", "name": "Concurrency and Parallelism"}
+{"id": "b9af693059b14dd3b4a96496590aa12a", "type": "Subject1", "name": "Transportation and Energy"}
+{"id": "fa8f26f47e214fc8b1555c68f3186172", "type": "Subject1", "name": "Healthcare Management and Policy"}
+{"id": "ad0bd68ccbea4d658572d1c9f45c2e8f", "type": "Subject1", "name": "Historiography"}
+{"id": "efa080b04d17489289b86db107af2258", "type": "Subject1", "name": "Disaster Response and Management"}
+{"id": "736fa7c283ea4d67af5f21fd06a41b82", "type": "Subject1", "name": "Neuroimaging"}
+{"id": "95b3111e0e6a4ddfbac110f00f00ec1e", "type": "Subject1", "name": "Logistics and Supply Chain"}
+{"id": "cb5822ca4c5840c7ac4622df488c4dae", "type": "Subject1", "name": "Discrete Optimization"}
+{"id": "d131a17960894fdb87954f625db6afa7", "type": "Subject1", "name": "Reproductive Medicine"}
+{"id": "b6f04964277d4efa87d4b9bc67f38997", "type": "Subject1", "name": "Performance and Efficiency"}
+{"id": "7fc840c62506420685663b856be81bbe", "type": "Subject1", "name": "Multimedia Information Retrieval"}
+{"id": "0f066967a62e47d19e8044392a0421e0", "type": "Subject1", "name": "Acoustic Psychology"}
+{"id": "8a2605cc40254af8af820a1dd2a6e3df", "type": "Subject1", "name": "Real Analysis"}
+{"id": "2065e850b0ad4c319699a38d485d7dd7", "type": "Subject1", "name": "Consumer Psychology"}
+{"id": "1ca9ddac78e943d8bea53375ceb24f52", "type": "Subject1", "name": "Mental Health"}
+{"id": "87f2d337f8c843aa8efbec203c0aa71f", "type": "Subject1", "name": "Design Studies"}
+{"id": "04f3a2667e824a6c936e1f443ca199df", "type": "Subject1", "name": "Urban Computing"}
+{"id": "6641548807b24cb6b7e4b33b1919eaea", "type": "Subject1", "name": "Indigenous Studies"}
+{"id": "cf28d43867624a929b12fc69dc99438b", "type": "Subject1", "name": "Electromagnetism"}
+{"id": "4234b5bf16064d078887314d3cbab5e6", "type": "Subject1", "name": "Structural Engineering"}
+{"id": "17190c222c1e4672adaa9681b1a5c0e0", "type": "Subject1", "name": "Organizational Studies"}
+{"id": "96f5f0734f2746359f63a56ccccd6f6e", "type": "Subject1", "name": "Sports Management"}
+{"id": "b17875c0adc0450497a6d5eacb771771", "type": "Subject1", "name": "Neural Networks and Evolutionary Computation"}
+{"id": "2a4ce485677f42a7bf21798182d25a6a", "type": "Subject1", "name": "Scientific Computing"}
+{"id": "e57ebc1a7dac47cd97efdfda1a5bd05f", "type": "Subject1", "name": "Endodontics"}
+{"id": "254ef6f208c647b9b45e37bde19a5957", "type": "Subject1", "name": "Inorganic Chemistry"}
+{"id": "9a2f16a597994a228142cb85caa6657d", "type": "Subject1", "name": "Philosophy of Mind"}
+{"id": "678d7010d30d4bfa87d26848dddb38cf", "type": "Subject1", "name": "Energy Efficiency"}
+{"id": "0f909aa9704c4387ab3df4bbe4304dd4", "type": "Subject1", "name": "Epidemiology and Modeling"}
+{"id": "3f829ef3ab794219883633f42c87d81f", "type": "Subject1", "name": "Radio Frequency and Microwave Engineering"}
+{"id": "2d60089d09c64e1f93b909e92bf024d6", "type": "Subject1", "name": "Social Media and Online Communities"}
+{"id": "b3f87cf0b4114316a7aac4172b6aae94", "type": "Subject1", "name": "Neural Networks and Learning Systems"}
+{"id": "87697c8f750342d98aef1b20bc415e93", "type": "Subject1", "name": "Wireless Communication"}
+{"id": "25ef19b13f4c4f8d93c2a2d422bff0e3", "type": "Subject1", "name": "Simulation and Modeling"}
+{"id": "cb394f7c531d42cabf7fe04b4616786f", "type": "Subject1", "name": "Business Information Systems"}
+{"id": "1a432caeb54b4b0f8ce445916704a646", "type": "Subject1", "name": "Sustainable Design"}
+{"id": "3cfd1a0b0d97486985ffe66fcc8ad476", "type": "Subject1", "name": "Pragmatics"}
+{"id": "dc256169aa3a47a08ab95966e8364561", "type": "Subject1", "name": "Connectomics"}
+{"id": "d561503d6fa446968f0c7ba37b77cd95", "type": "Subject1", "name": "Public Economics"}
+{"id": "ce0f357715b04b709b8e9263030c20f1", "type": "Subject1", "name": "Comparative Politics"}
+{"id": "3d2421e6ef3f4e309193fb148b5ef9b1", "type": "Subject1", "name": "Journalism and Media Studies"}
+{"id": "390ffac45a0044e08022095bbaa122fa", "type": "Subject1", "name": "Media Studies"}
+{"id": "9b91346c3ffd4c8aa67310ffe6dd6f30", "type": "Subject1", "name": "Social Stratification"}
+{"id": "79293b32bf914df7bcc9644c7eda0f06", "type": "Subject1", "name": "Network Analysis"}
+{"id": "cb34fbcb1b0e4d4f80e715f946d3caad", "type": "Subject1", "name": "Health Education"}
+{"id": "844897e6e4714e159156a7aa6af16bf3", "type": "Subject1", "name": "Administrative Law"}
+{"id": "e1d1467c96274ccab0ee85e122cb0d3e", "type": "Subject1", "name": "Pulmonary Medicine"}
+{"id": "371c2646fc04431c9a3cd92eea88c44d", "type": "Subject1", "name": "Urology"}
+{"id": "ba418fae7dc54da8a791ae7328063140", "type": "Subject1", "name": "Psychiatry"}
+{"id": "6ad6c4fbf9384127b6ffd7accfe5ddcc", "type": "Subject1", "name": "Child and Adolescent Psychology"}
+{"id": "e39c385752f24c9aa437e5393876cc3b", "type": "Subject1", "name": "Ocular Diseases"}
+{"id": "dc79fcdcb5af47db9f4f59698942c1a8", "type": "Subject1", "name": "Water Quality and Pollution"}
+{"id": "9e0c1bf5c01e40f9ad04a32ab4003de1", "type": "Subject1", "name": "Fractional Control"}
+{"id": "2bf5ddfca9d6403bb923b8c516408e4b", "type": "Subject1", "name": "Entrepreneurship"}
+{"id": "ef9d712e273a46c99a3a58998eba9a61", "type": "Subject1", "name": "Food Security and Production"}
+{"id": "be9e076f847542c6a09d17bc3dbc502c", "type": "Subject1", "name": "Perception and Motor Skills"}
+{"id": "19b98d0864c243b09bfc11b55979d3f7", "type": "Subject1", "name": "Political Science"}
+{"id": "8cbdea7e97394bfeb2fddd9c95a9ef7b", "type": "Subject1", "name": "Patient Portals and Health Outcomes"}
+{"id": "de9517d99dae47f39686243ba92dd638", "type": "Subject1", "name": "Radiology Informatics"}
+{"id": "3f0eaa852e57428a9bf194d4b31533f8", "type": "Subject1", "name": "Medical Biology"}
+{"id": "ea7879c4e07c4c6b832f449dc801d93f", "type": "Subject1", "name": "Fluid Dynamics"}
+{"id": "103797990ff34705a394c7a47e14d7ea", "type": "Subject1", "name": "Olfaction and Neurochemistry"}
+{"id": "3d9a27bc4ba64ea093c916d816c5d229", "type": "Subject1", "name": "Power Electronics"}
+{"id": "4e69c0c776e444629e6c142de942a2f5", "type": "Subject1", "name": "Graph Drawing"}
+{"id": "5d5173fd112e45a9a86b735e41723fd6", "type": "Subject1", "name": "Neural Systems and Circuits"}
+{"id": "7e07efa59b3e4d43a4b6751b56600a1d", "type": "Subject1", "name": "Knowledge Engineering"}
+{"id": "14cf7c75f58e4560a5f2c0fb29b57839", "type": "Subject1", "name": "Inverse Problems"}
+{"id": "fb0c9eb107f9427b98b9f9fd5313dc15", "type": "Subject1", "name": "Econometrics"}
+{"id": "4b692794653f449bbbff9b685a6eb95e", "type": "Subject1", "name": "Occupational Psychology"}
+{"id": "12162473625a460dac4963f1c33f4e3a", "type": "Subject1", "name": "Food Processing and Preservation"}
+{"id": "ec458be8d4ea473db390de801520be8c", "type": "Subject1", "name": "Material Science"}
+{"id": "93ddfab038364043b4a2c3afd7a6739d", "type": "Subject1", "name": "Radiation Therapy Physics"}
+{"id": "a51ffffc133046c1ab27874e96a57614", "type": "Subject1", "name": "Radiotherapy Physics"}
+{"id": "b9d856a784284315af3422f3485de6fd", "type": "Subject1", "name": "Communication and Networking"}
+{"id": "91b1e77b209546779f7c9a04d1ef2cb0", "type": "Subject1", "name": "Financial Services"}
+{"id": "fec445037fc242f98908d757139b00d5", "type": "Subject1", "name": "Dental Engineering"}
+{"id": "1e0deaa1417440728f991ed3c9972cc4", "type": "Subject1", "name": "High Energy Physics"}
+{"id": "853efee25971431a95edb40749ccbdb8", "type": "Subject1", "name": "Social Media Studies"}
+{"id": "d10ea6155f6d4772b2cd7561f8300dbe", "type": "Subject1", "name": "Condensed Matter Physics"}
+{"id": "f75af8d043514c61a3f4437cb111b190", "type": "Subject1", "name": "Medicinal Chemistry"}
+{"id": "37adf682abe24239afba06515895e26c", "type": "Subject1", "name": "Deep Learning"}
+{"id": "4b10abf389094e248cbe9a6a6cc31c0d", "type": "Subject1", "name": "Virtual & Augmented Reality"}
+{"id": "429f49afc6db439cbf1007cfcf0385af", "type": "Subject1", "name": "Technology Studies"}
+{"id": "1e3e56330cb24c74b3a67596d0e3b19b", "type": "Subject1", "name": "Image and Video Processing"}
+{"id": "c53c2ddce1a444ac815d8ca8742100e9", "type": "Subject1", "name": "Instrumentation"}
+{"id": "986555ff9f9e481f8e9eeb0594ea3335", "type": "Subject1", "name": "Optics"}
+{"id": "b1bfb4611bac49d98c22d165d4849bbd", "type": "Subject1", "name": "Data Mining and Knowledge Discovery"}
+{"id": "d17542f6305948c3bc18aed7cb3f5301", "type": "Subject1", "name": "Radio Frequency Identification (RFID)"}
+{"id": "b0012593c1e04b5ab58e3f099af8d220", "type": "Subject1", "name": "Cardiovascular Engineering"}
+{"id": "5fb61ccb75a34a78986378ef692938f2", "type": "Subject1", "name": "Search Algorithms"}
+{"id": "c2aac24dde1141e7a1bfdbc9c11e7fee", "type": "Subject1", "name": "Legal Practice and Procedures"}
+{"id": "705e87ad04334672b68cc1de3ae9201b", "type": "Subject1", "name": "Phonetics and Phonology"}
+{"id": "2c7787431c5243c79e674858e536d3f6", "type": "Subject1", "name": "Geology"}
+{"id": "7242925f13334ae2b8683864e8697699", "type": "Subject1", "name": "Social Policy"}
+{"id": "4416a88a2d934f2db52fceeffaa54b64", "type": "Subject1", "name": "Environmental Impact Assessment"}
+{"id": "f1ed855352ea45aca906283d01408cf5", "type": "Subject1", "name": "Quantile Estimation"}
+{"id": "1b953adb701a4ae48f0c3039c1081112", "type": "Subject1", "name": "Syntax and Semantics"}
+{"id": "2c69ce6008eb4b0a98e660be51065ef2", "type": "Subject1", "name": "Sensory Perception"}
+{"id": "b9116e50e2f343f98808ec070f58c58a", "type": "Subject1", "name": "Computational Social Science"}
+{"id": "3ca37a7fd9e44ecb90f4c501d2d44210", "type": "Subject1", "name": "Resource Management"}
+{"id": "b3d2ed8592af4bb098aa7b0ce1e3704f", "type": "Subject1", "name": "Irrigation Engineering"}
+{"id": "1b8272ecafee4c5383f7cf3607184b3a", "type": "Subject1", "name": "Maternal and Child Health"}
+{"id": "6b30bd187ee64477a2bb7d337463db35", "type": "Subject1", "name": "Integrated Circuit Engineering"}
+{"id": "449eb12f9571440fbca9613947fa794f", "type": "Subject1", "name": "Oral and Maxillofacial Surgery"}
+{"id": "33feac55b9c14d3a99b2cd237f3141c4", "type": "Subject1", "name": "Aerospace Engineering"}
+{"id": "3f897752ad8b499895a2c72400fd2755", "type": "Subject1", "name": "Unmanned Aerial Vehicles"}
+{"id": "14192c2625a24ab5b98b7f0c1865fc20", "type": "Subject1", "name": "Aerial Robotics and Computer Vision"}
+{"id": "cec86766f45346668281be9101632bdb", "type": "Subject1", "name": "Forensic Dentistry"}
+{"id": "ddc24cdd4a874ace8891adce1f7b73cc", "type": "Subject1", "name": "Contract Law"}
+{"id": "805e39a34e8348a4be2f8585a66ecc8d", "type": "Subject1", "name": "Corporate Finance and Economics"}
+{"id": "6e36b7ec136f4792b607c7da1fb4bb40", "type": "Subject1", "name": "Energy Computing"}
+{"id": "bba2ca1a7f2c4d23bba115a5f540d0f8", "type": "Subject1", "name": "Neuroscience and Cognitive Engineering"}
+{"id": "ff7dde5ee5ea43dfb974f8c1cd9d9c97", "type": "Subject1", "name": "Strategic Management"}
+{"id": "7202336e42934d69ba3a7ee4569de727", "type": "Subject1", "name": "Micrometeorology"}
+{"id": "7a2b6a3a2b174c3382a1b93221230ef5", "type": "Subject1", "name": "Plant Biology"}
+{"id": "75efc8895b53464fa83d9d6ee192f037", "type": "Subject1", "name": "Multisensory Interaction"}
+{"id": "4db46555ea3b464ab0aec82064833dda", "type": "Subject1", "name": "Electrochemistry"}
+{"id": "6720bcfc8ffb49fba8f5219d80ff3e60", "type": "Subject1", "name": "Vocational Education"}
+{"id": "33e30d98c70940759f65588b376d58cd", "type": "Subject1", "name": "Cognitive Neuroscience"}
+{"id": "990a3ea765c24d9eae9f8be05e17648c", "type": "Subject1", "name": "Visual Arts"}
+{"id": "cefe7d53d1d34edd8cd2848168ecd68e", "type": "Subject1", "name": "Public Sector and Public Policy"}
+{"id": "feaa4436a03748f9b72998f278202f2d", "type": "Subject1", "name": "Astrophysics"}
+{"id": "ace55216cab7406480d0a23d85408b36", "type": "Subject1", "name": "Ethnomusicology"}
+{"id": "5a2d9446596742298326602e96d18b76", "type": "Subject1", "name": "Statistics"}
+{"id": "0712fab167ef4b779e255afdc90324a9", "type": "Subject1", "name": "Water Resources Engineering"}
+{"id": "2fd7ff73cc6a430299d3131724a3ead1", "type": "Subject1", "name": "Visual Communication"}
+{"id": "6953018cafcc433c980713dc74b00278", "type": "Subject1", "name": "Accessibility and User Experience"}
+{"id": "94b87bdb484f40febc06b15de941a106", "type": "Subject1", "name": "Remote Sensing and Geoinformatics"}
+{"id": "26f0849a2ba5469eaf7eb0237d13d198", "type": "Subject1", "name": "Neural Dynamics"}
+{"id": "94caea13d3f14052a930ee2d229e49ed", "type": "Subject1", "name": "Digital Humanities"}
+{"id": "7facbbb64896456a9ef12f37cf272a7d", "type": "Subject1", "name": "Motor Design and Control"}
+{"id": "5170a0f52c184e22adfa9f5677f757c2", "type": "Subject1", "name": "Electrical and Computer Engineering"}
+{"id": "6b1d0e9363ba48d291dd844569259f09", "type": "Subject1", "name": "Oncohematology"}
+{"id": "eee43adc23824d1ebfd0d1730864ab19", "type": "Subject1", "name": "Dentistry"}
+{"id": "87ed3fb378e74408a2467b6bd8db17c6", "type": "Subject1", "name": "High Performance Computing"}
+{"id": "9b1dbeaa32b2460083cfe59719f80f7c", "type": "Subject1", "name": "Rotating Machinery"}
+{"id": "8be2792bb9c14215b68ffc3c3d290bb6", "type": "Subject1", "name": "Perception and Cognition"}
+{"id": "29c40a614a5649ad90fe982f2094a299", "type": "Subject1", "name": "Respiratory Medicine"}
+{"id": "37068cc4f08d40dabb268834d7287d24", "type": "Subject1", "name": "Critical Care Nursing"}
+{"id": "f6e52a9a33314486a581a16d6c9ac204", "type": "Subject1", "name": "Physiology"}
+{"id": "315e07f959a04cecac059bcacef6baa5", "type": "Subject1", "name": "Orthopedics"}
+{"id": "5b9c1aad764c4411b9372caa302bef2f", "type": "Subject1", "name": "Technical Communication"}
+{"id": "66cb99be097d472299f0f7632d2733ea", "type": "Subject1", "name": "Agricultural Engineering"}
+{"id": "48370f51dab2452992d625d126a5d1ec", "type": "Subject1", "name": "Accessibility and Inclusive Design"}
+{"id": "9bf549b1ab374f1a9b58c87fd0a64e01", "type": "Subject1", "name": "Physical Therapy and Rehabilitation"}
+{"id": "6c558ed90b39484da00dbb9a5a2cce91", "type": "Subject1", "name": "Health Applications and Mobile Health"}
+{"id": "1857f151e20d4c4a8a6c540af6bde58b", "type": "Subject1", "name": "Smart Grid and Distributed Energy Resources"}
+{"id": "52873eba3c234e5698d090d58299c018", "type": "Subject1", "name": "Biological and Biochemical Engineering"}
+{"id": "9345261691814534bdad853effbea7c8", "type": "Subject1", "name": "Solid State Physics"}
+{"id": "eaab086f42e1429d9e7d703c6beb40e3", "type": "Subject1", "name": "Data Security and Privacy"}
+{"id": "ba21bc05a4e24d3c834506c3ff1d34d7", "type": "Subject1", "name": "Atmospheric and Oceanic Science"}
+{"id": "bd991cb2b8714dcba9e66b67055383a9", "type": "Subject1", "name": "Sociolinguistics"}
+{"id": "04e69081ead145e79e6a6a2365b73c26", "type": "Subject1", "name": "Thermal Engineering"}
+{"id": "537eb7be1f8b45ff8a0f574b9009198f", "type": "Subject1", "name": "Biostatistics"}
+{"id": "7d5234347bc74d768e3813877c30e10c", "type": "Subject1", "name": "Virtual Reality and Simulation"}
+{"id": "9fb7629e1cca4212a44efca69b1b1292", "type": "Subject1", "name": "Pattern Recognition and Machine Learning"}
+{"id": "41001e9490744850bdd56c54e1b8e92f", "type": "Subject1", "name": "Genetics and Epigenetics"}
+{"id": "924cdf8be90743c3b2a8e68ff97fb516", "type": "Subject1", "name": "Bayesian Statistics"}
+{"id": "8604baf854d7402b8e19bd4ffff8e9e9", "type": "Subject1", "name": "Logic and Computation"}
+{"id": "845ab426def1498daff45b22c594be5e", "type": "Subject1", "name": "VLSI and Circuits"}
+{"id": "3805a12f32d94587aa34e86916e68432", "type": "Subject1", "name": "Digital Currency"}
+{"id": "a6ff8569a84a45528203bbaaa1ff544b", "type": "Subject1", "name": "Advanced Materials"}
+{"id": "2442e1981e8f45fa8ab004d8573ddc85", "type": "Subject1", "name": "Economic Sociology"}
+{"id": "deca87962cd846f9bd285a89a9a62ca3", "type": "Subject1", "name": "Infrastructure Management"}
+{"id": "13b143f50b7c4c81811dded69bc982f9", "type": "Subject1", "name": "Evolutionary Biology"}
+{"id": "0e4e209cfaaf431da34a709caf1e27d3", "type": "Subject1", "name": "Emotional Psychology"}
+{"id": "44726e0bdc40484ba6d9a7ae3874d550", "type": "Subject1", "name": "Building Information Modeling (BIM)"}
+{"id": "5ea2efd99bce48609dd6da32ea038a23", "type": "Subject1", "name": "Nano Materials"}
+{"id": "e6aef2a0cf7d4a5e9e10c53fe1d3df6f", "type": "Subject1", "name": "Wildlife Conservation"}
+{"id": "bfd27a98cefe4a18bacb6ba9b0c9987b", "type": "Subject1", "name": "Epilepsy"}
+{"id": "b822cc3428904f6dabca9c8b0d56df7a", "type": "Subject1", "name": "Usability Studies"}
+{"id": "49cf0b24d4424fac8115ac23d4e87a9b", "type": "Subject1", "name": "Energy and Computing"}
+{"id": "59440bc59cd64787bb2b37c2d9d3a3f4", "type": "Subject1", "name": "Audiology"}
+{"id": "df1e97d841bc4fc0806d7b5820fd7a9a", "type": "Subject1", "name": "Palaeontology"}
+{"id": "60bef2604dfc44f9aa914a08db5477b8", "type": "Subject1", "name": "Hardware Security"}
+{"id": "2bc12d0de0404436a000b94f5ee4655b", "type": "Subject1", "name": "Public Discourse and Misinformation"}
+{"id": "02e61ae1b8ea4d6a92e05949d97ec9b0", "type": "Subject1", "name": "Disinformation Studies"}
+{"id": "54b3d60ac9be4ed6a9041ba39586d70f", "type": "Subject1", "name": "Digital Media and Information Literacy"}
+{"id": "155f5b68675e4328a5eaa10482fdd3e3", "type": "Subject1", "name": "Additive Manufacturing"}
+{"id": "d89020920014482da557153f2bf9b3a9", "type": "Subject1", "name": "Accessibility and Usability"}
+{"id": "9ca0ac580a624d32bc4d0ef4c76fe1d3", "type": "Subject1", "name": "Industrial & Organizational Psychology"}
+{"id": "4dcf382702384b0aaa45f388744d5738", "type": "Subject1", "name": "Structural Mechanics"}
+{"id": "0ccc4a8e377f4c94ae52ddad11103e7b", "type": "Subject1", "name": "Addiction"}
+{"id": "69f26071b19a4709a8b64075488a110b", "type": "Subject1", "name": "Bioinformatics and Computational Biology"}
+{"id": "b4b21d3bff284417b684b0d8d81d3b32", "type": "Subject1", "name": "Digital Libraries"}
+{"id": "b6002cf408ad49b79535988436b60eac", "type": "Subject1", "name": "File Systems"}
+{"id": "f779576dc59a4220b5b2cde03118421a", "type": "Subject1", "name": "Statistics and Data Analysis"}
+{"id": "d1d0f838f75145a7863538cdade54624", "type": "Subject1", "name": "Environmental Biology"}
+{"id": "0d9c2d18f0e242d1b06a0d09e4b80db2", "type": "Subject1", "name": "Analog and Mixed-Signal Circuits"}
+{"id": "a7f48d750b884e88a641115e4f492e5a", "type": "Subject1", "name": "Virtual and Augmented Reality"}
+{"id": "a5cc54120c5a4c2fa3536b8ed4ce9e2c", "type": "Subject1", "name": "Circuit Theory"}
+{"id": "ef0e6d1c350241f8bd1dbb4a950ff1a9", "type": "Subject1", "name": "Speech Acoustics"}
+{"id": "e5fc1312e6ab415b9212e2c5e81d4b71", "type": "Subject1", "name": "Social Media and Information Spread"}
+{"id": "bf132de425b74aa88a8740f047156427", "type": "Subject1", "name": "Legal Informatics"}
+{"id": "2e695c596c4146ea83b5a9e6b06f1fe4", "type": "Subject1", "name": "Human-Computer Interaction (HCI)"}
+{"id": "c9143a9df74c45a89719bb417821b5c3", "type": "Subject1", "name": "Design Engineering"}
+{"id": "de37786e9a7b468d8a25eb4ce82419de", "type": "Subject1", "name": "Antenna and Propagation"}
+{"id": "7e577c0865fb45c6abed2d340e4b4610", "type": "Subject1", "name": "Game Design and Development"}
+{"id": "8203e78fdf2a401cb28e0d1d75298fbf", "type": "Subject1", "name": "Decision Support and Data Science"}
+{"id": "1ce424c804b14632b0bd4e3ae4a944f1", "type": "Subject1", "name": " Embedded Systems"}
+{"id": "2f42231ba806473fa5abbcc250b09049", "type": "Subject1", "name": "Virtual Reality and Augmented Reality"}
+{"id": "14a0e383e64346279749f5ead269c74e", "type": "Subject1", "name": "Environmental Modeling"}
+{"id": "4bfe7fe70068441c96405b082948a4d4", "type": "Subject1", "name": "Energy and Environmental Computing"}
+{"id": "b2848d8c83534d0f91b7ef652aa17fbd", "type": "Subject1", "name": "Radar and Sonar Systems"}
+{"id": "bdcff1f8f335447eb6a5d710be56d37b", "type": "Subject1", "name": "Animal Science"}
+{"id": "65d38f6e544845b49704ae4812c55a97", "type": "Subject1", "name": "Geoecology"}
+{"id": "c2838f31eef84eb7a19f8fc02bc23a95", "type": "Subject1", "name": "Automated Driving"}
+{"id": "a6860a544f894f67bf7b831977cc134c", "type": "Subject1", "name": "VLSI and Embedded Systems"}
+{"id": "87c2ccfa97c94246b69b5a12a0b7901f", "type": "Subject1", "name": "Social Media"}
+{"id": "52bec92398fa4ccc81aba9c592745de7", "type": "Subject1", "name": "E-Government"}
+{"id": "e9bc4666412742b7b0cdd0acbdf59e47", "type": "Subject1", "name": "Fluid Mechanics"}
+{"id": "8c43919a147248a69bef88297fc94cf3", "type": "Subject1", "name": "Woven Textiles Manufacturing"}
+{"id": "99499398325e48b2ba4b73ce72bf5098", "type": "Subject1", "name": "Linguistic Anthropology"}
+{"id": "73f2fc016c3b403f9e7c86baf3f7960f", "type": "Subject1", "name": "Wildfire Science"}
+{"id": "097c395825b949699f6ecf838faa053d", "type": "Subject1", "name": "Safety Engineering"}
+{"id": "a55228fb53364d1b905aad70cb096b9a", "type": "Subject1", "name": "Acoustic Signal Processing"}
+{"id": "a2eb49873c9a43bf97a8cc775bb5437a", "type": "Subject1", "name": "Health Sciences"}
+{"id": "09196acd6cea4b0fbc0a47a7037820b7", "type": "Subject1", "name": "Computer Networking"}
+{"id": "580c6c7e13494a3eaf38e1f96251c612", "type": "Subject1", "name": "Memory and Storage"}
+{"id": "b96c17f83eae4d6889634800b4948c79", "type": "Subject1", "name": "Memory Technologies"}
+{"id": "b979f5c699d649a1be279fae5004ccb3", "type": "Subject1", "name": "Medical Education"}
+{"id": "558d0c570c9b4f3ab9d1d5201c82ae1b", "type": "Subject1", "name": "Inference"}
+{"id": "559265870aff4fe2ac013bac95c7c1f1", "type": "Subject1", "name": "Linguistics and Language Teaching"}
+{"id": "854571172bc749ee92c09e59f9d3a80c", "type": "Subject1", "name": "Radar Technology"}
+{"id": "f28f79fe5b434ebfad51cabc29e938fe", "type": "Subject1", "name": "Acoustics and Noise"}
+{"id": "c1d2de696e7e4202ab2740f2eb6236e2", "type": "Subject1", "name": "Number Theory"}
+{"id": "c563af4eae7b4ca49313a311da5a2857", "type": "Subject1", "name": "Wireless and Mobile Networks"}
+{"id": "0a3f7769f7614a75874e40146e4d5928", "type": "Subject1", "name": "Organic Chemistry"}
+{"id": "37ab6bf672754148b39a36c58e8ecfb1", "type": "Subject1", "name": "Technology and Innovation Studies"}
+{"id": "e4922dd1e1bf48e598fbb47e5a6334c2", "type": "Subject1", "name": "Crop Science"}
+{"id": "71d018c5e1f0489ca226bbdfaecf63ca", "type": "Subject1", "name": "Energy and Climate Change"}
+{"id": "5669a8ec2626476b8165c5ae5431686f", "type": "Subject1", "name": "Neural Computation"}
+{"id": "82976aa611ca4192ae2ea6b90099426c", "type": "Subject1", "name": "Environmental Informatics"}
+{"id": "c5586bf8a23842bb83bfc5ba8cdbbe3d", "type": "Subject1", "name": "Quantum Physics"}
+{"id": "b3acc085399243d4895ed03c975ac883", "type": "Subject1", "name": "Energy and Buildings"}
+{"id": "99f45414dbaa4423a63d47ee56a30529", "type": "Subject1", "name": "Building Energy Management"}
+{"id": "e03040dc6b0741a7944f5050ef1efb75", "type": "Subject1", "name": "Social Movements"}
+{"id": "af4aa7d1ecb54cfb9aec78a73d1ef10c", "type": "Subject1", "name": "Data Centers"}
+{"id": "e65f57f12d034be2ae479469722c8882", "type": "Subject1", "name": "Electrical Engineering and Computer Science"}
+{"id": "8774f76065a446adb9083fcdab97589b", "type": "Subject1", "name": "Dietary Impact Studies"}
+{"id": "7a34866408d440efab267e38cb97acf7", "type": "Subject1", "name": "Genomics and Molecular Biology"}
+{"id": "b7d7f267a5e141aaa87c53f42319df25", "type": "Subject1", "name": "Political Ideology and Theory"}
+{"id": "179f27b3685c43ce954a5c81bfc0f26a", "type": "Subject1", "name": "Film Preservation"}
+{"id": "15e01f97b45541efbaeb0b0ed3ab8b7b", "type": "Subject1", "name": "Comparative Education"}
+{"id": "2b558d749f094e94ac3dff979cb82e29", "type": "Subject1", "name": "Data Center and Cloud Computing"}
+{"id": "2b71d85d52484cea86856d4a53aeb050", "type": "Subject1", "name": "Ophthalmology and Visual Sciences"}
+{"id": "e24805f68f4f4a108b2d3fea53e93ee4", "type": "Subject1", "name": "Animal Behavior"}
+{"id": "0c218b81d24048d2aff6f25c849e5fd6", "type": "Subject1", "name": "Video Processing and Analysis"}
+{"id": "f9ac0a83dd5842898ceac10f9ef0ef25", "type": "Subject1", "name": "Genomics and Genetics"}
+{"id": "ceb9fe4f310b4ecaa0e1f6892352e5ae", "type": "Subject1", "name": "Marine Engineering"}
+{"id": "9d8beebf3e8c43b286c71dd30db6d6f9", "type": "Subject1", "name": "E-commerce and Electronic Commerce"}
+{"id": "7fee4bfc4bbc4f959aa678e48d8d2dbb", "type": "Subject1", "name": "Business Intelligence"}
+{"id": "8a49a9566e4f4c70ac6867da776707b5", "type": "Subject1", "name": "Pharmaceutical Sciences"}
+{"id": "25ea64617fa84f289bb96321bd059840", "type": "Subject1", "name": "Distributed, Parallel, and Cluster Computing"}
+{"id": "1f21e68004074708990ff29022cfaf79", "type": "Subject1", "name": "Smart Materials"}
+{"id": "fa479586ce3b4723b1776fea0713ca0e", "type": "Subject1", "name": "Tourism Studies"}
+{"id": "13636d35c69c41d7b9454676557f65f2", "type": "Subject1", "name": "Postharvest Technology"}
+{"id": "7e1faa9281034184bdf45af1c08ac313", "type": "Subject1", "name": "Food Science and Technology"}
+{"id": "c0d0fa2dc7264aec89470e4b79d78426", "type": "Subject1", "name": "Biophysics"}
+{"id": "c581f0922c9d46358350e2680c497f8a", "type": "Subject1", "name": "String Processing"}
+{"id": "ad0f6c142ae24a0c8d3690b596504e1b", "type": "Subject1", "name": "Fiction and Literary Theory"}
+{"id": "c25b6145b33346999fdf209151987d94", "type": "Subject1", "name": "Virtual Reality and Immersive Technologies"}
+{"id": "b570dd9521e84f8484d055f29ea1844a", "type": "Subject1", "name": "Audio and Acoustics"}
+{"id": "1b0e0bbe49624b8f96f66f9ddc06587b", "type": "Subject1", "name": "Urban and Regional Planning"}
+{"id": "a7d041088c8f4e31a0f7453f59078152", "type": "Subject1", "name": "Social Structure and Organization"}
+{"id": "dadefc453d874765bbe40d0f0cc60b25", "type": "Subject1", "name": "Mathematical Software"}
+{"id": "e58a59bf6d9c434c8b4bab373e12042d", "type": "Subject1", "name": "Academic Writing"}
+{"id": "3c9db17ea20b446dad602b2b12017267", "type": "Subject1", "name": "Cognitive Science and Artificial Intelligence"}
+{"id": "533c222227e648319e0621ee47bc30b1", "type": "Subject1", "name": "Intelligent Transportation Systems"}
+{"id": "56991947a8d046dd95e7a0366ccab687", "type": "Subject1", "name": "Psychotherapy and Pharmacology"}
+{"id": "d0ab238ceca04e82813575aedbfa5c6d", "type": "Subject1", "name": "Building Engineering"}
+{"id": "2fc6ee6ae17d473ca24c4e5e04770ba5", "type": "Subject1", "name": "Augmented Reality"}
+{"id": "939a477cd3704a5eb32b82ab53bd4c27", "type": "Subject1", "name": "Urban and Regional Transportation Planning"}
+{"id": "54bb4fca5e70433ebc6edb6f22b43fd4", "type": "Subject1", "name": "Visual Perception"}
+{"id": "f56e94d1c2db42a5800bc2be4d4eaedc", "type": "Subject1", "name": "Information Quality"}
+{"id": "72c8c0b370904cb6a9b4ebcae6ef0dad", "type": "Subject1", "name": "Acoustics and Audio Engineering"}
+{"id": "43126d26ca794060af81d3cf3b756d67", "type": "Subject1", "name": "Speech and Language Development"}
+{"id": "dc6578cb4a3d4faebfcd6d56891d3253", "type": "Subject1", "name": "Neural Networks and Brain Connectivity"}
+{"id": "3f7d431ab3d84e1ab5b0685aead6700c", "type": "Subject1", "name": "Sign Language Studies"}
+{"id": "00b46c23e6094c4fa6d2c8fb88567bae", "type": "Subject1", "name": "Music and Audio Systems"}
+{"id": "22fda5042e024f259b3cdaff10f9346e", "type": "Subject1", "name": "Religious Philosophy"}
+{"id": "4ceeeb1060c445a2a0b49d3e895a6703", "type": "Subject1", "name": "Literary Theory"}
+{"id": "5fe8079a915f41dd964c23448461bfba", "type": "Subject1", "name": "Linguistics and Language Acquisition"}
+{"id": "e099b4f644b94961a5a7729a7b4ce605", "type": "Subject1", "name": "Quantum Mechanics"}
+{"id": "28ace0df4d6740d59e2bbf6fdd55e9b4", "type": "Subject1", "name": "Decision Support and Scheduling"}
+{"id": "7e28c4a75154493c9ac28d9b197d53c7", "type": "Subject1", "name": "Internet of Things"}
+{"id": "adce5107568a4b82a8e510b9a753f7a3", "type": "Subject1", "name": "Speech Therapy"}
+{"id": "4d4041d46254490cbf0494d235596010", "type": "Subject1", "name": "Accessibility and Assistive Technologies"}
+{"id": "51dc108e8add41e6ba607f0a218b5d45", "type": "Subject1", "name": "Statistics and Probability"}
+{"id": "7e49da8f521a462bb12b21206e3f412e", "type": "Subject1", "name": "Public Health Policy"}
+{"id": "cc97a1c5a00d4120b2a4b483a522ab3f", "type": "Subject1", "name": "Microwave and Millimeter-Wave Engineering"}
+{"id": "204ab6c5e5934cb2b5c3b474d46c4053", "type": "Subject1", "name": "Development Studies"}
+{"id": "c25cc845d33b4e64a2e3c9887a3d7799", "type": "Subject1", "name": "Satellite Communication"}
+{"id": "27d30c7ea93344498702a0b1e260fcf7", "type": "Subject1", "name": "Motivation and Emotion"}
+{"id": "f2d825ad754849b49529629ea771f8ac", "type": "Subject1", "name": "Decision Theory"}
+{"id": "b7b4b390b08242668d0b33655a1095da", "type": "Subject1", "name": "Apparel Design and Technology"}
+{"id": "2863ffd370774954b9b4a2d4cb222193", "type": "Subject1", "name": "Communication and Language"}
+{"id": "5d7e72d2e7c64cb5a91b5837333e1ffc", "type": "Subject1", "name": "Automata and Formal Languages"}
+{"id": "ad458ea0e1d440f0a01acf398b14e6fd", "type": "Subject1", "name": "Human-Environment Interaction"}
+{"id": "86a4bdb52e5b43e695d114884a9d4131", "type": "Subject1", "name": "Atmospheric Chemistry and Physics"}
+{"id": "46ba19640df746fca838aa59aa82f44c", "type": "Subject1", "name": "Theoretical Physics"}
+{"id": "f126b3f426fe4ec2b6ad903adae2e0a6", "type": "Subject1", "name": "Differential Equations"}
+{"id": "81ee774240e54ea79ae0b245547a16e0", "type": "Subject1", "name": "Corporate Finance"}
+{"id": "3b67f4ad6a5f4652a97504913a92036d", "type": "Subject1", "name": "Archaeology"}
+{"id": "44591fea1537412c8b72d463b51d2c50", "type": "Subject1", "name": "Adult and Continuing Education"}
+{"id": "2519a39b7547402a953f5b717a9bcfa2", "type": "Subject1", "name": "Antennas and Propagation"}
+{"id": "ec2291fb4f3b42ba9ea59104d4ba8f25", "type": "Subject1", "name": "Digital Logic and Computer Design"}
+{"id": "f5f968f581f14e478b43b3ab29730821", "type": "Subject1", "name": "Social Medicine"}
+{"id": "7d7d35ffec354f6f9104bf1ab57789f4", "type": "Subject1", "name": "Data Storage"}
+{"id": "a57e3d782da74a5fa342e5fa6509f929", "type": "Subject1", "name": "Conservation Biology"}
+{"id": "deafdb99f442424ebb9525386ea19dab", "type": "Subject1", "name": "Engineering Education"}
+{"id": "a244ef802c3a4209a8b0838b8985d5b7", "type": "Subject1", "name": "Climate Science"}
+{"id": "c465eeefcc4447f7a0387d45271d0cac", "type": "Subject1", "name": "Solid Waste Management"}
+{"id": "26672beac66a470796b4b5a00dcd68a1", "type": "Subject1", "name": "Rehabilitation Medicine"}
+{"id": "e70917cf4d7948a0be532182aefba372", "type": "Subject1", "name": "Energy Storage Systems"}
+{"id": "db0bf36eefd54ab2b7350c9f84174405", "type": "Subject1", "name": "Atmospheric Chemistry"}
+{"id": "668ce4c5b1114a96bac3af56a8fe1c40", "type": "Subject1", "name": "Well Logging and Drilling"}
+{"id": "894603064c3649f08d5f42b510dd3ded", "type": "Subject1", "name": "Semiconductor Engineering"}
+{"id": "35a16feeec454d468ed1ff20782b8c85", "type": "Subject1", "name": "Integrated Circuits"}
+{"id": "39c8da6537a84f6da7c0a46fad1f093a", "type": "Subject1", "name": "Reliability Engineering"}
+{"id": "1d7771ebb26f4ffdb1bd14b7b467273d", "type": "Subject1", "name": "Pharmaceutical Development and Manufacturing"}
+{"id": "aa145faf0d674c66aadf0c11dfe71861", "type": "Subject1", "name": "Patient-Centered Design"}
+{"id": "9fc0f6d63d214c57aa9ac32057df5427", "type": "Subject1", "name": "Medical Engineering"}
+{"id": "d2d00ea7a4ac424e8229070da7ab6ddc", "type": "Subject1", "name": "Gender Studies"}
+{"id": "ec4dac690d3e4cba994b7e22a2d4ee1e", "type": "Subject1", "name": "Genomics and Systems Biology"}
+{"id": "5c7ba3694e4041cea7ba111992071c7d", "type": "Subject1", "name": "Data Compression"}
+{"id": "a4be497d74194d9695af276448035914", "type": "Subject1", "name": "Linear Models"}
+{"id": "8dc746b2d8e94549b87d139a79b979df", "type": "Subject1", "name": "Analytical Chemistry"}
+{"id": "48d4b94471d942f390bb0062cc882c28", "type": "Subject1", "name": "Social Inequality and Stratification"}
+{"id": "75bdbd0e0abd4cc2bac6f411c7320c3b", "type": "Subject1", "name": "Biogeochemistry"}
+{"id": "7685408a0ff8455592a701c496c6a4d9", "type": "Subject1", "name": "Pattern Formation and Dynamics"}
+{"id": "2ddc8457845f43518afa8074a4dabebc", "type": "Subject1", "name": "Energy Consumption Analysis"}
+{"id": "d1ffb04431594489a4f10d77594ca65a", "type": "Subject1", "name": "Data Analysis"}
+{"id": "b58f36a223e249758c0b0545e43a6bee", "type": "Subject1", "name": "Sustainable Finance"}
+{"id": "82bc0dc5abcd476eb8720afc9e9393e2", "type": "Subject1", "name": "Medicine"}
+{"id": "a5efc889281540b19da04d99ec507828", "type": "Subject1", "name": "Nanomaterials"}
+{"id": "e7fa105819b04d2d9fd11be9f2cfec3f", "type": "Subject1", "name": "Metallurgy and Materials Engineering"}
+{"id": "2ef46d8a2bc34aa5a7815f9c6ea883b6", "type": "Subject1", "name": "Geochemistry"}
+{"id": "8a316b82699345c99752e4e8e4ee412b", "type": "Subject1", "name": "Legal History"}
+{"id": "0205fd5ab11343d8b65f12522b6234a9", "type": "Subject1", "name": "Social and Behavioral Education"}
+{"id": "258bab98422844d8b59612edde35411c", "type": "Subject1", "name": "Ontology"}
+{"id": "f62a6995c72c48eb9a1c6e265c000534", "type": "Subject1", "name": "Computational Engineering"}
+{"id": "3342420b0e134e99801849aff7478831", "type": "Subject1", "name": "Customer Relationship Management"}
+{"id": "c4ec2c4e3cfe44799ba2ac0edc57aad2", "type": "Subject1", "name": "Population Genetics"}
+{"id": "cf17d3e4b9124b2db03afa347166a018", "type": "Subject1", "name": "Medical Oncology"}
+{"id": "9e4f157f9d6d40e4a48bddcc43f7d728", "type": "Subject1", "name": "Energy Engineering"}
+{"id": "2d9da8f9cd5349c8b7a285e529bc554c", "type": "Subject1", "name": "E-commerce and Online Marketplaces"}
+{"id": "cf3dfd2b8858467f9c56a18a65abc3fa", "type": "Subject1", "name": "Perceptual Psychology"}
+{"id": "db54554ebbbf4cee87a3b20f38d34e6f", "type": "Subject1", "name": "Aerodynamics and Fluid Dynamics"}
+{"id": "990ffb824aa5466380dba1021e8056c3", "type": "Subject1", "name": "Nuclear Physics"}
+{"id": "738d0a32452047b3a483df08f1e7acf5", "type": "Subject1", "name": "Remote Sensing and Geomatics"}
+{"id": "3ec6be5a4f664d968a5a323454a6de23", "type": "Subject1", "name": "Military Studies"}
+{"id": "d14339434c994fea957e23695f4c67d7", "type": "Subject1", "name": "Communication Disorders"}
+{"id": "9ca5a9c408d74d7dacb772844e1ec8d0", "type": "Subject1", "name": "Video Games and Entertainment Software"}
+{"id": "00daea2244bd4420befbf0cbcb526a0a", "type": "Subject1", "name": "Fuzzy Logic and Soft Computing"}
+{"id": "1af04a5d5294479e8af92307dede2367", "type": "Subject1", "name": "Epidemiology and Biostatistics"}
+{"id": "39a56cfdb39d4c4dbe043c374af1fa35", "type": "Subject1", "name": "Inference and Decision Theory"}
+{"id": "01ff17729ba3418aa5662b522966bc63", "type": "Subject1", "name": "Environmental Policy and Management"}
+{"id": "4c836b1260be4145966b83882b673f2b", "type": "Subject1", "name": "Epigraphy"}
+{"id": "f718da19bc1c48b39b831c1165b129f8", "type": "Subject1", "name": "Library and Information Science"}
+{"id": "9935757434704724a8f33ebfe06e0095", "type": "Subject1", "name": "Water Resources Management"}
+{"id": "94b4a9a57e19473ebcd2084096ed5646", "type": "Subject1", "name": "Energy-Efficient Computing"}
+{"id": "40c11f1874ca4b58a2a16476d34c61b3", "type": "Subject1", "name": "Digital Media Processing"}
+{"id": "98f652638d234a94a68ab3c1ac435122", "type": "Subject1", "name": "Educational Assessment"}
+{"id": "d1549cbd9b45416193adc62f3645e91e", "type": "Subject1", "name": "Renewable Energy"}
+{"id": "1c199a577f034b1fad2f7199bf4750bc", "type": "Subject1", "name": "Financial Markets"}
+{"id": "4313043bca3146b4a10e116a605b3d92", "type": "Subject1", "name": "Clinical Research"}
+{"id": "a2d4db0e338f415294f5436e50931247", "type": "Subject1", "name": "Behavioral Neuroscience"}
+{"id": "fc08fcc4c8564e5a91134770dbe775c7", "type": "Subject1", "name": "Global Studies"}
+{"id": "f3bbffe6ec1b4ce49c64a901e330854e", "type": "Subject1", "name": "Radiology and Imaging Informatics"}
+{"id": "875d09d674714b98a69eb1c5568c2a1c", "type": "Subject1", "name": "Medical Imaging and Image Processing"}
+{"id": "908fa59e46e2473e88b725f16a543ad9", "type": "Subject1", "name": "Infrastructure Engineering"}
+{"id": "8be082c1e5ae4a769703bd18e1b0f8a4", "type": "Subject1", "name": "Battery Engineering"}
+{"id": "ada16dde788f4591b6cfa08e35b127d7", "type": "Subject1", "name": "Nutrition and Physical Activity"}
+{"id": "f1a2bac13be747e6be6878af090e2aca", "type": "Subject1", "name": "Geomorphology"}
+{"id": "90824a0cdc8e4b578ea6f491cf3648ed", "type": "Subject1", "name": "Medical Signal Processing"}
+{"id": "3311a18a54dd48a6a909c53209d2a51f", "type": "Subject1", "name": "Prehistoric Archaeology"}
+{"id": "3dd4079eda9247d4b9e72a27a6f8b0c3", "type": "Subject1", "name": "Operations Management"}
+{"id": "d01388223bd0441aa1f847f725e2e084", "type": "Subject1", "name": "Speech and Hearing"}
+{"id": "5e25715c43b24ad5935994b5db3ff690", "type": "Subject1", "name": "Acoustics and Music Theory"}
+{"id": "0d9d0dfaba65484391c8c902d98ab306", "type": "Subject1", "name": "Knowledge Discovery and Data Mining"}
+{"id": "d3d7ffb50ca44f6c8dbe945085596258", "type": "Subject1", "name": "Music Information Retrieval"}
+{"id": "666b96bb55194e48bb460aa39825a733", "type": "Subject1", "name": "Work and Labor Studies"}
+{"id": "0d6238bedc5b4614823a8651654660e4", "type": "Subject1", "name": "Knowledge Graphs"}
+{"id": "db5247c6fa294181ae670b96028169de", "type": "Subject1", "name": "High-Speed Rail Systems"}
+{"id": "8927e5ad0fd6442387ffaebe2e84ec47", "type": "Subject1", "name": "Speech and Hearing Sciences"}
+{"id": "86f88b3b89534d15b5370a865f7b5323", "type": "Subject1", "name": "Renewable Energy Systems"}
+{"id": "37911ca1fb1a46aa95acc35f8643ad06", "type": "Subject1", "name": "System Design and Architecture"}
+{"id": "106380fded3b453db4168d2eb5f1892c", "type": "Subject1", "name": "Scheduling"}
+{"id": "31fe6a936c62434ca7d6d5d73b752ef9", "type": "Subject1", "name": "Academic and Professional Societies"}
+{"id": "de85362dd49941cc99e3da41e4e696f4", "type": "Subject1", "name": "Work and Industrial Relations"}
+{"id": "b0eace28de4d4c949d2c062624179be0", "type": "Subject1", "name": "Career Development"}
+{"id": "d5e0b9d227544c5fbd642bb4935dc04c", "type": "Subject1", "name": "International Relations"}
+{"id": "d65d686bcef44e1cb23dc846eddba171", "type": "Subject1", "name": "Logic"}
+{"id": "a116376c598440d3af22e7fd191be57f", "type": "Subject1", "name": "Financial Computing"}
+{"id": "27a40d1627bc49789f2fc326a71349fd", "type": "Subject1", "name": "Policy and Administration"}
+{"id": "5f7421d86fde41ad85f5f62cff695e21", "type": "Subject1", "name": "Aging Research"}
+{"id": "06ec6e7ba567435b85f8a21a2e50f42b", "type": "Subject1", "name": "Acoustics of Speech"}
+{"id": "cd1a4b767f7a4db3b8b987666afa1878", "type": "Subject1", "name": "Computational Fluid Dynamics"}
+{"id": "d80c38824bcf482c9b89c25eff191b30", "type": "Subject1", "name": "Law"}
+{"id": "a3bab3de1a264eb792701bbe6a38e14f", "type": "Subject1", "name": "Otorhinolaryngology"}
+{"id": "7b8a8a81ed4c45cf84c775385a4da62a", "type": "Subject1", "name": "Cultural and Aesthetic Studies"}
+{"id": "db31a9067c4a4214a632c83ea94f60ed", "type": "Subject1", "name": "Tensor Analysis"}
+{"id": "a91acd84789f49289a0518719a1b6483", "type": "Subject1", "name": "Product Differentiation"}
+{"id": "a4ec15c5297d4380894492b189f486be", "type": "Subject1", "name": "Audio-Visual Processing"}
+{"id": "6e3096e988334364ad2d7802aae386e0", "type": "Subject1", "name": "Plasma Physics"}
+{"id": "43d21f11dfda4112886ec584c38472ea", "type": "Subject1", "name": "Security and Information Assurance"}
+{"id": "72a14002a62849b3a46d63973d562746", "type": "Subject1", "name": "Magnetic Materials"}
+{"id": "9717720cd3564fef825b2fd99a7829af", "type": "Subject1", "name": "Electromagnetic Compatibility"}
+{"id": "d62d316cc10049bd8c52be8b3cf63ab1", "type": "Subject1", "name": "Disinformation and Misinformation Studies"}
+{"id": "da840035f4bc4c098319666364741ed2", "type": "Subject1", "name": "Music Education"}
+{"id": "a25d07e88f77493b8b45de80f03ef26e", "type": "Subject1", "name": "Acoustic Engineering"}
+{"id": "053675301dfa4e6f942c102db87abcb3", "type": "Subject1", "name": "Building Acoustics"}
+{"id": "0237eca1cfd848ef80da3952aaecba29", "type": "Subject1", "name": "Microelectronics and Semiconductor Engineering"}
+{"id": "3ff93a22d7ab4be1bc5e6dff5d64245c", "type": "Subject1", "name": "Semiconductor Device Engineering"}
+{"id": "2a3485971515424d82f4a87c4b29910a", "type": "Subject1", "name": "Physical Oceanography"}
+{"id": "ceddfb6f39f9400cac673bc13a7b25de", "type": "Subject1", "name": "Energy Storage"}
+{"id": "0ce1210d1a6e411a819f0e3afb6c0e94", "type": "Subject1", "name": "Data Storage and Distributed Systems"}
+{"id": "47bf06f5e7614cf9b3fd7e07ec7f07a8", "type": "Subject1", "name": "Communication Theory"}
+{"id": "175fcd49676644409ebbe8c71bd21da0", "type": "Subject1", "name": "Information Science and Information Technology"}
+{"id": "a6f5e274ea294eacac32926da791884d", "type": "Subject1", "name": "Inventory Theory"}
+{"id": "8cdbe4699d5545adab6729456a2df1fa", "type": "Subject1", "name": "Social and Cultural Studies"}
+{"id": "1a3542c46c574dc1afb136b664580187", "type": "Subject1", "name": "Clinical Data Modeling"}
+{"id": "be4f1744664e40e291fec4b27a0933bb", "type": "Subject1", "name": "Jurisprudence"}
+{"id": "d42f9d47d52c4d1691735893b6b307ab", "type": "Subject1", "name": "Instructional Design"}
+{"id": "8d96b1ba54a34b6aa1668e38bf4186b5", "type": "Subject1", "name": "Multimedia Systems"}
+{"id": "dc0e3b5dfc6a4cbc895bc1255a63fe2a", "type": "Subject1", "name": "Digital Art and Design"}
+{"id": "ba05683ba8eb4a85b878cd5e5914f1dc", "type": "Subject1", "name": "Urban Transportation Planning"}
+{"id": "059015b4ceb84857acd796e488899ce7", "type": "Subject1", "name": "Applied Economics"}
+{"id": "64fbc715ffe0452a9e64eb2359eeece5", "type": "Subject1", "name": "Category Theory"}
+{"id": "1a3b9a8c5c0d4ff09af69a5966074720", "type": "Subject1", "name": "Coding Theory"}
+{"id": "1120f365b2814826b0d9536f3618002d", "type": "Subject1", "name": "Geotechnical Engineering"}
+{"id": "3f009b86b9e84fa9af8e06d86b5be3d6", "type": "Subject1", "name": "Perception"}
+{"id": "736796f45b8749d28bca461ef7d0d238", "type": "Subject1", "name": "Health Communication"}
+{"id": "1e9b287fb13241ed8ca655bb4e54daf5", "type": "Subject1", "name": "Latin American History"}
+{"id": "46b5e311cb6848b18d8a83b9ce1c3205", "type": "Subject1", "name": "Natural Language Generation"}
+{"id": "d3bc524c62fe48a4b2f3c45519356ce0", "type": "Subject1", "name": "Hepatology"}
+{"id": "169e6ba040ed4bb488d74ac7fc8dfab5", "type": "Subject1", "name": "Radio Astronomy"}
+{"id": "d607a22efce84193ada759e8487fc0d8", "type": "Subject1", "name": "Motivational and Inspirational Writing"}
+{"id": "3cc49b84b38b49838e3a2ddf90842611", "type": "Subject1", "name": "Marine Science"}
+{"id": "42f1caa0785746d5a34a94b01d4833fa", "type": "Subject1", "name": "Thermodynamics and Statistical Mechanics"}
+{"id": "76adac41e1e6421480eb2ca7b3b32da3", "type": "Subject1", "name": "Data and Information Security"}
+{"id": "4c31aad26daf4949bb67eb03750f9fdb", "type": "Subject1", "name": "Career and Technical Education"}
+{"id": "a7f94a121df84563bcc4e5594b1e4c4a", "type": "Subject1", "name": "Rare Disease Research"}
+{"id": "5e8a3f69a60b4d1b8fb1113df0e7e341", "type": "Subject1", "name": "Energy Harvesting and Storage"}
+{"id": "38d9ceb029a846d98d8740424c406d0f", "type": "Subject1", "name": "Causal Inference"}
+{"id": "ccf5e48b8e714baa9d9316ffa055d3d1", "type": "Subject1", "name": "Radiology and Imaging"}
+{"id": "1d156a7dfc0e4d129d79c6bf1b262cc7", "type": "Subject1", "name": "Energy and Power Systems"}
+{"id": "f18a896abec34486bf770f3e14f9e8cb", "type": "Subject1", "name": "Physiotherapy"}
+{"id": "d83737193c81433abc6fbf237a0e07d0", "type": "Subject1", "name": "Physical Education and Sports Science"}
+{"id": "e444e3f22a6942cc901dabecbf0376bd", "type": "Subject1", "name": "Exercise Science"}
+{"id": "75973630b98f42bd9831fc9ee6ed94d9", "type": "Subject1", "name": "Structural Health Monitoring"}
+{"id": "ecd30fcf0bab43c29a7521d1d3850eca", "type": "Subject1", "name": "Public Opinion and Social Psychology"}
+{"id": "d0ef638ecd2446cc95498d56b61af2eb", "type": "Subject1", "name": "Interpersonal Communication"}
+{"id": "c5fea9e8176447728dac6000ccafc96a", "type": "Subject1", "name": "Computer-Aided Design (CAD)"}
+{"id": "22f4eb31426747dca3a0295d98614951", "type": "Subject1", "name": "Error Detection and Correction"}
+{"id": "aae3388ae1b247cd85c59a5eb6dfbe5e", "type": "Subject1", "name": "Tourism Potentials"}
+{"id": "961aee330024408fab40648a2f10d08f", "type": "Subject1", "name": "Neural Networks and Brain-Computer Interfaces"}
+{"id": "0032491df8d34f05b0dc0e5f036f54f4", "type": "Subject1", "name": "Disaster Risk Management"}
+{"id": "848e8c33638c450891ec2a86b2b999c9", "type": "Subject1", "name": "Computer Engineering"}
+{"id": "32a98b343b694091a077d225a379211b", "type": "Subject1", "name": "Sensor Networks"}
+{"id": "77c3f9e08fea4951ad24baac2016ed96", "type": "Subject1", "name": "European Studies"}
+{"id": "61c145afc28948f6a627e3acdfe3a71a", "type": "Subject1", "name": "Ethics and Society"}
+{"id": "03c4ea95122e47e3a25620016003cad1", "type": "Subject1", "name": "Energy and Sustainability"}
+{"id": "0bedae3023884cb8aa64c39e5acd4fc5", "type": "Subject1", "name": "Sustainable Building and Urban Design"}
+{"id": "343d31faf54b438dab4074e51bbaf888", "type": "Subject1", "name": "Sustainable Urban Development"}
+{"id": "30e13b65d97f4864bef3d2d636a4840a", "type": "Subject1", "name": "Patient Monitoring Systems"}
+{"id": "7bc9779940e94d91bbbe8bef17ca6be4", "type": "Subject1", "name": "Economic Impact Analysis"}
+{"id": "3c013ab11eab4ebf88d1f25eb96b2603", "type": "Subject1", "name": "Science Education"}
+{"id": "6f7ce23143354a26bd530c5da8c5c9d7", "type": "Subject1", "name": "Pulmonology"}
+{"id": "0699795db2f3466fac92020e5e6c3c67", "type": "Subject1", "name": "Data Science and Big Data Analytics"}
+{"id": "9ab9aaeb92e547b69f56ea289f13f11b", "type": "Subject1", "name": "Knowledge Organization"}
+{"id": "ad091d55cebc4356b66909960f9b5b17", "type": "Subject1", "name": "Molecular and Cell Biology"}
+{"id": "634676bfd15f43cab2be37c794e268fe", "type": "Subject1", "name": "Web Science"}
+{"id": "08c35023dd3c4eaba8857834787942b9", "type": "Subject1", "name": "Speech Recognition and Natural Language Processing"}
+{"id": "c33e3cb71c684c77b1cecee3fc875d58", "type": "Subject1", "name": "Optical Astronomy"}
+{"id": "dd0ebfc569354e3480b41b363e39cfcf", "type": "Subject1", "name": "System Engineering"}
+{"id": "9e72bc74cddd4082913105236504356d", "type": "Subject1", "name": "Astronomy and Astrophysics"}
+{"id": "c47452f1dce34d15ab41420aaf0f83aa", "type": "Subject1", "name": "Concrete Technology"}
+{"id": "58c1038816bd470dbbfd8f8a55d260fd", "type": "Subject1", "name": "Maritime Transportation and Safety"}
+{"id": "b958cdf72cf341fe8166fdfdb4630657", "type": "Subject1", "name": "Wildfire Management"}
+{"id": "3943151716044b12acbb5009695e44aa", "type": "Subject1", "name": "Fire Safety and Regulation"}
+{"id": "9a1fda34bc034062a8b0f7f3a766c7b5", "type": "Subject1", "name": "Public Administration"}
+{"id": "489a90a0f74e4a2397a72fc65df552b9", "type": "Subject1", "name": "Soccer Psychology"}
+{"id": "dccf751ba2744882a47921ffd9c52c28", "type": "Subject1", "name": "Historical Architecture"}
+{"id": "9624545a1ee6438ab63896d649f69025", "type": "Subject1", "name": "Metamaterials"}
+{"id": "889fde62604443ae8f0a667dbeaa62ff", "type": "Subject1", "name": "Battery Technology"}
+{"id": "fed065015281488588cb7c35f757cc67", "type": "Subject1", "name": "Fashion Studies"}
+{"id": "9f4bb8079bbb4c26a1a2d70c2b805323", "type": "Subject1", "name": "Clinical Decision Support"}
+{"id": "8e6df508809746ca97add94ddc67d450", "type": "Subject1", "name": "Health Economics"}
+{"id": "312f5b11141745569b6f6b6fb6b45fcb", "type": "Subject1", "name": "Statistical Inference"}
+{"id": "46fb4503dc1c4585af1ac580cf9fd1a2", "type": "Subject1", "name": "Electronic Health Records"}
+{"id": "671885b8f32a462ea15de053520a6262", "type": "Subject1", "name": "Physical Chemistry"}
+{"id": "848b2928b2c1470db5a24a2f880bc38e", "type": "Subject1", "name": "Personalized Medicine"}
+{"id": "ce7786f07cc444899dcce7ef7363ac8c", "type": "Subject1", "name": "Neural Circuitry"}
+{"id": "fa1a708e5a8744c5abcfb3835ccdf789", "type": "Subject1", "name": "Electronic Circuits"}
+{"id": "ada40aea345f4517a02e06e584bc66ca", "type": "Subject1", "name": "Speech Processing"}
+{"id": "5c9819d32015478cb8c8690841c8eb68", "type": "Subject1", "name": "Biomedical Data Analysis"}
+{"id": "4ada076205214743bf6a587d5d93f168", "type": "Subject1", "name": "Ethics and Moral Education"}
+{"id": "918a305abb594b6583b630082386c9b8", "type": "Subject1", "name": "Geometry"}
+{"id": "af386b5ef19241cbbe99207b2e5a3d28", "type": "Subject1", "name": "Geometric Processing and Computer Graphics"}
+{"id": "246dad7fcaa7462c9856416611e348d5", "type": "Subject1", "name": "Culinary Arts"}
+{"id": "55641b48d7d1434488c7de53a05aa62d", "type": "Subject1", "name": "High-Performance and Parallel Computing"}
+{"id": "aef8312a1b204256b77021fbed686fdd", "type": "Subject1", "name": "Technology Education"}
+{"id": "6e69a780cbd64382ab746fce069fcdff", "type": "Subject1", "name": "Vaccinology"}
+{"id": "9655ef1a505e42c7b56d74ca624181c1", "type": "Subject1", "name": "Sustainability Studies"}
+{"id": "a47aaaa343b84ea18da21b433a98a41c", "type": "Subject1", "name": "Quantum Information"}
+{"id": "fde977e694d54bb5a6dd091c1761a290", "type": "Subject1", "name": "Auditory Neuroscience"}
+{"id": "3b5cde09c91d4615aef46c6a6fe68055", "type": "Subject1", "name": "Data Integration"}
+{"id": "bcbe480416b1486791d6936430bd139a", "type": "Subject1", "name": "Language and Communication Studies"}
+{"id": "a4823b3df5f54708ad2b072592a1b673", "type": "Subject1", "name": "Data Center Engineering"}
+{"id": "5ca355dd55164c8d9f0d07d73ee7bbcc", "type": "Subject1", "name": "Group Theory"}
+{"id": "4e017d5df9d6446ca661885ba88b2a0e", "type": "Subject1", "name": "Port and Terminal Management"}
+{"id": "f77b461b462a482b989f966c7a491935", "type": "Subject1", "name": "Fire Protection Engineering"}
+{"id": "f5d1bc80b2a844f98884cdb4d129c0ff", "type": "Subject1", "name": "Vibration and Sound"}
+{"id": "f2521bf9b6a54b31a82e4a5cdf1983da", "type": "Subject1", "name": "Auditory Psychology"}
+{"id": "671542f03b9146638eb64425b303b1c2", "type": "Subject1", "name": "Thrombosis and Haemostasis"}
+{"id": "da0194f767a546d58912e29e8a89d39e", "type": "Subject1", "name": "National Security Studies"}
+{"id": "00ffd667cd76456aaef2257befe9c505", "type": "Subject1", "name": "Perception and Sensation"}
+{"id": "71a16eceb6124f86abf8222ddce0f7ae", "type": "Subject1", "name": "Acoustics and Ultrasonics"}
+{"id": "6563f2de15fa4185baafca30b619237c", "type": "Subject1", "name": "Digital Logic and Computer Architecture"}
+{"id": "951d283a8bca4525a58ca2dd7a42add8", "type": "Subject1", "name": "Micro/Nano Robotics"}
+{"id": "7735885a379a4edf820b00c3b786cb56", "type": "Subject1", "name": "Audiovisual and Multimedia Systems"}
+{"id": "e196df301ce94d8592f91e6ac4a8ecf8", "type": "Subject1", "name": "Computer Systems"}
+{"id": "b0f183a754d344e6a11e510371665f90", "type": "Subject1", "name": "Digital Circuits"}
+{"id": "4bd5102cc2e148e881938aa85cd33e6b", "type": "Subject1", "name": "Sports Medicine"}
+{"id": "3361677550df4496bec0d2c7dc2587e5", "type": "Subject1", "name": "Digital Media and Visualization"}
+{"id": "0afbce1c78934159aec88f8e9fcd5d3d", "type": "Subject1", "name": "Pharmacokinetics and Bioequivalence"}
+{"id": "03678ed605384271920137fa8d90ae80", "type": "Subject1", "name": "Economic Systems"}
+{"id": "72f667b56e254eeeafb79e68043c78ac", "type": "Subject1", "name": "Economic Development"}
+{"id": "383a44649362489a8565b3931d09d509", "type": "Subject1", "name": "Business and Management"}
+{"id": "678a113869b541bf85330cd1a588e96a", "type": "Subject1", "name": "Hospitality Management"}
+{"id": "92171b5b3400495c83e2c4099be0dc33", "type": "Subject1", "name": "Tourism and Hospitality Management"}
+{"id": "50cd44adafde43c899cc41d601a36796", "type": "Subject1", "name": "Computer Vision and Pattern Recognition"}
+{"id": "7043b2407469482ab555fd32072f52d2", "type": "Subject1", "name": "Accessibility"}
+{"id": "2b9a648daf14490caf66864b63e379bb", "type": "Subject1", "name": "Aquatic Ecology"}
+{"id": "cb169cacea104021823dbbf16ebd905e", "type": "Subject1", "name": "Materials Chemistry"}
+{"id": "d5c25027f37c4bf5a05e933f1df2abc1", "type": "Subject1", "name": "Graphics and Computer-Aided Design"}
+{"id": "91267c3b693245028045ebab825db118", "type": "Subject1", "name": "Imaging Technology"}
+{"id": "228b89a4973f4c9fb690f2d537027bbb", "type": "Subject1", "name": "Decision Science"}
+{"id": "2bd6ec79dab8447d9f154590d9647675", "type": "Subject1", "name": "Storage Technology"}
+{"id": "598116888c84443587fd3fca24c353c6", "type": "Subject1", "name": "Occupational Therapy"}
+{"id": "8fd135848f1f49c6a2794ffc7e22e63b", "type": "Subject1", "name": "Spacecraft Dynamics and Control"}
+{"id": "86d010a57d7a4621ba6432be90a6aca1", "type": "Subject1", "name": "Genetic Association Studies"}
+{"id": "2b1c8ec87ec9468ca23c178a884ce4ee", "type": "Subject1", "name": "Ecotoxicology"}
+{"id": "d8c1d179a3574abb9e1fe4290103595c", "type": "Subject1", "name": "Speech and Language Sciences"}
+{"id": "1d8712d88df34a9eb6fcb0ded342221d", "type": "Subject1", "name": "Sensory Psychology"}
+{"id": "20c95550f3f443fe828d69d39cf51217", "type": "Subject1", "name": "Career Guidance and Counseling"}
+{"id": "de9de439847c4c94a6506756cb584897", "type": "Subject1", "name": "Demography"}
+{"id": "f2287c7b8f4a4884859e137f4a53b45f", "type": "Subject1", "name": "Energy and Environmental Engineering"}
+{"id": "389703e55eef4a7b88fdeba5fac5979a", "type": "Subject1", "name": "Neuroimaging and Connectivity"}
+{"id": "e7ca91c8fd0f48e8996b448fba01478e", "type": "Subject1", "name": "Leadership Studies"}
+{"id": "5fdfee4b1c8d4970a09097dd5652a4c6", "type": "Subject1", "name": "Biomedical Research"}
+{"id": "4608522db65e41988dcd0f4bd0f99a86", "type": "Subject1", "name": "Electrical Engineering and Communications"}
+{"id": "038532a021264716a0a1878be871677c", "type": "Subject1", "name": "Organizational Psychology"}
+{"id": "674aabb632104de986e87b253d30f9f8", "type": "Subject1", "name": "Nuclear Medicine"}
+{"id": "9f8acea11c964db0b3ba56bfce7ac7ed", "type": "Subject1", "name": "Proof Theory"}
+{"id": "3282f62131dc42eaa7a522274d0616ac", "type": "Subject1", "name": "Agricultural Robotics and Automation"}
+{"id": "ab3a2b7570b44fd5970b1b27fcaef3fe", "type": "Subject1", "name": "Model-Driven Engineering"}
+{"id": "561a1aa7df034e6180b7e82a4a62a63d", "type": "Subject1", "name": "Financial Computing and Cryptoassets"}
+{"id": "b529257e882b40249aa1e0f436f0b365", "type": "Subject1", "name": "Manipulators and Grippers"}
+{"id": "cc719c184a664ccc94d7c67183ff1553", "type": "Subject1", "name": "Transportation and Logistics"}
+{"id": "af75f9ccf1f141deac4719e45cc4d196", "type": "Subject1", "name": "Neuroscience and Cognitive Science"}
+{"id": "86fed67f82664274b173bafca95c88ca", "type": "Subject1", "name": "Metallurgy"}
+{"id": "debdf4000bde4d2aae379725a297fbab", "type": "Subject1", "name": "Art Education"}
+{"id": "17809c00ab4d4c81af88da881b7492f6", "type": "Subject1", "name": "Video Analytics"}
+{"id": "9f98ef68740d466fba2e12cb0a5724d5", "type": "Subject1", "name": "Rehabilitation Sciences"}
+{"id": "49e45757cf124a5ebfe5a665a500f8a2", "type": "Subject1", "name": "Underwater Systems and Operations"}
+{"id": "6b0664341e7147e5ab8ae7f647c2725c", "type": "Subject1", "name": "Family Planning"}
+{"id": "75fb9660d53043e7ab9cd857d9eccc29", "type": "Subject1", "name": "Data Security"}
+{"id": "ec435d5925474a7e8fa8ad37289c4713", "type": "Subject1", "name": "Theory of Computing"}
+{"id": "733b302dc65b434fbb600dbc5f1b4ee9", "type": "Subject1", "name": "Political Theory"}
+{"id": "8291e34ea00143c2ab2ced241c960049", "type": "Subject1", "name": "Imaging Informatics"}
+{"id": "ea392c746d7e450fb4ae3b14f3155336", "type": "Subject1", "name": "Data and Information Retrieval"}
+{"id": "8f5e24e0860a4b3da60ce2f9d57b133d", "type": "Subject1", "name": "Traffic Flow and Congestion Management"}
+{"id": "ddc92c96a7214eb38c5ffaadedd18b54", "type": "Subject1", "name": "Disease Diagnosis"}
+{"id": "56d04322dfdd4e548a0c8fb777c2296e", "type": "Subject1", "name": "Transportation and Routing"}
+{"id": "1b86f76f00bf4c339a51eea1c6362aa2", "type": "Subject1", "name": "Finance and Economics"}
+{"id": "11e221e7374043a3b02f45a9b271db7d", "type": "Subject1", "name": "Antenna Theory and Design"}
+{"id": "871a64c02ab34707929ad995c08d431a", "type": "Subject1", "name": "Workplace and Ergonomics"}
+{"id": "b1094baa4deb4dd4bff0016b3aa81a48", "type": "Subject1", "name": "Aquatic Biology"}
+{"id": "a5eb2177c71b4925ad42c6d98ecfd0f4", "type": "Subject1", "name": "Education and Child Development"}
+{"id": "b847f475b8c9422db9e524bb09007882", "type": "Subject1", "name": "Aerospace and Avionics"}
+{"id": "f385d647bcc448c192eaa7f0b56eb9c1", "type": "Subject1", "name": "Hydrogeology"}
+{"id": "78849aa7920a45d0a0adac7e97e5fb40", "type": "Subject1", "name": "Mining Engineering"}
+{"id": "e0431308c4b64cea958eb8dbbab98465", "type": "Subject1", "name": "Room Acoustics"}
+{"id": "4b1337e47dd242c58c06fcd95c9c37c0", "type": "Subject1", "name": "Microfluidics"}
+{"id": "4288032e0a1545bd8319ee6e46d8b52d", "type": "Subject1", "name": "Cognitive Science and Human-Computer Interaction"}
+{"id": "7b741aa559d047508f341984e287908d", "type": "Subject1", "name": "Digital Circuits and Systems"}
+{"id": "ed726e93d5384f8ab104eab314b02e8e", "type": "Subject1", "name": "Host-Pathogen Interaction"}
+{"id": "986b680d11ff40f1aecfd6ec6bd266ed", "type": "Subject1", "name": "Economics of Computing"}
+{"id": "37a876cb3ea44440b0cd0291860cafd3", "type": "Subject1", "name": "Insurance"}
+{"id": "2a2504b80d684492b2346cef0c31b346", "type": "Subject1", "name": "Educational Policy and Systems"}
+{"id": "e07f4b47e7aa4e588b51905c0105cf3b", "type": "Subject1", "name": "Policy and Evaluation"}
+{"id": "930419e5082342298970a43a3b01b9d7", "type": "Subject1", "name": "Algorithm Analysis and Design"}
+{"id": "7d81cabc4d1f4dfea1e3ca691fbe5b6d", "type": "Subject1", "name": "Oral Pathology"}
+{"id": "6ec20a70be1e47a99efbac3266117eac", "type": "Subject1", "name": "Gerontology"}
+{"id": "90420352f53c40fc82ad3d81f21e30c1", "type": "Subject1", "name": "Health Psychology"}
+{"id": "04dc27cc590643d4acbb94c1e7699976", "type": "Subject1", "name": "Emergency Management"}
+{"id": "287508a5167340d9b3ee2774396b3806", "type": "Subject1", "name": "Visitor Experience"}
+{"id": "cd9589147e8040bd93f33d23ee309200", "type": "Subject1", "name": "Sustainable Development"}
+{"id": "ba010cb0f38b43868432b121db8f5967", "type": "Subject1", "name": "Curriculum Development"}
+{"id": "b3c581fb64534904b5363044d5389c77", "type": "Subject1", "name": "Human Resources"}
+{"id": "317bea81ef7444a3a03dadb239a8f06c", "type": "Subject1", "name": "Technology and Society"}
+{"id": "62e3c037cb7945349b169e42509f301a", "type": "Subject1", "name": "Film Theory and Criticism"}
+{"id": "d3a3a4d138b24c89b4c58374f9b4f147", "type": "Subject1", "name": "Urban Transportation Systems"}
+{"id": "e470dcdd7552418ab45cd27f0f7d711c", "type": "Subject1", "name": "Biological Chemistry"}
+{"id": "429021a663634e8084f5a4b6d34c207c", "type": "Subject1", "name": "Proctology"}
+{"id": "6471f694d387430f80eb3ddb7cf2a4ad", "type": "Subject1", "name": "Data Integration and Data Warehousing"}
+{"id": "b477d2d63d56468da8f8b7711513ec85", "type": "Subject1", "name": "Hardware/Software Co-Design"}
+{"id": "116ad106783b4276b5b887439ebdda67", "type": "Subject1", "name": "Information Visualization"}
+{"id": "7f4a6e9fd22c4a43ba89aefa02b71737", "type": "Subject1", "name": "RF and Microwave Engineering"}
+{"id": "a1756e3635694de6887fd4251847cf64", "type": "Subject1", "name": "Storage and Data Management"}
+{"id": "467135e08060458cb28dcf6096a3490e", "type": "Subject1", "name": "Entrepreneurship and Innovation"}
+{"id": "3f814d9342c14d18b78ff99683ac421d", "type": "Subject1", "name": "Investment Analysis"}
+{"id": "1177d45e59af40ac80579cad60efe91a", "type": "Subject1", "name": "Traffic Safety and Human Factors"}
+{"id": "32eea724aadf45e9858306d2d16a8157", "type": "Subject1", "name": "Atmospheric Physics"}
+{"id": "d83b397ad96b472a9d1d6813180134aa", "type": "Subject1", "name": "Bioengineering"}
+{"id": "06a7919bbbc04c67a580866468b44e45", "type": "Subject1", "name": "Food Chemistry"}
+{"id": "064fb65aa75a454fb592e0061c540f3b", "type": "Subject1", "name": "Acoustics and Musical Instrument Science"}
+{"id": "cec93ff5cd0c44f29213cd7e08218ba0", "type": "Subject1", "name": "Transportation and Navigation"}
+{"id": "187af2353d9547f98509b048e4fc0634", "type": "Subject1", "name": "Social Media Analysis"}
+{"id": "fa30dd1dd34443b2ac541472418918d0", "type": "Subject1", "name": "Biological Systems"}
+{"id": "4ee34987c4714b1c8061b77088f7bd4a", "type": "Subject1", "name": "Medical Biotechnology"}
+{"id": "2d2fcaeb6a444b158d2dc188383154da", "type": "Subject1", "name": "Instrument Design"}
+{"id": "85b178c79a6b48bb9a1991514f3b8e4f", "type": "Subject1", "name": "Accounting"}
+{"id": "5088294d44f3414d84e6a64cd5777d58", "type": "Subject1", "name": "Emotional Regulation"}
+{"id": "9af626e5b90d487fa50793eedf677c72", "type": "Subject1", "name": "Second Language Acquisition"}
+{"id": "7bb2486be8ab481f87a6dd66be792d63", "type": "Subject1", "name": "Information Science and Information Systems"}
+{"id": "923416abf4e944b0854a6e56693a28b3", "type": "Subject1", "name": "Animal Behavior and Physiology"}
+{"id": "e876be98d10d46328e9d64ef688026a4", "type": "Subject1", "name": "Physiological Ecology"}
+{"id": "8bdef6cd839a46e5a9c06ab077dd2880", "type": "Subject1", "name": "Traffic Engineering"}
+{"id": "3a69642fb13349d1be3004b993a4b453", "type": "Subject1", "name": "Operational Research in Health Services"}
+{"id": "d0e7c21bf797482e85b07747fdee41a9", "type": "Subject1", "name": "Color Correction and Grading"}
+{"id": "e4495edd8e9a46d9bee3990079dfa471", "type": "Subject1", "name": "Storage and Data Technology"}
+{"id": "96bad7690e49447e87a26345f58ab52f", "type": "Subject1", "name": "Ethnology"}
+{"id": "db12f587af5d496b9de5e8617903bd44", "type": "Subject1", "name": "Safety and Risk Management"}
+{"id": "67f33f27df1b4217a85a7eb4add7b034", "type": "Subject1", "name": "Political Philosophy"}
+{"id": "1d900d304cf64d17a48de390f3f4f089", "type": "Subject1", "name": "Conflict Studies"}
+{"id": "f60dcdf2d6324f34926d695d69424d9a", "type": "Subject1", "name": "Strategy"}
+{"id": "ad5b69f1e656443f869d98b89ea50299", "type": "Subject1", "name": "Conflict Resolution"}
+{"id": "fc7827425873428aa27f32749bdb7d26", "type": "Subject1", "name": "Animal Husbandry"}
+{"id": "5e6964aa9f81472b942c3a3fd5ab369a", "type": "Subject1", "name": "Epidemiology and Infectious Diseases"}
+{"id": "a1a5b037c04c41fb9d844702a9782f6d", "type": "Subject1", "name": "International Law"}
+{"id": "affb9facc41a4eac911e045d54863e72", "type": "Subject1", "name": "Surgical"}
+{"id": "0f4d6ad9ff30485aa051317e36a9c897", "type": "Subject1", "name": "Community and Urban Studies"}
+{"id": "72967776322e45e5a9071ca0793e47da", "type": "Subject1", "name": "Wildfire Science and Management"}
+{"id": "15ae905b536f446da17a2cb8c57812f4", "type": "Subject1", "name": "Disaster Management"}
+{"id": "0e5d7fa204bd4e67b707372fc0495995", "type": "Subject1", "name": "Wildfire and Climate Change"}
+{"id": "8bb762f9a3a5491a95eee9c8091e251d", "type": "Subject1", "name": "Missing Data Analysis"}
+{"id": "ab8cee53a5dd4935be55740642ff7430", "type": "Subject1", "name": "Thermoacoustics"}
+{"id": "924101b46d214d2a897c779f01867b45", "type": "Subject1", "name": "Speech Perception"}
+{"id": "302c14d7758b4e7a821c0a55118b2dc0", "type": "Subject1", "name": "Modeling and Simulation"}
+{"id": "28904246d9f042aa916d2f8ed06d5d60", "type": "Subject1", "name": "Crystallography"}
+{"id": "d2f1234897b14cc3b1cbed3454b7109d", "type": "Subject1", "name": "Nonlinear Dynamics"}
+{"id": "e09c001feaf14b2eadfae3406d594757", "type": "Subject1", "name": "Pharmaceutical Drug Delivery"}
+{"id": "fccd07a3cc0f48339d64e48e1760e699", "type": "Subject1", "name": "Device Physics"}
+{"id": "6c26d59a0aae439d8360e0b3aeb3ba02", "type": "Subject1", "name": "Public Finance"}
+{"id": "c6dc9e1e08db497c84c89b3d7ada4006", "type": "Subject1", "name": "Geometric Modeling"}
+{"id": "9ececb185a7c4f7e89b3a454f6c4e8b6", "type": "Subject1", "name": "Fractional Calculus"}
+{"id": "94f306099d02447b8f3e819f8d63dcb8", "type": "Subject1", "name": "Motion Planning and Control"}
+{"id": "cbcdc5cf31ee4946af1f5f9019eb503e", "type": "Subject1", "name": "Decision Making and Behavioral Economics"}
+{"id": "cbcbcc877b3b4782b84bea2df6d0e880", "type": "Subject1", "name": "High Frequency Electronics"}
+{"id": "314006ca53a0415a8913450804bd4f23", "type": "Subject1", "name": "Radiation Detection and Protection"}
+{"id": "7f110cfba48d4143bb35d26500ee6a72", "type": "Subject1", "name": "Audiology and Speech Pathology"}
+{"id": "c5f72cfeba6c4e69b7feb1c2e0250603", "type": "Subject1", "name": "Pediatric Audiology"}
+{"id": "912f005c5288461b9aef4f1bbb090136", "type": "Subject1", "name": "Television Production"}
+{"id": "799ef279fc6446719734cf7e738f7a97", "type": "Subject1", "name": "Indexing and Metadata Management"}
+{"id": "301bdc613ee64309af1c7d64fe62bf56", "type": "Subject1", "name": "Epistemology"}
+{"id": "0331be565bb8479e9eb64b39366f8068", "type": "Subject1", "name": "Memory Studies"}
+{"id": "acbdfec491ae41878ad596554a0e7f13", "type": "Subject1", "name": "Building Science and Technology"}
+{"id": "aec179ebbbc04cbca10e18a1b0a0137e", "type": "Subject1", "name": "Rehabilitation Engineering"}
+{"id": "fab030242e264f94a709f26f343fca45", "type": "Subject1", "name": "Neuroimaging and Neurology"}
+{"id": "c148940d97f744aeb98617fc9152ede9", "type": "Subject1", "name": "Service Science and Management"}
+{"id": "e6fea47ea1024c6c8d70e51184988a6e", "type": "Subject1", "name": "Biological Informatics"}
+{"id": "d8e8c6b1affa4f0ca0c11a1d15caf7d4", "type": "Subject1", "name": "Clinical Neuroscience"}
+{"id": "7647bbdc0cd74f4185397a06d433ad51", "type": "Subject1", "name": "Natural Products Pharmacology"}
+{"id": "15219eff635b451f9d03c85c87a79b10", "type": "Subject1", "name": "Oral Surgery"}
+{"id": "eeac9597665342fa834ed977cfca7277", "type": "Subject1", "name": "Geospatial Information Science and Systems"}
+{"id": "c9243ac126cb4396a95674d47e902e7e", "type": "Subject1", "name": "Autonomous Systems"}
+{"id": "e956251d71b94a779cec67436d4af948", "type": "Subject1", "name": "Mineralogy"}
+{"id": "ac7e993f270241e08904a9fd6c4f5dae", "type": "Subject1", "name": "Biographical History"}
+{"id": "8c4cb4e894f447259f299ac5068aa48b", "type": "Subject1", "name": "Archeology"}
+{"id": "55de1312ddab49f0bd29b9ba2427df4c", "type": "Subject1", "name": "Middle Eastern History"}
+{"id": "9ed61046200945809ce95d5c192d1bef", "type": "Subject1", "name": "Medieval History"}
+{"id": "c4d698a67f5144dc8647271b878efca7", "type": "Subject1", "name": "Historical Studies"}
+{"id": "84dec8ee4f714a1497be85a93c52175d", "type": "Subject1", "name": "Magnetic Resonance Imaging (MRI)"}
+{"id": "ab0c0494ac224f9f954d8036927875e8", "type": "Subject1", "name": "Mathematics Education"}
+{"id": "0e42b82e288d4f089102abc18e8347ea", "type": "Subject1", "name": "E-commerce and Online Transactions"}
+{"id": "1b7729760a0d471896a3b9d437e5622e", "type": "Subject1", "name": "Education and Instruction"}
+{"id": "07f814a8f8444a7982e422769a47a121", "type": "Subject1", "name": "International Trade"}
+{"id": "530279ce3a56416dac79eba13fc5bef1", "type": "Subject1", "name": "Physical Education"}
+{"id": "3b981776000543ca931a430e66836c15", "type": "Subject1", "name": "Demography and Urban Studies"}
+{"id": "a372c77fa65042d6a835a4dd1b436caa", "type": "Subject1", "name": "Social Law"}
+{"id": "1a73138545ed472a9758bdc85f6f5f3d", "type": "Subject1", "name": "Quality Engineering"}
+{"id": "adc48510358d432c99fe839ddb0d61ff", "type": "Subject1", "name": "Labor Studies"}
+{"id": "26a7f88faa344428af65ff28e1f8716a", "type": "Subject1", "name": "Crime and Criminology"}
+{"id": "08840ee879934e87ac0720f3a00a501c", "type": "Subject1", "name": "Auditory Perception"}
+{"id": "92395aa2a9df478f8124c88cb4c09ccf", "type": "Subject1", "name": "Environmental Health"}
+{"id": "5c1f9ca9f185449c887f1c125407f256", "type": "Subject1", "name": "Integrated Circuit Design"}
+{"id": "f4138dcbfdb84729a33553f7b57d45e1", "type": "Subject1", "name": "Acousto-Electric Devices"}
+{"id": "9b8c3f25ce2e4f75927aee6babafab30", "type": "Subject1", "name": "Radar Engineering"}
+{"id": "e4f686330eed4620accb88d58205e31a", "type": "Subject1", "name": "Optics and Photonics"}
+{"id": "d334d70326544b208957268fbcfd511a", "type": "Subject1", "name": "High Pressure Physics"}
+{"id": "532130dee2004828a806b8c0f1069643", "type": "Subject1", "name": "Acoustic Design"}
+{"id": "8c097e406d5f40ed8ce5d980d2cf7523", "type": "Subject1", "name": "Orthopedic Engineering"}
+{"id": "fc21ce288d3d4af9bf72af1f3ecc6604", "type": "Subject1", "name": "Management Information Systems"}
+{"id": "4cfa5b4cb18c4d379bf1b268d5bb656a", "type": "Subject1", "name": "Surface Science"}
+{"id": "6b451df8241d414db85daea705d74733", "type": "Subject1", "name": "Urban Planning and Infrastructure"}
+{"id": "a46d7204e5654393b74245375b6964ed", "type": "Subject1", "name": "Electronics"}
+{"id": "12419f57febf40d8858791113de28785", "type": "Subject1", "name": "Document Engineering"}
+{"id": "c19cfcd1fa0c4e2288dcfb2b41580c03", "type": "Subject1", "name": "Hardware and System Architecture"}
+{"id": "ac6d8995c47f43ee9de8075891d32052", "type": "Subject1", "name": "Economic Computing"}
+{"id": "45aa8c10390e41de820f76aed370f1de", "type": "Subject1", "name": "Dynamics and Vibration"}
+{"id": "f92fec359f84486ca2f7ca4180cf0ecd", "type": "Subject1", "name": "Lighting Engineering"}
+{"id": "1428e033b13f4bb485ac7d3a023715d3", "type": "Subject1", "name": "Statistics and Machine Learning"}
+{"id": "aa99c017b57040889e8e77d1c463eab2", "type": "Subject1", "name": "Mobile Robotics"}
+{"id": "f747fafac5d04f3c9351bb5079761063", "type": "Subject1", "name": "Building Usage Analysis"}
+{"id": "afb1e18d962541a488a12ea8c5da2a16", "type": "Subject1", "name": "HVAC (Heating, Ventilation, and Air Conditioning)"}
+{"id": "adff99df5f6f4ad4b5f5a628a9581bb7", "type": "Subject1", "name": "Video Processing"}
+{"id": "0dd7dec77eaf4cd3a4863ed930e95255", "type": "Subject1", "name": "Laryngology"}
+{"id": "6c0b805641154b3e92b32a22ded7761e", "type": "Subject1", "name": "Linear Algebra"}
+{"id": "24058c6a9e594b1ba294234ada63441c", "type": "Subject1", "name": "Information Theory and Coding"}
+{"id": "fef1f642a45e4ae0915ebf9291b3ad61", "type": "Subject1", "name": "Neural Networks and Cognitive Modeling"}
+{"id": "34aabbc9205640f08361f564c2ea3117", "type": "Subject1", "name": "Forest Management"}
+{"id": "af3a1a026ff84b599696b5555bb60b5d", "type": "Subject1", "name": "Hardware and System Security"}
+{"id": "00d01af451d04196936169885e35a241", "type": "Subject1", "name": "Data Communications"}
+{"id": "3eb30bbe52094a75aff6ed778a55ee60", "type": "Subject1", "name": "Media Technology and Workflow"}
+{"id": "1634a8abb0994c269409a0c245b529f4", "type": "Subject1", "name": "Electromagnetics and Microwave Engineering"}
+{"id": "4d27d0b47ea4442aa92c63151aad4073", "type": "Subject1", "name": "Web Performance"}
+{"id": "09a5fb8df8e94dd8a01f5543608773f5", "type": "Subject1", "name": "Biological Data Analysis"}
+{"id": "09263bcf07d541018b1a52549b8766d2", "type": "Subject1", "name": "Cryptology"}
+{"id": "acfb9e6e6f144e2f80aaa812345f10dd", "type": "Subject1", "name": "Web Development"}
+{"id": "f5ded04d3a044b1894a4514067d07c30", "type": "Subject1", "name": "Public Sector Computing"}
+{"id": "d87a0d6d39604410aa81d00050197413", "type": "Subject1", "name": "Public Administration and Policy"}
+{"id": "0868acf40f9e4c039ed363017c1d9ef2", "type": "Subject1", "name": "Cardiovascular Medicine"}
+{"id": "69724b823a034b27a26d9694afb30c5c", "type": "Subject1", "name": "Food Industry Management"}
+{"id": "2c644823b3354b6097a73c829b4eea30", "type": "Subject1", "name": "Supply Chain Management"}
+{"id": "c68d3156ceca41a09c7bd541157a44a2", "type": "Subject1", "name": "Hearing Healthcare"}
+{"id": "18fc6da49745470cbccee83f9bdb67ca", "type": "Subject1", "name": "Biopsychology"}
+{"id": "07d8af1db8e84f949993ad4c7df235ea", "type": "Subject1", "name": "Social Structure"}
+{"id": "458a0e4f96a34aae9c5ba8be4d8f837e", "type": "Subject1", "name": "Neutron Scattering"}
+{"id": "46bbe6a87ba545539fad93d4d0307cf8", "type": "Subject1", "name": "Genomics and Electronic Health Records"}
+{"id": "23bd02d7446441679a48222cb9a3218b", "type": "Subject1", "name": "Quantitative Biology"}
+{"id": "a5e5647a179e4dfeb2435cc7ca8bf795", "type": "Subject1", "name": "Analog Electronics"}
+{"id": "93ebf1d8571f400d913efc766a13b020", "type": "Subject1", "name": "Traditional Music Studies"}
+{"id": "766ed22c542f4678bbd1c4cc639f69bd", "type": "Subject1", "name": "Hardware Design"}
+{"id": "e943ac6b14fd4a5ebc842d76460f8b01", "type": "Subject1", "name": "Creative Writing"}
+{"id": "15c491b49f4d4605bf86c57e517fb916", "type": "Subject1", "name": "Higher Education Administration"}
+{"id": "644305b1ace94536bf9ae2cac71d31fd", "type": "Subject1", "name": "Nutrition and Wellness"}
+{"id": "37e363665b1249ac9e8f0e12023a50a3", "type": "Subject1", "name": "Religious Studies"}
+{"id": "c1ea8fb395694dbbbdf542b82bdc50b7", "type": "Subject1", "name": "Polymer Science and Engineering"}
+{"id": "aef01692f1ce428cbfc08e58d9564931", "type": "Subject1", "name": "Behavioral Studies"}
+{"id": "1edbc42a09a447709429bedb28ff04d4", "type": "Subject1", "name": "Science, Technology, and Society (STS)"}
+{"id": "aba4e23b41c34055b8df5fffe773c43a", "type": "Subject1", "name": "Metabolomics"}
+{"id": "0ab5b2bc6a344135aa1dbd8d066d6083", "type": "Subject1", "name": "Quantitative Social Science"}
+{"id": "138f36fc31374b3ba2d8d1537af82fe7", "type": "Subject1", "name": "Topology"}
+{"id": "a9453611de384221a7d9f4912741d1f6", "type": "Subject1", "name": "Public Health Communication"}
+{"id": "c09a6bd994c54aa99e02a554769f716e", "type": "Subject1", "name": "Hardware and Embedded Systems"}
+{"id": "788ea4bb40854d78b5551d29198389bb", "type": "Subject1", "name": "Camera Technology"}
+{"id": "dad7f549c7a4412c9e5ffe5dd1339938", "type": "Subject1", "name": "Food Safety and Contamination"}
+{"id": "1600f1fb8f004221bca91fcfcd67039c", "type": "Subject1", "name": "Healthcare Information Systems"}
+{"id": "2c3a38e147a3410ea3739abd4dc63dca", "type": "Subject1", "name": "Exegesis"}
+{"id": "9f1c792f076649848df4117487a57b78", "type": "Subject1", "name": "Science and Technology Studies"}
+{"id": "dd455cb9a0804f21bf31b8da8b55c68c", "type": "Subject1", "name": "Linguistic Typology"}
+{"id": "f509cc8f4fd14befa8f73d8399c4c7cc", "type": "Subject1", "name": "Automated Vehicles and Intelligent Transportation Systems"}
+{"id": "8b2e42282199411b81463f4f8494f992", "type": "Subject1", "name": "Dynamics"}
+{"id": "f40859e689094f9d9f44ffb96f6e7cb6", "type": "Subject1", "name": "Cognitive Computing"}
+{"id": "7f3964c9d59e46a68ef101bc5d506df7", "type": "Subject1", "name": "Systematics and Evolution"}
+{"id": "fde6c2bfc410402d8c90a35f2b08e5ac", "type": "Subject1", "name": "Analysis"}
+{"id": "f1cf4c24c2ec4884892af58938cdd65a", "type": "Subject1", "name": "Ornithology"}
+{"id": "02aba0a40a274e579d15ebc8154e645e", "type": "Subject1", "name": "Translation Studies"}
+{"id": "754ce4916f9d434ea8ada8dc2f971121", "type": "Subject1", "name": "VLSI and CAD"}
+{"id": "42b3b28533f54a2a867e01707e9ac4ec", "type": "Subject1", "name": "Academic Publishing"}
+{"id": "64d23bde8b494791a9acb342afdd0075", "type": "Subject1", "name": "Algorithmics"}
+{"id": "ffacdd3e66ea46e793c8a93fd3c81cfa", "type": "Subject1", "name": "Social Media and Online Communication"}
+{"id": "86300bbfad0a46458e952a9335242ca0", "type": "Subject1", "name": "Regulatory Compliance and Auditing"}
+{"id": "b2202358d8604d6a9b64319701213807", "type": "Subject1", "name": "Low-Level Systems"}
+{"id": "e3933fb315f64aa19c6188a007972fd7", "type": "Subject1", "name": "Urban Environmental Studies"}
+{"id": "40af86991af54d15bbb036824c9c28bb", "type": "Subject1", "name": "Economic Theory"}
+{"id": "b9dda846d1ee42bb823efc9fb356e56f", "type": "Subject1", "name": "Transportation and Mobility"}
+{"id": "99aa92a9bdb746a2af92f0e63f920f02", "type": "Subject1", "name": "Social Equity and Inclusion"}
+{"id": "afafc4297e864d3fb8ffbfab3f68c113", "type": "Subject1", "name": "Usability and User Experience"}
+{"id": "1e816e157c15403abca4369ffe8faf16", "type": "Subject1", "name": "Cryptocurrency and Blockchain"}
+{"id": "6ec3683e82284881994374a65826a096", "type": "Subject1", "name": "Data Protection and Privacy"}
+{"id": "e9dfc2c57a104307879497fbd78b5598", "type": "Subject1", "name": "Scheduling and Scheduling Theory"}
+{"id": "4b389a7581a74b80a61d90e21a3b6809", "type": "Subject1", "name": "International Business"}
+{"id": "42c69e75c95f416c82f16821e0743a54", "type": "Subject1", "name": "Quality Management"}
+{"id": "4a0edc468d724583b55849f3a6ee3250", "type": "Subject1", "name": "Textile Engineering"}
+{"id": "4edec4526ddf45e580a924924114ef05", "type": "Subject1", "name": "Renewable Energy Engineering"}
+{"id": "048acac2e9ad492385eaa3bdd53df0f0", "type": "Subject1", "name": "Decision and Risk Analysis"}
+{"id": "33ffcc066cc9471baa9b0bccb210c911", "type": "Subject1", "name": "Multimedia Computing"}
+{"id": "75e7cf877875418b872136e384ee33cc", "type": "Subject1", "name": "Human Geography"}
+{"id": "ab9f3615876e49e79cbcd5e72e012343", "type": "Subject1", "name": "Instrumental Music"}
+{"id": "8338b91843ed47bf9ac54c6bc590cc93", "type": "Subject1", "name": "Electronic Engineering"}
+{"id": "4b6e5dec5bee45edb5b848b739b8fe56", "type": "Subject1", "name": "Positive Psychology"}
+{"id": "5451b109eb83429c8cedbb53c7ff70af", "type": "Subject1", "name": "Modular Robotics"}
+{"id": "f07d721e6da84cf6a5204a793b59ee41", "type": "Subject1", "name": "Industrial-Organizational Psychology"}
+{"id": "b16e26f6729c4a49926816676e12f6a2", "type": "Subject1", "name": "Wireless Power Transfer"}
+{"id": "96cf10aac66b44ca8acc457d6fa13c57", "type": "Subject1", "name": "Energy and Environmental Systems"}
+{"id": "e5d832a8eae64ca5ad897b1a67c82eda", "type": "Subject1", "name": "Forestry"}
+{"id": "9811d21ab00d441e965a62f8f9ebbcfe", "type": "Subject1", "name": "Microelectronics and VLSI"}
+{"id": "f3ae33d7a491487491eba61c7f8ce6d7", "type": "Subject1", "name": "Distributed Algorithms"}
+{"id": "b0c016e62d094569906405797e5b7752", "type": "Subject1", "name": "Aviation and Aerospace Engineering"}
+{"id": "6f04a92f650a499796ed16869041e3e6", "type": "Subject1", "name": "Electromagnetic Fields and Waves"}
+{"id": "a4fa84e983c74fd7b4398c54dd4b8e2c", "type": "Subject1", "name": "Epidemiology and Immunology"}
+{"id": "1c847e42401a4b70ad9c952d870cb657", "type": "Subject1", "name": "Pattern Recognition and Image Processing"}
+{"id": "f21da73c5e064a6b84f749d51d932752", "type": "Subject1", "name": "Digital Communication"}
+{"id": "db339d507ff241468b05d3782bf83403", "type": "Subject1", "name": "Terminology and Conceptual Analysis"}
+{"id": "9fa57c45f7ea48ebb98fff57bd0b1be9", "type": "Subject1", "name": "Production and Operations Management"}
+{"id": "3f9c02a754674c6b9b3ab8639fbca440", "type": "Subject1", "name": "Work and Organizational Systems"}
+{"id": "3a620970bcc64944a05a1ca73e29638e", "type": "Subject1", "name": "Modern Transportation Systems"}
+{"id": "67c2c8ffbd1646bb987bdd72b4c0ca39", "type": "Subject1", "name": "Differential Geometry"}
+{"id": "27a628ab2ec5489184275fba0e0c209b", "type": "Subject1", "name": "Family Law"}
+{"id": "2dc485a46ca948ec9f96fcf0161f18bb", "type": "Subject1", "name": "Cellular and Molecular Physiology"}
+{"id": "36652959376e4d369597d84cf821f04d", "type": "Subject1", "name": "Data and Knowledge Engineering"}
+{"id": "4ff58cb756d84499af111912af33e58f", "type": "Subject1", "name": "Accounting and Finance"}
+{"id": "445c73450c7e49faba9894b17b35a626", "type": "Subject1", "name": "Historical Research"}
+{"id": "f97fd8db7fc34e599f6a73cd1e42936c", "type": "Subject1", "name": "Sensor Technology"}
+{"id": "15df6ae2157e4a09982e8bbe590ac223", "type": "Subject1", "name": "Complex Systems"}
+{"id": "b223a06b724d4f738e3e4c7e7332f85c", "type": "Subject1", "name": "Dynamical Systems"}
+{"id": "50960a78842849d1957a72a39e9a4662", "type": "Subject1", "name": "Automated Driving Systems"}
+{"id": "081e63ad65dd4043bb18b691d4c894a1", "type": "Subject1", "name": "Epidemiology and Pathogen Evolution"}
+{"id": "fc65a6fd49e3425ea365e58088994b8f", "type": "Subject1", "name": "Automated and Autonomous Systems"}
+{"id": "db6508bae08f4ca1a4a421f12273f7e5", "type": "Subject1", "name": "Healthcare Administration"}
+{"id": "ad91e059b0404dbaa4793a84b990728c", "type": "Subject1", "name": "Anatomy and Physiology"}
+{"id": "10077bc79271427cac73e1bba3352d7f", "type": "Subject1", "name": "Experimental Design"}
+{"id": "c79ebd0208d04f8984d8bc938acea4fb", "type": "Subject1", "name": "Indoor Air Quality"}
+{"id": "3b9b1d40a6114139821a5d05b2f3e368", "type": "Subject1", "name": "Instrumental Pedagogy"}
+{"id": "fcb56c1539a241079ec204298e7e6b43", "type": "Subject1", "name": "System Modeling and Simulation"}
+{"id": "74dbd20911bb46ab8e003abeae7a45fc", "type": "Subject1", "name": "Mobile Edge Computing"}
+{"id": "88ae7c32f6a5464c8353b6ccad9adf90", "type": "Subject1", "name": "Ecosystem Modeling"}
+{"id": "52be05d995924a04af9c621638bf231d", "type": "Subject1", "name": "Communication Networks"}
+{"id": "12ab337a9003447893572eea85a4cb82", "type": "Subject1", "name": "Inferential Statistics"}
+{"id": "706ecb49dfc84b6b9a2fcf956c7fb7c6", "type": "Subject1", "name": "Men's Studies"}
+{"id": "575f01ae44f247d88acf4fb382cc58ad", "type": "Subject1", "name": "Educational Administration and Policy"}
+{"id": "7b293c5c4d0943c9bf006079745695bc", "type": "Subject1", "name": "Vision Science"}
+{"id": "41e32293dd844e3d9f69a2ead03c94a7", "type": "Subject1", "name": "Social Media and User Behavior"}
+{"id": "a74fedb2a3d9412eb0a40c6647b918fd", "type": "Subject1", "name": "Environmental Science and Engineering"}
+{"id": "0d27a8a3be6d45ad815430221b61a54e", "type": "Subject1", "name": "Physical Anthropology"}
+{"id": "ab3e34586fe647f38258faae06ea0de8", "type": "Subject1", "name": "Atmospheric and Oceanic Sciences"}
+{"id": "2b335b26c9554732865d2f172eacd748", "type": "Subject1", "name": "Biomaterials"}
+{"id": "4308e6d11a5c4b0dad75e70c9375bb6a", "type": "Subject1", "name": "Agricultural Economics and Policy"}
+{"id": "5d4eb02715f44cc094880180d9dd61d0", "type": "Subject1", "name": "Railroad Engineering"}
+{"id": "e23952927f934cf39787da4d6ae26248", "type": "Subject1", "name": "Microwave and Antenna Engineering"}
+{"id": "9c95a7de7c504114af16f26ba2a44cfa", "type": "Subject1", "name": "Limnology"}
+{"id": "3f3881d25b004c5891ef41a3a9958423", "type": "Subject1", "name": "Antenna Design"}
+{"id": "37b32f81ad124f03b2870c8baca9dd92", "type": "Subject1", "name": "Speech and Language Pathology"}
+{"id": "50cc479f0eb3498abffb38fa14220677", "type": "Subject1", "name": "Sustainability"}
+{"id": "d130e0de83754056a10eefb11da8b552", "type": "Subject1", "name": "Biodiversity and Conservation"}
+{"id": "f21f6c0933c2420c93cba75d5e5f8956", "type": "Subject1", "name": "Driver Assistance Systems"}
+{"id": "1b3b6067c3524b7883bca604ba4bebd3", "type": "Subject1", "name": "Real Estate"}
+{"id": "fdd9f40794564bf1ae9d1cccbd895244", "type": "Subject1", "name": "Molecular Evolution"}
+{"id": "4d5b197a8b7644d4a96d08e5bab15acb", "type": "Subject1", "name": "Landscape Ecology"}
+{"id": "41410daad5ed48fb817151ad8b3e8403", "type": "Subject1", "name": "Cultural Geography"}
+{"id": "0ba7394a1b8e4763a48d199450520ee1", "type": "Subject1", "name": "Electrical and Electronic Measurement"}
+{"id": "ddf3196bbecc479790ca74ebb2a0cb65", "type": "Subject1", "name": "Finance and Financial Management"}
+{"id": "202e1de973114c089d5a624128036c6e", "type": "Subject1", "name": "Bone Densitometry and Imaging"}
+{"id": "263f19aef7db4c8399a5c37f8c97e80e", "type": "Subject1", "name": "Plant Taxonomy"}
+{"id": "f8bd96d0c49946d7926caf88d5ff89a0", "type": "Subject1", "name": "Wastewater Treatment"}
+{"id": "5a6b71cd1bd84c17ae1fad93add6854a", "type": "Subject1", "name": "Teacher Training and Professional Development"}
+{"id": "1232942d981946afb1b2aebfc889bacb", "type": "Subject1", "name": "Syntax"}
+{"id": "26228b51e6ff4240885c8d5f423a197d", "type": "Subject1", "name": "Education and Teaching"}
+{"id": "9c764f4c9c3b4c4297ddf5db6b2a4aa8", "type": "Subject1", "name": "Health Services Research"}
+{"id": "61083a28fd67403ca1584cf7bde4ff90", "type": "Subject1", "name": "Educational Environment"}
+{"id": "61ca0b419aca473e9be4d5d14d45efc5", "type": "Subject1", "name": "Clinical Data Access and Management"}
+{"id": "e28b492d7af943429958f0e7595eaf19", "type": "Subject1", "name": "Acoustic Phonetics"}
+{"id": "c9730a65d3124f0a8a115dcfa26463af", "type": "Subject1", "name": "Gifted Education"}
+{"id": "d80276abe5704928bf895e93a272914b", "type": "Subject1", "name": "High Speed Electronics"}
+{"id": "a9a7f6b7cff74de9b438d07b965e8267", "type": "Subject1", "name": "Historical Analysis"}
+{"id": "2fad10451d5f4be99e2f212708a3f1aa", "type": "Subject1", "name": "Public Policy and Human-Centered Computing"}
+{"id": "66cd5e170d944dad8dc3ea72da7fb2e2", "type": "Subject1", "name": "Computer Networks"}
+{"id": "b0cc8c3952b84970a626d0d85334358a", "type": "Subject1", "name": "Islamic History"}
+{"id": "576f415a280245adbab4c4d462b72feb", "type": "Subject1", "name": "Radiation Therapy"}
+{"id": "9f9de7cfae664c0da9df74682d6067a3", "type": "Subject1", "name": "Public Opinion and Policy Analysis"}
+{"id": "ec2e20b6d8bf49f49b94b5724ec3a28f", "type": "Subject1", "name": "Audio and Music Computing"}
+{"id": "8a98d5c619c847a7b722fca46e0fe535", "type": "Subject1", "name": "Lymphocyte Cell Signaling"}
+{"id": "1a903d833bf44630acf44a16fdb3c7d0", "type": "Subject1", "name": "Gender Studies in Computing"}
+{"id": "531f18258b1048a692b76e1eba7649ed", "type": "Subject1", "name": "Technology Design and Innovation"}
+{"id": "d601460721ed4321b89cfafa4d03f424", "type": "Subject1", "name": "Radio Engineering"}
+{"id": "b97b2b52d11541708fff2f38a1049de3", "type": "Subject1", "name": "Precision Agriculture"}
+{"id": "1a39466b9a4f4c50813e646cf024a4ca", "type": "Subject1", "name": "Video and Multimedia Systems"}
+{"id": "b367314f676a4344bce332a835280e39", "type": "Subject1", "name": "Botany"}
+{"id": "18e217ba29064eb69321db77c4a9237b", "type": "Subject1", "name": "Plant Ecology"}
+{"id": "1e510c4278594b0e9c50b6bacebb2b56", "type": "Subject1", "name": "Acoustic Environmental Engineering"}
+{"id": "a70996645aaf44d092fd85fb485bd470", "type": "Subject1", "name": "Marine Environmental Science"}
+{"id": "70b333f5f01942579ac44d064d2c9b4e", "type": "Subject1", "name": "Graphics and Computer Vision"}
+{"id": "271e8dfa0f6b4db585d30d988b08d84b", "type": "Subject1", "name": "Linguistic Theory"}
+{"id": "baaab215b69f4d0cad7ddf03e059521b", "type": "Subject1", "name": "Remote Sensing and Microwave Technology"}
+{"id": "8db21648596f490b83a01d48185a8886", "type": "Subject1", "name": "Geoenvironmental Engineering"}
+{"id": "822979f53c244f7a9b2b4cd92e04fe18", "type": "Subject1", "name": "Homotopy Theory"}
+{"id": "e9fd34a80fc84c3e8617f57d95a1d053", "type": "Subject1", "name": "Predictive Modeling"}
+{"id": "9d7f97cf1d4d4a2692ffe2d05babf143", "type": "Subject1", "name": "Mycology"}
+{"id": "6fcaf176ae964b3abe7e5a8d30ecebd9", "type": "Subject1", "name": "Information Organization and Retrieval"}
+{"id": "083fe528e8474e95b1d89e0bae135482", "type": "Subject1", "name": "Policy Analysis and Implementation"}
+{"id": "f3801eb1e2d848ea9557a9675a7480fa", "type": "Subject1", "name": "Aquaculture"}
+{"id": "51e4df57405049068d199e523a0b7230", "type": "Subject1", "name": "Public Communication"}
+{"id": "c19fa766d2ea459faa81e84715c547c6", "type": "Subject1", "name": "Anthropology"}
+{"id": "ae9835f1e104480689c451e7ce4b9e43", "type": "Subject1", "name": "Ecological Interactions"}
+{"id": "b7f8d06474054b7bb990a3f8f4a37bc2", "type": "Subject1", "name": "Family Studies"}
+{"id": "0e857721594c40958c34568223f0beb0", "type": "Subject1", "name": "Public Policy and Education"}
+{"id": "83cf93a080d741de86fd12a0e6bc35c7", "type": "Subject1", "name": "Digital Systems"}
+{"id": "5b8c561fc2eb4601b9a046c10369a893", "type": "Subject1", "name": "Hardware and Software Integration"}
+{"id": "5071ced6d2344c008f8b0b955ca99ba8", "type": "Subject1", "name": "Social Media and Online Behavior"}
+{"id": "d07274b6816b4fb9886e179ed57bb3dc", "type": "Subject1", "name": "Design Methods and Processes"}
+{"id": "b10dbbf35011472cb13e678bd9d0bd99", "type": "Subject1", "name": "Information Behavior"}
+{"id": "678e8da20eab4986a12f755846233623", "type": "Subject1", "name": "Mining and Mineral Resources"}
+{"id": "73857c0451654c0e95d29a60ac435232", "type": "Subject1", "name": "Business Economics"}
+{"id": "e8344214194e4caeb8f7f153cfe15ba6", "type": "Subject1", "name": "Plant Science"}
+{"id": "fcd83116b127446b9d2aac8b7e826c00", "type": "Subject1", "name": "Journalism"}
+{"id": "605873c9c41b4267acb013a34372508e", "type": "Subject1", "name": "Innovation and Entrepreneurship"}
+{"id": "c1dcaf564c78486f9e6671b870b6dfa9", "type": "Subject1", "name": "Addiction Medicine"}
+{"id": "bb63d43f677d4ee88398d36acb4cafad", "type": "Subject1", "name": "Language and Literacy"}
+{"id": "48c7d15f66a5460687600a9e71efea49", "type": "Subject1", "name": "Prosthetics and Orthotics"}
+{"id": "e873dbf6fbc24ceb8a070a378bcdab3d", "type": "Subject1", "name": "Traffic Flow and Congestion"}
+{"id": "3043c177cfba4a1fa6e75ee4f464ceb4", "type": "Subject1", "name": "Endocrinology and Metabolism"}
+{"id": "9e5c952f250c406c88d5ea24c92a0457", "type": "Subject1", "name": "Aquatic Resources Management"}
+{"id": "c7fdd2c26a874e16b776cffd6544f491", "type": "Subject1", "name": "Architectural Engineering"}
+{"id": "500751e5b1d94a53aeb0ec5f9b72994b", "type": "Subject1", "name": "Historical Acoustics"}
+{"id": "07202ccf62ac4c43a1011499d0bb3b9f", "type": "Subject1", "name": "Genomics and Molecular Evolution"}
+{"id": "d6d03ffbe7b24c71aeff010307dbc449", "type": "Subject1", "name": "Machine Tools"}
+{"id": "167cfe6dd7c94b7fb581ff0445635fde", "type": "Subject1", "name": "Political Psychology"}
+{"id": "d746c45de410472fbd50936f2fe76351", "type": "Subject1", "name": "CST (Computer Science and Technology) Challenges"}
+{"id": "008012e034af4b2cb77dde33b49e12ad", "type": "Subject1", "name": "Workforce Development"}
+{"id": "e210fcf54d954c84b65328c3a42d8e6f", "type": "Subject1", "name": "Internet of Vehicles"}
+{"id": "96eb01fd5cad470996e122b90b41e3e5", "type": "Subject1", "name": "Performing Arts"}
+{"id": "93754c6d8a594a9ab05dbdbae8f9b698", "type": "Subject1", "name": "Neuromodulation"}
+{"id": "c32fb6af6a9e4709891bade537890b62", "type": "Subject1", "name": "Neuromorphic Computing"}
+{"id": "27a84b472617462c99a5b94bfbecbb5b", "type": "Subject1", "name": "Broadcasting and Media Studies"}
+{"id": "9a7901d7bfe843998a3a90b48b79d889", "type": "Subject1", "name": "Cryptographic and Security"}
+{"id": "df1226de622c4c3d9012cbb391c348da", "type": "Subject1", "name": "Sound and Music"}
+{"id": "2608f7d2d8df4d65bd5b1de4f85d0e4d", "type": "Subject1", "name": "Lattice Theory"}
+{"id": "48b1e21f9764495090e029f0e2db2d94", "type": "Subject1", "name": "Speech-Language Pathology"}
+{"id": "bac965d88898438999fc5533d8c1026c", "type": "Subject1", "name": "Language Acquisition and Learning"}
+{"id": "3e56079d6a344a77bc0c0d916d1358ba", "type": "Subject1", "name": "Safety and Reliability Engineering"}
+{"id": "b0ef58c745f44f5980754c645350e4f7", "type": "Subject1", "name": "History and Philosophy of Computing"}
+{"id": "bfbf055d2dca4f5594b2e7b21389553f", "type": "Subject1", "name": "Climate Change and Global Warming"}
+{"id": "dccbe6b23c0b4355aa103cb724e33602", "type": "Subject1", "name": "Oral Hygiene"}
+{"id": "adffba1d6de64e7790c20ad8a43a9955", "type": "Subject1", "name": "Sample Preparation"}
+{"id": "0ef467e1dc664e72a0dea5ed51b38d9a", "type": "Subject1", "name": "Thrombosis and Hemostasis"}
+{"id": "d14388629783469a9db7d8b65bfce457", "type": "Subject1", "name": "Tissue Engineering"}
+{"id": "072d9430b6f44d449ff2aa2803451862", "type": "Subject1", "name": "Electoral Systems"}
+{"id": "d6375200b2474b08a59bdfd16c0c7793", "type": "Subject1", "name": "Medical Robotics"}
+{"id": "9ee58c6873944c4b94b3abd224ce1e9f", "type": "Subject1", "name": "Graphics and Geometric Modeling"}
+{"id": "e4ff489188d64f7d88f4c14cdc172859", "type": "Subject1", "name": "Artistic Analysis"}
+{"id": "66f5b8d17e0642afa62ac04cbdd795f7", "type": "Subject1", "name": "Data Integration and Knowledge Management"}
+{"id": "2a2b2e08a36c49c08dfad76124656792", "type": "Subject1", "name": "Statistical Methods and Techniques"}
+{"id": "f8ec27c060374ad3879b8e31a709c792", "type": "Subject1", "name": "Information Science and Technology"}
+{"id": "55402b0005614b84bf59b97f4193dc3c", "type": "Subject1", "name": "Regression Analysis"}
+{"id": "dc6e580c1040420ca85991e960e5efbf", "type": "Subject1", "name": "Social Work"}
+{"id": "45ec97d8ee814b90be58f80627738513", "type": "Subject1", "name": "Medical Device Engineering"}
+{"id": "6cb681fcdecf4cbfa5c4f651ba24a3b9", "type": "Subject1", "name": "Stability Analysis"}
+{"id": "9b26ba7ce6f249c49c467af01ca809b8", "type": "Subject1", "name": "Analog Circuit Design"}
+{"id": "3b81d996f77641258c547d1d5dfde24b", "type": "Subject1", "name": "Neuroimmunology"}
+{"id": "f2c60f90c1224e22969f6e82e873593b", "type": "Subject1", "name": "Literature Review"}
+{"id": "cf1cb5df0b92403cb16695dce8c83e40", "type": "Subject1", "name": "Radiology and Medical Imaging"}
+{"id": "4778bb9a0d60489fb4345e3dc151222c", "type": "Subject1", "name": "Inorganic Materials"}
+{"id": "36ae1b634d3b45b287dbdb1b1278d3fb", "type": "Subject1", "name": "Human Physiology"}
+{"id": "f695b14450bb4db1b0f0131e2f1b3173", "type": "Subject1", "name": "Animal Behavior and Welfare"}
+{"id": "6823294dbb1448998186eb5cd8b4f975", "type": "Subject1", "name": "Fuzzy Control"}
+{"id": "3e99f254625341748d6ec36d9c80a8ce", "type": "Subject1", "name": " Tribology"}
+{"id": "eb2dfa367e00489cbdda538a4b1f9d82", "type": "Subject1", "name": "Algorithm Design and Analysis"}
+{"id": "1fba5a6a13d14b3ca7ff90945cfc1f49", "type": "Subject1", "name": "Sports Psychology"}
+{"id": "f79cb38de85d497ebe1d3024b9cf4a72", "type": "Subject1", "name": "Tangible and Haptic Interfaces"}
+{"id": "f93398d5ce794cc1b7b4bab4c7b64c5d", "type": "Subject1", "name": "Health Equity"}
+{"id": "1368e0be1e734e36a210c7fb55724c77", "type": "Subject1", "name": "Cross-Cultural Psychology"}
+{"id": "0257e657c8844e21a59bd5466a18d11b", "type": "Subject1", "name": "High Performance and Distributed Computing"}
+{"id": "5b8431afd893475f95a86bd5aff1d1f4", "type": "Subject1", "name": "Data and Information"}
+{"id": "1c99ceb191ef46f6a29cc5f7894c6332", "type": "Subject1", "name": "Concretes and Concrete Technology"}
+{"id": "7746cdf6c0444d38a0269548b160ebb7", "type": "Subject1", "name": "Business Intelligence and Analytics"}
+{"id": "e9337ebbb9d64fcaa3d88b97e33b9f61", "type": "Subject1", "name": "Energy and Environmental Policy"}
+{"id": "685a5da143cf44dc874d8e12b08e397c", "type": "Subject1", "name": "Generalized Linear Models"}
+{"id": "4f39f96925b04e95b166c92f91c0456e", "type": "Subject1", "name": "Intellectual Property Law"}
+{"id": "a97f95008c364a009d5aa6d0735ad8dc", "type": "Subject1", "name": "Environmental Studies"}
+{"id": "aa3d8210505b40f68fb685e353659f79", "type": "Subject1", "name": "Fiction and Fantasy Studies"}
+{"id": "97daec0c92c44eb0b4b610d306561b91", "type": "Subject1", "name": "Musicology"}
+{"id": "a22e698a781544f9a2a7b126b96861bc", "type": "Subject1", "name": "Special Effects and Animation"}
+{"id": "09b5d7e1e3ba41a2a6c9fedff223c49f", "type": "Subject1", "name": "Policy Studies"}
+{"id": "8445a0228bc44bf9b0cf4a792c4bb0f2", "type": "Subject1", "name": "Agricultural Production"}
+{"id": "9f9ecadd47034ba58d868234f1cf0e85", "type": "Subject1", "name": "Transportation and Vehicle Environment"}
+{"id": "727dbf3b00114dbbbcc4e80d4345169a", "type": "Subject1", "name": "Clinical Data Analysis"}
+{"id": "5407f434a6784276a716b036095c7c2e", "type": "Subject1", "name": "Multimodal Transportation Systems"}
+{"id": "1d3810d87c2c41d7a6f801e58afb84f9", "type": "Subject1", "name": "Traffic Flow Management"}
+{"id": "2e0e5574346b4e749d40c1e8859712a6", "type": "Subject1", "name": "Electrical Engineering and Electronics"}
+{"id": "4eaaf7a8cf7c434588842ee07323018a", "type": "Subject1", "name": "Academic Environments"}
+{"id": "cf442f30529e471ebb31044703585668", "type": "Subject1", "name": "Electronic Packaging"}
+{"id": "103127d0249949c9a83b3ad7668c88a5", "type": "Subject1", "name": "Aging Studies"}
+{"id": "142c075066a442038405758a58ef4eaf", "type": "Subject1", "name": "Algorithm Analysis"}
+{"id": "654ca58eae314321adb703e31b38b54b", "type": "Subject1", "name": "Medical Parasitology"}
+{"id": "edbdb28e66994f0984a7e36de59f7075", "type": "Subject1", "name": "Healthcare Equity"}
+{"id": "1af728c1d4f54df18121a387959507c4", "type": "Subject1", "name": "Process Safety and Risk Management"}
+{"id": "f014128828394348afe4117ceb277a9c", "type": "Subject1", "name": "Chemical Engineering and Safety"}
+{"id": "53e14b572e1f4f5098e214369267f6d8", "type": "Subject1", "name": "Estimation Theory"}
+{"id": "0ad848fa4a9741cc9e4d064fc41fd2b5", "type": "Subject1", "name": "Environmental Earth Science"}
+{"id": "bd8d613c12a84566bc6fff32512e4174", "type": "Subject1", "name": "Geographical Information Science"}
+{"id": "bbc14a67a8c54e61a7732f685cd60ba5", "type": "Subject1", "name": "Social and Behavioral Aspects of Communication"}
+{"id": "06482a1d30bb4d5f889a78fbfa8d5966", "type": "Subject1", "name": "Chaotic Systems"}
+{"id": "103f104fad274c77805f9bc978d93299", "type": "Subject1", "name": "Data Centers and Distributed Systems"}
+{"id": "0dd04fac9e9a4516a95b7fbe22650280", "type": "Subject1", "name": "Cybersecurity and Network Security"}
+{"id": "5ba78f88794642fb98ee3c03781f6710", "type": "Subject1", "name": "Radar Systems"}
+{"id": "680762f4626248d09330d461f7f0a790", "type": "Subject1", "name": "Global Health"}
+{"id": "5408bf50e78348ceac0ff32ca5171901", "type": "Subject1", "name": "Professional Development"}
+{"id": "d49eeff01b7b48f8b9b07ad2e5f02224", "type": "Subject1", "name": "Computational Phenomenology"}
+{"id": "e9c5cd605bbc488fad72e468fee8295b", "type": "Subject1", "name": "Social Studies of Science and Technology"}
+{"id": "3f77e6da01794d05ba48b0a80255dc72", "type": "Subject1", "name": "Intellectual Property"}
+{"id": "010c8df5bfdf4db39509b2f25c44ff4b", "type": "Subject1", "name": "Error Correction and Coding"}
+{"id": "148d95063de14b2c8dab7d3867cab49e", "type": "Subject1", "name": "Ethics in Computing"}
+{"id": "3fe8a6e55e724ce3b1ce030583b64111", "type": "Subject1", "name": "Teacher Education"}
+{"id": "bc7c87efc71d451a986afc7585b08efc", "type": "Subject1", "name": "Pharmacokinetics"}
+{"id": "8cc28e7243b34387b0479c67091fe123", "type": "Subject1", "name": "User Interface Design"}
+{"id": "67efc9cc99f04867b5b2dc6c2114f961", "type": "Subject1", "name": "International Trade and Finance"}
+{"id": "f2cc13f7cfde4c71819a344915ee28cb", "type": "Subject1", "name": "Contemporary Art"}
+{"id": "9e17e6c20f934434a8971daf93e23b8a", "type": "Subject1", "name": "Human Rights"}
+{"id": "8b24262b2cf440f98b0eb0745684dd3a", "type": "Subject1", "name": "Vegetation and Ecosystem Modeling"}
+{"id": "aee4e2050a694f53aaf90621b831db09", "type": "Subject1", "name": "Social Gerontology"}
+{"id": "1560c63159504743af4b28695144c299", "type": "Subject1", "name": "Nuclear and Particle Physics"}
+{"id": "1fd1a1f4e0ec4379a6bd7d6da4322526", "type": "Subject1", "name": "Periodontics"}
+{"id": "550532bc50944844a56f9ab56fb5ca7e", "type": "Subject1", "name": "String Instruments Acoustics"}
+{"id": "bc7edf00ef8845e383d5f61ea1406014", "type": "Subject1", "name": "Electromagnetism and Optics"}
+{"id": "d46fcbfa5c1a42a19fb938bd096212ee", "type": "Subject1", "name": "Dental Imaging"}
+{"id": "be1242395f624f3696c3a56bd196df95", "type": "Subject1", "name": "High-Energy Physics"}
+{"id": "61bf65db4d3b4492b31bc13f7b9645bb", "type": "Subject1", "name": "Sports Methodology"}
+{"id": "21c5c28c71144325950ba59217bf2dc2", "type": "Subject1", "name": "Parasitology"}
+{"id": "03c23fb178d64d0aa80acb538907614c", "type": "Subject1", "name": "Wildfire Monitoring and Management"}
+{"id": "29326ed801c242efa3e4d646d8b1a851", "type": "Subject1", "name": "Community and Social Organizations"}
+{"id": "8d9d4f70dd3e4f8e96290de8e5a9de04", "type": "Subject1", "name": "Robotic Manipulation"}
+{"id": "d534b8ea333f4b5aa330a3aaaaf60857", "type": "Subject1", "name": "Agricultural Informatics"}
+{"id": "bebd13295f2345e4a6334891c035b9ac", "type": "Subject1", "name": "Plant Pathology"}
+{"id": "aa72db710f104aa897f2afa8491ab097", "type": "Subject1", "name": "Acoustics and Audio Technology"}
+{"id": "0d673f86596c4640bbcc9f5241d2975c", "type": "Subject1", "name": "Nano-Technology"}
+{"id": "f0e3a98a7b3448968f09daee27f4f179", "type": "Subject1", "name": "Clinical Data Standards"}
+{"id": "a17ac9c808d649adb5410a39c9f67d8f", "type": "Subject1", "name": "Business Design and Strategy"}
+{"id": "afcfb042fe584a82b205f1b0ff56636b", "type": "Subject1", "name": "Digital Logic and Computer Arithmetic"}
+{"id": "7684aebed5fc47c7a67131251b6cfcd5", "type": "Subject1", "name": "Museum Studies"}
+{"id": "33b5d7c878e149e7b44e66c8ea8e191f", "type": "Subject1", "name": "Mathematical Optimization"}
+{"id": "cd5b50b663db4319ad13998fe06bf8a8", "type": "Subject1", "name": "Financial Technology"}
+{"id": "1869692949424fedaf4c009ab6eddb5b", "type": "Subject1", "name": "Community Studies"}
+{"id": "e7a89af3133545e5aa6027066c67c004", "type": "Subject1", "name": "Plant Morphology"}
+{"id": "c973dd016931487dbac25731ad68418f", "type": "Subject1", "name": "Robot Manipulation"}
+{"id": "7ef2318ec56b4f798eee12b52d84303a", "type": "Subject1", "name": "Partial Differential Equations"}
+{"id": "5649209676a1479b8e165d1c10828b9c", "type": "Subject1", "name": "Vehicle Dynamics and Control"}
+{"id": "31ff2eb3775f4a11bdd9d03b47eac11a", "type": "Subject1", "name": "Soil and Water Science"}
+{"id": "31ee35233c7545849d20b8e7f6f22228", "type": "Subject1", "name": "Health Studies"}
+{"id": "c00f8d9ad954498c9f597f853155b55c", "type": "Subject1", "name": "Sexual Health"}
+{"id": "38bbd9f5b57947d99da38f013a22333d", "type": "Subject1", "name": "Radiological Sciences"}
+{"id": "b0ffcabef0774cc3b8a224f63ad44da3", "type": "Subject1", "name": "Medical Record Management"}
+{"id": "c442bc5fb96141b8b3867de5017acaf3", "type": "Subject1", "name": "Agricultural Technology Adoption"}
+{"id": "501beb5b97e9426ea499cd7cd458ea06", "type": "Subject1", "name": "Gynecology"}
+{"id": "2f40d34dd24e4a348c291548af84a656", "type": "Subject1", "name": "Language and Linguistics"}
+{"id": "b808b02063ad4943a72e2a835dc2b5e3", "type": "Subject1", "name": "Computational Biology"}
+{"id": "f5809d128a2f4e41874896e2d5bc5759", "type": "Subject1", "name": "High-speed Electronics and Packaging"}
+{"id": "0de1b363839745cdb9a5d730a0e871d4", "type": "Subject1", "name": "Mathematical Theory of Computation"}
+{"id": "5f0739ad47ca4d4fbff2ae15bdf091e9", "type": "Subject1", "name": "Antenna Engineering"}
+{"id": "371c82fecd634883aa9588f1e54ed066", "type": "Subject1", "name": "Theoretical Chemistry"}
+{"id": "48f3cfa1ab4542ce933e53be2f378629", "type": "Subject1", "name": "Automated and Connected Vehicles"}
+{"id": "dd8870c7f9544b23b19dcc5187c595e9", "type": "Subject1", "name": "Analog and Mixed-Signal Integrated Circuits"}
+{"id": "af596f64453c4db1bfc6f59f4f8d8628", "type": "Subject1", "name": "Psychophysics"}
+{"id": "eece0e3a610745a4989b590a78ece709", "type": "Subject1", "name": "Airport Engineering"}
+{"id": "d67410c81ad74ae49c2e127c90438d8a", "type": "Subject1", "name": "Acoustical Oceanography"}
+{"id": "7ddd2476acd64c61a6ecc705500b9fb9", "type": "Subject1", "name": "E-commerce and Online Business"}
+{"id": "dddb3e1ce42c4b9d97c3f5b225555e2b", "type": "Subject1", "name": "Economics of Information Technology"}
+{"id": "6cec7adcfe7746eba0eaf0499e701d8f", "type": "Subject1", "name": "Microwave and Radar Technology"}
+{"id": "42cabd3bfd3f453fb83d3313f062149b", "type": "Subject1", "name": "Ethnolinguistics"}
+{"id": "ca32288bfdf24306811bce3d620d51e2", "type": "Subject1", "name": "Youth Services"}
+{"id": "8223d77753be469f97ae05c520f00d9e", "type": "Subject1", "name": "Social Conflict"}
+{"id": "0f6fa076db0c4e41a15f313d84033236", "type": "Subject1", "name": "Accessibility and Aging"}
+{"id": "87676ad5bf844c4aa328922748fd43ba", "type": "Subject1", "name": "User Experience (UX) Research"}
+{"id": "c2448b22c14a46738b9405ea88a2b1ed", "type": "Subject1", "name": "Design and Analysis of Algorithms"}
+{"id": "0c62e41f06b9443e8359c9f4c6f1e280", "type": "Subject1", "name": "Digital Media"}
+{"id": "45cdd88159e24917bacdfaf08efece51", "type": "Subject1", "name": "Social Impact Studies"}
+{"id": "613d8016239241ffa77a46f782d0891b", "type": "Subject1", "name": "Automated Vehicle Interaction"}
+{"id": "2daca45ff768461cab01a936248edf26", "type": "Subject1", "name": "Vehicular Computing"}
+{"id": "0ee81bc657b840f1a72593208203abd0", "type": "Subject1", "name": "New Materials Development"}
+{"id": "04cc3a7940444ae49f5384ea83709469", "type": "Subject1", "name": "E-Textile and Wearable Technology"}
+{"id": "da5bdcd7fe1a4d009bcae6def8ada122", "type": "Subject1", "name": "Unmanned Aerial Vehicle (UAV) Technology"}
+{"id": "f5e4c26f5b1b4af896ee979318277faa", "type": "Subject1", "name": "Phonetics and Speech Science"}
+{"id": "8e193e0ee479404c8cffed5704fb2994", "type": "Subject1", "name": "Ancient History"}
+{"id": "80bb4291769f48879527f16d6537960b", "type": "Subject1", "name": "Electronic Materials"}
+{"id": "7272d27c241946c3b345a08ddb044c31", "type": "Subject1", "name": "Musculoskeletal Biomechanics"}
+{"id": "9b2b360c184040f8b27d6187b2a729cf", "type": "Subject1", "name": "Forestry and Wildlife Management"}
+{"id": "d6b404e03eeb4f66bee2f04e2d8085d5", "type": "Subject1", "name": "Social Media and Networking"}
+{"id": "421139e7d7664f8db4c2bcccd95c6313", "type": "Subject1", "name": "Geophysical Engineering"}
+{"id": "b9aa9f9ac8d74c9e961729abdbf31eed", "type": "Subject1", "name": "Reproductive Biology"}
+{"id": "25524bf502fb41f6839749900a003dce", "type": "Subject1", "name": "Intercultural Education"}
+{"id": "1e1f6cdf7cab4de1b840e174a44f9558", "type": "Subject1", "name": "Public History"}
+{"id": "fcc31f81164741fb87c8ecd09a1086e1", "type": "Subject1", "name": "Library Design and Architecture"}
+{"id": "f3bdb154d89c457fbdef363befb23f2f", "type": "Subject1", "name": "Historical Anthropology"}
+{"id": "8d185b2498f64466b03ecfc081e31244", "type": "Subject1", "name": "Design and Planning"}
+{"id": "1832fb50e2034c36b0d09fd77ae5aab7", "type": "Subject1", "name": "Physical Activity and Exercise Science"}
+{"id": "c9df0ba393d44c5d89321232cad0c014", "type": "Subject1", "name": "Technology and Innovation"}
+{"id": "0cb3c1c832d7465e8c9e97bbd244ec0c", "type": "Subject1", "name": "Graph Theory and Network Analysis"}
+{"id": "c69573436cfb47dea3631ee297c810d9", "type": "Subject1", "name": "Geodesy and Geophysics"}
+{"id": "41150ae5fb6442f791be41ea98f0a10f", "type": "Subject1", "name": "Survey Methodology"}
+{"id": "9bf074f3eea14b7384a364d7e3d016fa", "type": "Subject1", "name": "Patient Monitoring and Management"}
+{"id": "4e6e851418bb4129981449ca31368b36", "type": "Subject1", "name": "Cryptography and Security"}
+{"id": "a78bd30269684aa785b3165db5376a59", "type": "Subject1", "name": "Genomics and Molecular Genetics"}
+{"id": "cda0f00f622d47378454296b0fbc7f77", "type": "Subject1", "name": "Architectural Studies"}
+{"id": "03b91185a1ce4d76b0f8f85680ca8df5", "type": "Subject1", "name": "Data Communication and Networking"}
+{"id": "e3eec1d37c254fe6bd1999af396efde7", "type": "Subject1", "name": "Hardware/Embedded Systems"}
+{"id": "51930aabbe6b42fb9d7bc0e9cfa0e37a", "type": "Subject1", "name": "Neural Computing"}
+{"id": "b9b393f915af48dcadfa4585d6e5005b", "type": "Subject1", "name": "Accessibility Engineering"}
+{"id": "9594ca144ed2478e8f40a081a5a92c5f", "type": "Subject1", "name": "Quality Assurance"}
+{"id": "8abb955c44b94a84aa0ce8b4e043d90a", "type": "Subject1", "name": "Literature Reviews"}
+{"id": "ecd7e80bf3734e28b218ea527d8fb368", "type": "Subject1", "name": "Particle Physics"}
+{"id": "d0e7a714085e4bc9a547a530b0e49692", "type": "Subject1", "name": "Social Movements and Activism"}
+{"id": "da8dc4521a104559b02d3958364ff60c", "type": "Subject1", "name": "Mobile and Wireless Networks"}
+{"id": "fb02b87280f6419fb3c6405eb21c37b4", "type": "Subject1", "name": "Live Performance Analysis"}
+{"id": "e2477a22d74b480fb1c46124130a164b", "type": "Subject1", "name": "Quality and Reliability Engineering"}
+{"id": "8ea737141ad84e5a853f445efd5ffedb", "type": "Subject1", "name": "Computer Graphics and Geometry Processing"}
+{"id": "9e43344eff354811852f512fb056c981", "type": "Subject1", "name": "Manufacturing Systems"}
+{"id": "414b0b6ed1ac4a39bb2359249e367bef", "type": "Subject1", "name": "Distributed, Parallel, and High Performance Computing"}
+{"id": "dd66887714064e78958e882e4ba52e28", "type": "Subject1", "name": "Sound and Vibration Engineering"}
+{"id": "f8ce5f60fc874196963c70044e1cdc53", "type": "Subject1", "name": "Medical Microbiology"}
+{"id": "0ab7701a45114cd3b9b91e2a02ba1758", "type": "Subject1", "name": "Historical Musicology"}
+{"id": "fe1f280713aa445691a2b034016d53b4", "type": "Subject1", "name": "Aerodynamics"}
+{"id": "ae4341fa7b9a4cce87378fd498a70fb5", "type": "Subject1", "name": "Industrial Automation"}
+{"id": "f8a43b45da2b4b62a5b4999d408d8b06", "type": "Subject1", "name": "Pedestrian and Mobility Studies"}
+{"id": "32d3f63041954d2e8bc53fa0f45b07e7", "type": "Subject1", "name": "Machine Vision"}
+{"id": "cb4c240eb5964e418a3c5d1903d8ab00", "type": "Subject1", "name": "Public Opinion and Media Studies"}
+{"id": "b4f641fd7b5e4be1b57e2ee12f3c9e24", "type": "Subject1", "name": "Turbulence and Flow Control"}
+{"id": "7d1ece692f87494096d57fc22809a398", "type": "Subject1", "name": "Communication in Healthcare"}
+{"id": "3a52b7ad4c5844038bd62bcf9ab7c51c", "type": "Subject1", "name": "Marine Geology"}
+{"id": "39321772c2334a5a89147122612d6b83", "type": "Subject1", "name": "Digital Health"}
+{"id": "b42be4b8d8304fdd98478dd1d18d8282", "type": "Subject1", "name": "Energy Efficiency and Conservation"}
+{"id": "6b6ae74607274a5b9b3a5622b9124dbd", "type": "Subject1", "name": "Data Centers and Cloud Computing"}
+{"id": "7e66bba8a4024d40adf20beceaf90adf", "type": "Subject1", "name": "Energy Systems"}
+{"id": "d01a60ce5b5f4bac8c67f71189dbbf8d", "type": "Subject1", "name": "Mechatronics"}
+{"id": "db52d477b978411685837da38d4b1cd8", "type": "Subject1", "name": "Audio and Signal Processing"}
+{"id": "4d468d13e23a44c39cd5a91aaa4d6057", "type": "Subject1", "name": "Geometric Algorithms"}
+{"id": "f14c6bbe1d6542ac8aa5125ec4f86c61", "type": "Subject1", "name": "Data Privacy"}
+{"id": "6bdc0a2b173044e3a9e3d1ac4deb1a3c", "type": "Subject1", "name": "Comparative Psychology"}
+{"id": "6f46fb3ce5414356961b7c7d774c227b", "type": "Subject1", "name": "Information Science and Knowledge Management"}
+{"id": "20b92a597f0e483ea57bb57d13261917", "type": "Subject1", "name": "Logistics and Distribution"}
+{"id": "581708cc05064d148864e3bc96014339", "type": "Subject1", "name": "Numismatics"}
+{"id": "ecba6c906615458ca2401032fa67c398", "type": "Subject1", "name": "Community and Regional Studies"}
+{"id": "a41c44ec550c4473b587423c8e2eb2a8", "type": "Subject1", "name": "E-Learning and Online Education"}
+{"id": "8df280f73d254bce8e0875b9a5555770", "type": "Subject1", "name": "Geological Survey and Mapping"}
+{"id": "946bc13893314ae5964fc4c0fb939aae", "type": "Subject1", "name": "Healthcare Systems and Services"}
+{"id": "3a7a8b6229c844efbca3a0c1089aa79c", "type": "Subject1", "name": "Research Methodology"}
+{"id": "281418e6c4974c2ab15ee9d937c3a392", "type": "Subject1", "name": "Disability Studies"}
+{"id": "0741ab47dfd14ed1bca35e1c0f4c790e", "type": "Subject1", "name": "Genomics and Proteomics"}
+{"id": "90814d8fd84d4566b4573a676935d844", "type": "Subject1", "name": "Cyber Security"}
+{"id": "8309aa4420394991b031b6c126edf584", "type": "Subject1", "name": "Economic Analysis"}
+{"id": "bd39770a639e4e508fe3b74b5d0425c0", "type": "Subject1", "name": "Demography and Population Studies"}
+{"id": "fd46e0b123a24ef48eac9ff154506c41", "type": "Subject1", "name": "Solid Mechanics"}
+{"id": "7e821a5d2068476ab7bc4ced6714b3ad", "type": "Subject1", "name": "Human Performance and Ergonomics"}
+{"id": "ff238cebee47489e8b85c6c8f94d8b60", "type": "Subject1", "name": "Medical Decision Making"}
+{"id": "8ef1ca9e73104d99a74260b8251e82a5", "type": "Subject1", "name": "Traffic Management"}
+{"id": "dd3a61b76a4b4893b456181770ef0843", "type": "Subject1", "name": "Traffic Safety and Mobility"}
+{"id": "38773bc488bd4c95a25dc74e9dc3e042", "type": "Subject1", "name": "Flight Dynamics and Control"}
+{"id": "385aa9d47ca0436e8258b0ad0af0d043", "type": "Subject1", "name": "Innovation Management"}
+{"id": "7cb86b9edcb145d79f3113aa93353a04", "type": "Subject1", "name": "Computational Physics"}
+{"id": "6d66f3157703430296e941576e513014", "type": "Subject1", "name": "Healthcare Systems"}
+{"id": "47562fb7c2c244beb76b2ba453afb8c0", "type": "Subject1", "name": "Internet and Web Technologies"}
+{"id": "d916c21d31cd484fa2a04a5be825e6bc", "type": "Subject1", "name": "High-speed Electronics"}
+{"id": "4be92857704f49f39384f788b14f2d19", "type": "Subject1", "name": "Traffic Flow and Road Safety"}
+{"id": "8428b01fa6ea4a89adf4c156554dc8e1", "type": "Subject1", "name": "Earth Science and Geophysics"}
+{"id": "f13f97b0866844b191bcd4f48eccacb8", "type": "Subject1", "name": "Digital Media and Technology"}
+{"id": "334dd87d71a04999b872afcf1aa5f41d", "type": "Subject1", "name": "Pain Research"}
+{"id": "d17199835a80413aa21bd1e43802f75c", "type": "Subject1", "name": "Data Center Networking"}
+{"id": "cae29642b0344200b8730ee240abc2bc", "type": "Subject1", "name": "Clinical Data Management"}
+{"id": "5d1f0eba85b049689f4dbeaf317b5bb9", "type": "Subject1", "name": "Motor Control"}
+{"id": "d082fd214b304f85ba04a721e841f0e3", "type": "Subject1", "name": "Patient Education and Communication"}
+{"id": "f8e442cadf954dad8291dba6fed78002", "type": "Subject1", "name": "Oral Implantology"}
+{"id": "8028564b117844a8a15ad70e9f109029", "type": "Subject1", "name": "Clinical Trials"}
+{"id": "2c5960dcbcef43abb3720e2336b0c99e", "type": "Subject1", "name": "Genomics and Computational Biology"}
+{"id": "2be6ca1798d54a09aa9b9be4c05692c4", "type": "Subject1", "name": "Economic Structure and Policy"}
+{"id": "81526ca818e947f88f78b3c579f97195", "type": "Subject1", "name": "Neurological Intervention Planning"}
+{"id": "65a091b213194b6eb7e3ae0f0013f142", "type": "Subject1", "name": "Behavioral Medicine"}
+{"id": "5bd0c585db654037b0328d8d3a108929", "type": "Subject1", "name": "Optical Coherence Tomography (OCT)"}
+{"id": "8979280b95674aa3921f73998328d6bc", "type": "Subject1", "name": "Production and Inventory Control"}
+{"id": "a3106890b54d476cb47d1b86c98b9451", "type": "Subject1", "name": "Building Automation"}
+{"id": "4e8a4a82acc8474586704350ab8745e9", "type": "Subject1", "name": "Non-Volatile Memory Technology"}
+{"id": "4d56f66f14294c93a8b2113dad632d4f", "type": "Subject1", "name": "Reliability and Error Analysis"}
+{"id": "45b38f01fc8646bdac28db9152a1f9ce", "type": "Subject1", "name": "Bayesian Inference"}
+{"id": "f7bcc0bca5c7440aae8b5bd2cf902571", "type": "Subject1", "name": "Roof and Building Structures"}
+{"id": "434b27bd953f42c78ac6bc6c11321d51", "type": "Subject1", "name": "Robotics and Autonomous Systems"}
+{"id": "0311147a85b54c34a468a48bd6bd11c5", "type": "Subject1", "name": "Information Dissemination and Misinformation"}
+{"id": "f252a869b8d44f2eba4ce6ad17ba6976", "type": "Subject1", "name": "Water and Wastewater Engineering"}
+{"id": "a2c23a7d89c0451095812dba5cb4530d", "type": "Subject1", "name": "High-Speed Electronics"}
+{"id": "516fa2491586473f92fb445ad1f74cd9", "type": "Subject1", "name": "Business and Industrial Design"}
+{"id": "5297e13d9d3746bb9e0d034b9bf9f0be", "type": "Subject1", "name": "Design Metrics and Improvement"}
+{"id": "751a289d225f4092b3fb9d4ea2d793f7", "type": "Subject1", "name": "Underwater Acoustics and Communication"}
+{"id": "85bfd4269d964e919eaaaf4df6ced495", "type": "Subject1", "name": "Public Health and Environmental Health"}
+{"id": "e589ff49b0b94c098cbd322e7becd248", "type": "Subject1", "name": "User Experience and Interaction Design"}
+{"id": "87bd79e2fad1455b90701848bfd640a3", "type": "Subject1", "name": "Human-Nature Interaction"}
+{"id": "6897c037514a4a7491404cc5c0cfd18c", "type": "Subject1", "name": "Microarchitecture"}
+{"id": "ca5765da7cf8432fb12a04d02474292d", "type": "Subject1", "name": "Fire Science and Management"}
+{"id": "fb212ad8c1fc4d499165c7ef9604fbdf", "type": "Subject1", "name": "Imaging Diagnostics"}
+{"id": "8a9d93ad6576435ca11d06c21f250905", "type": "Subject1", "name": "Behavioral Economics"}
+{"id": "2378cbadd2c241009d4a0ca2fb984ce6", "type": "Subject1", "name": "Geological and Environmental Engineering"}
+{"id": "89d16c5eea724f52bbfd9f5f740290eb", "type": "Subject1", "name": "Marine Pollution"}
+{"id": "a2441860a73c4b64893084f6fc03dad3", "type": "Subject1", "name": "Music Theory and Acoustics"}
+{"id": "eeebd7da15fe4b0db697de8fcbde48e2", "type": "Subject1", "name": "Digital Media and Multimedia"}
+{"id": "98b6943f4835496ba4a07df0511bfc1f", "type": "Subject1", "name": "Tourism Informatics"}
+{"id": "5d354e89eb504c46a876fc9466caab7e", "type": "Subject1", "name": "Communication and Information"}
+{"id": "39338421d2a04609a66bd8fc98f29875", "type": "Subject1", "name": "Electromechanical Energy Conversion"}
+{"id": "f068971d220a4089bb7fee2127f1991f", "type": "Subject1", "name": "Galactic Astrophysics"}
+{"id": "bfe5b25cd7e244ffb6a9ee0c5ad1f82d", "type": "Subject1", "name": "User Experience and Quality of Service"}
+{"id": "722b0baab8444efc9b5c52211774c9a8", "type": "Subject1", "name": "Healthcare Informatics"}
+{"id": "e02e85d3ac994df88cef127c3143c808", "type": "Subject1", "name": "Ethics in Information Science"}
+{"id": "35cb3a8ab01341f3887d29bec21a80ac", "type": "Subject1", "name": "Urban Transportation"}
+{"id": "c1706a115a944e4e8284396cc3bdf1d8", "type": "Subject1", "name": "Acoustic Monitoring"}
+{"id": "adda85bf99d24780894cb81c40021842", "type": "Subject1", "name": "Biomedical and Health Informatics"}
+{"id": "bbb412a09f6c41378894a6f3e29da6cb", "type": "Subject1", "name": "Public Policy and Management"}
+{"id": "31d93c32ac4d40239b7c9e243bb1f94b", "type": "Subject1", "name": "Audio Processing"}
+{"id": "2731529b23b14f9ba3cf4f233b2f2f23", "type": "Subject1", "name": "Genetics and Molecular Biology"}
+{"id": "a1e8af4acbdd44e2809dbf1ccfa71f49", "type": "Subject1", "name": "Demographics and Social Stratification"}
+{"id": "5b21fdf5310f4560abe493e93f189473", "type": "Subject1", "name": "Information Science and Information Studies"}
+{"id": "3e6b37139eec40d387759c41d65a72a8", "type": "Subject1", "name": "Geohazards"}
+{"id": "9490cfde643c41d984b81f49143cce02", "type": "Subject1", "name": "Health & Medicine"}
+{"id": "90002aade9ff4a72ab6d513f4ea24089", "type": "Subject1", "name": "Mythology and Folklore"}
+{"id": "04851e85c3374b948e0e35f2f7870cba", "type": "Subject1", "name": "Metallic Materials"}
+{"id": "d6b61121941543dcb219313c2e783993", "type": "Subject1", "name": "Data Streams and Streams Algorithms"}
+{"id": "1ebeadf88a8c4c9496b8e1f85b9c583e", "type": "Subject1", "name": "Technical Art History"}
+{"id": "736e4a3575bb4d6a9fcf0dc601966174", "type": "Subject1", "name": "Optical Imaging"}
+{"id": "b800557954a54ed8b7b7c437246c5db0", "type": "Subject1", "name": "Archival Studies"}
+{"id": "618d40aa27df4c3488ac15b9549f18c4", "type": "Subject1", "name": "Surgical Techniques"}
+{"id": "c526c3d86ae64717abb75c94ea0ceeeb", "type": "Subject1", "name": "Human Factors Engineering"}
+{"id": "e7093961a4394945a2ea0c72c5dde431", "type": "Subject1", "name": "Computational Science"}
+{"id": "7e8f829cc214483fbe0a235b64655823", "type": "Subject1", "name": "Healthcare Operations and Management"}
+{"id": "d36e7198d3bf41279b2b99db70756f24", "type": "Subject1", "name": "Agroecology"}
+{"id": "1087573a457044bca86e43df679db790", "type": "Subject1", "name": "Environmental Microbiology"}
+{"id": "4ef384033dc04f6e85162e8cac0b8163", "type": "Subject1", "name": "Acoustic Ecology"}
+{"id": "d2086848307e4f95b20fea9c28390176", "type": "Subject1", "name": "Rehabilitation Science"}
+{"id": "2eb34b7c2f2148f3a7730afda1a51790", "type": "Subject1", "name": "Agronomy"}
+{"id": "9838651115ef4f6ebc3a4855ea6952db", "type": "Subject1", "name": "Acoustic and Vibration"}
+{"id": "6dbf2a7165c9400dbcbd5132334e973b", "type": "Subject1", "name": "Economic Informatics"}
+{"id": "1a09b47744ba467283f493d37f5381d4", "type": "Subject1", "name": "CAD/CAM"}
+{"id": "816efc2700b54fd39611be8217e837d8", "type": "Subject1", "name": "Diplomatic History"}
+{"id": "61c2ab1a3bbc4d14bf753e5503b6034a", "type": "Subject1", "name": "Historical and Conservation Architecture"}
+{"id": "363b7e0a0c684b49a3f47d136fd43906", "type": "Subject1", "name": "Material Science and Engineering"}
+{"id": "b98a902da79a403289bc6c14207288f6", "type": "Subject1", "name": "Historical Monuments Preservation"}
+{"id": "331d070183b94c2da8ed46e0c237d791", "type": "Subject1", "name": "Neurorehabilitation"}
+{"id": "f97c946cbf5a49ef84a11e367d316333", "type": "Subject1", "name": "Compilers and Compiler Construction"}
+{"id": "e6b051331f9344da8b1c768e001b4b94", "type": "Subject1", "name": "Electronic Testing and Measurement"}
+{"id": "50009709d6314830a26398a4b10c0ea0", "type": "Subject1", "name": "Wildlife Ecology"}
+{"id": "9c0385aa4b054ae2815a75427ff52981", "type": "Subject1", "name": "Sustainable Architecture"}
+{"id": "45ccf3e0d6994d2db2c61c39d4231505", "type": "Subject1", "name": "Hardware-Aware Computing"}
+{"id": "89af8971afb74292a5bc5742a53997b7", "type": "Subject1", "name": "Sports Materials"}
+{"id": "eb560e9ad57f42b69191231aee45bab6", "type": "Subject1", "name": "STEM Education"}
+{"id": "564c7564999f44dc92518efd930f128c", "type": "Subject1", "name": "Performance and Reliability"}
+{"id": "7439204bc1a4403597a0544836d117ab", "type": "Subject1", "name": "Neurotrauma"}
+{"id": "e232724fecd14cd098f5df3968d8d181", "type": "Subject1", "name": "Community Health"}
+{"id": "1d8c27897e8e426abd671e66c2e08565", "type": "Subject1", "name": "Community and Regional Development"}
+{"id": "bcfb1678090c43f1a91aa317b29b8020", "type": "Subject1", "name": "Criminal Law"}
+{"id": "48c1d847289b43578d610d00933f0f9d", "type": "Subject1", "name": "Diagnosis and Imaging"}
+{"id": "69da055c90a94f449018b64ec87973b5", "type": "Subject1", "name": "Performance and Architecture"}
+{"id": "2a1e3356fad047168ce19d03aed437a3", "type": "Subject1", "name": "Urban and Regional Environmental Studies"}
+{"id": "4d0e35f307df4101af9760409d8d3793", "type": "Subject1", "name": "Reconstruction and Visualization"}
+{"id": "a83c851cb1ef4c949dc0ba6776551cfa", "type": "Subject1", "name": "Environmental and Industrial Toxicology"}
+{"id": "f9d80e5b4c8443ea8dadf9045623dda0", "type": "Subject1", "name": "Information Science and Library Science"}
+{"id": "17cbc3814e5746b59f3005e18f8a4858", "type": "Subject1", "name": "Social and Behavioral Aspects"}
+{"id": "e90f25c76ca24b45b5aba75b3568139c", "type": "Subject1", "name": "Advertising"}
+{"id": "de4acc708ded4e3bbfd0ee8cc1d81a8b", "type": "Subject1", "name": "Media and Graphics"}
+{"id": "495dce0caf5b4cd08439c1fae39341e0", "type": "Subject1", "name": "Legal Theory"}
+{"id": "a443666e5c2b40acba016128d9b95d57", "type": "Subject1", "name": "Pain Management"}
+{"id": "14226b9e040d4e73bca2c404ec703a66", "type": "Subject1", "name": "Usability and Accessibility"}
+{"id": "34957ec5222a405b923ae98c112788d1", "type": "Subject1", "name": "Urban Environmental Monitoring"}
+{"id": "2c4cc416c8f44aeabe546bf199837471", "type": "Subject1", "name": "Information Systems and Technology"}
+{"id": "6ff5a79a6ee2400eab025e8d3e9b0087", "type": "Subject1", "name": "Media and Information Systems"}
+{"id": "de1ba44d02214c6183c805f30efd49d2", "type": "Subject1", "name": "Energy Management"}
+{"id": "372e168666ca4382b6bf4c45b53d43a1", "type": "Subject1", "name": "Information and Library Management"}
+{"id": "eabc7fea7d964493a8e4b05da427dec7", "type": "Subject1", "name": "Biological Systems & Organisms"}
+{"id": "0158318247724d5292491ddd2436df3c", "type": "Subject1", "name": "Decision Science and Artificial Intelligence"}
+{"id": "ad6e2fe808474c32b041bba069220ceb", "type": "Subject1", "name": "Dynamical Systems Theory"}
+{"id": "80b23bbc8beb4206a99dccdf0082b17c", "type": "Subject1", "name": "Mechanical Properties of Materials"}
+{"id": "0cf1ad14f59142cb9893162a967ce97d", "type": "Subject1", "name": "Mechanical Properties"}
+{"id": "35ed039caf0d4893a24656966ad6e424", "type": "Subject1", "name": "Virtual Reality and 3D User Interfaces"}
+{"id": "0529675bbd7143c688ceaaa6cac045e6", "type": "Subject1", "name": "Civil Law"}
+{"id": "176e20e468af467790d74ce4fe8750a9", "type": "Subject1", "name": "Public International Law"}
+{"id": "2f882398a1d74027942e83b814502904", "type": "Subject1", "name": "International Trade and Economic Policy"}
+{"id": "e4a8364461564a50a255ff48290ce543", "type": "Subject1", "name": "Fault Tolerance"}
+{"id": "9f79144587984baba63c2c036f3a9fa0", "type": "Subject1", "name": "Digital Image Processing"}
+{"id": "8231e2316c8d411bb4e8ca7a9a9a5ad5", "type": "Subject1", "name": "Microwave and Millimeter-Wave Technology"}
+{"id": "a6f46e549adb43fa87212aede193596e", "type": "Subject1", "name": "Concurrent and Parallel Computing"}
+{"id": "292a1e30c6144b3bacacf17f08637882", "type": "Subject1", "name": "Environmental Science and Management"}
+{"id": "88ba8c75c5844487bde97807cbfaa850", "type": "Subject1", "name": "Environmental Education"}
+{"id": "f3df99e2ad5148cdb68a8fac60366ed0", "type": "Subject1", "name": "Social Media and Human-Computer Interaction"}
+{"id": "a8d8902619cd46909dd7719ff421e3e6", "type": "Subject1", "name": "Customer Experience Management"}
+{"id": "14bcb270b11a4cb99a3ae9aa06268846", "type": "Subject1", "name": "Work and Organizations"}
+{"id": "a3649fe6d60a47afb008b95121daf0eb", "type": "Subject1", "name": "Commercial Law"}
+{"id": "77ceb4da40634be5a3be685f8c1b0904", "type": "Subject1", "name": "Measurement Science and Technology"}
+{"id": "392cdda1a52146b9b5583aa6dc14c10d", "type": "Subject1", "name": "Emergency Response"}
+{"id": "7a8554a8e78c482c9deecae4ebe3d4f2", "type": "Subject1", "name": "Acoustics and Speech Processing"}
+{"id": "72be8bfca8084ee29a3e81fcd3162be4", "type": "Subject1", "name": "Occupational Health"}
+{"id": "efc8f81a28784865b1594d402aa50d79", "type": "Subject1", "name": "Sports Sociology"}
+{"id": "bccaf9dde54f4f5abe9eb293ab68e528", "type": "Subject1", "name": "Sport Sociology"}
+{"id": "6f629030f0d74fff87723b16e4c1b65f", "type": "Subject1", "name": "Ubiquitous Computing"}
+{"id": "f1aabff78dee42e08848b85b0d71c6c4", "type": "Subject1", "name": "Ethnic Studies"}
+{"id": "5819d6a8977c4d3a8a6ce49c65043de5", "type": "Subject1", "name": "Ecosystem and Environmental Impact Assessment"}
+{"id": "3e44817f7e8841489696ed47f4703cbe", "type": "Subject1", "name": "Communication and Media Studies"}
+{"id": "af30a4ad4def49e1b304e9244a967a49", "type": "Subject1", "name": "Air Pollution Control"}
+{"id": "6f4be8cb93f94d4c868bc6d8e7472b9f", "type": "Subject1", "name": "Compilers and Programming Languages"}
+{"id": "bea9ffcbb7354c8dac39d080e68d6a5d", "type": "Subject1", "name": "Data Center Technologies"}
+{"id": "d3457d37a08640fb9446b326e8837719", "type": "Subject1", "name": "Power Systems Engineering"}
+{"id": "4a666fbfbbed48098dfeacc58b4ebecc", "type": "Subject1", "name": "Public Health Policy and Systems"}
+{"id": "d6d99e1b210e456683580b35fe1433c1", "type": "Subject1", "name": "Unmanned Aerial Vehicles (UAVs)"}
+{"id": "b5a10996836a440880270b5d2ee27dbb", "type": "Subject1", "name": "Agricultural Robotics"}
+{"id": "14f63bfff2b84837bcd2a7e50492a32c", "type": "Subject1", "name": "Geomatics"}
+{"id": "a911305808d5442888e3b1a02bf437e5", "type": "Subject1", "name": "Social Sciences"}
+{"id": "0ce417b21ed849939fa870a242fe30a9", "type": "Subject1", "name": "Nephrology"}
+{"id": "2c201e0d0f11450499fa56e0761e2085", "type": "Subject1", "name": "Patient Safety"}
+{"id": "b9d3f294aec142ee9d7475d9f19bf703", "type": "Subject1", "name": "Language Learning"}
+{"id": "93947a98692c44a68e074e74c0e5064d", "type": "Subject1", "name": "Economics and Computation"}
+{"id": "d8aa93ed33eb4c87967371ca5bea8578", "type": "Subject1", "name": "Geostatistics"}
+{"id": "4cd81d64f987477b942f545e5e461b41", "type": "Subject1", "name": "Sustainable Design and Analysis"}
+{"id": "a71b260c0baf45a6a997bbdb8b5d0513", "type": "Subject1", "name": "Primary Care"}
+{"id": "674d3754251844ef80b25cc50dc13700", "type": "Subject1", "name": "Soft Matter Physics"}
+{"id": "15036abfbc7449948da23a2f9c7c8513", "type": "Subject1", "name": "Preventive Medicine"}
+{"id": "ba924d47506c4bf2b33fb2487eb96194", "type": "Subject1", "name": "Rehabilitation"}
+{"id": "28cbc01e5f6c4578957a32d0c5a84c8c", "type": "Subject1", "name": "Decision Making and Choice"}
+{"id": "a46b9134b73d4755b766145b4be726ab", "type": "Subject1", "name": "Organizational Communication"}
+{"id": "92ae3015d5a047e5b28d3eece30ecd7e", "type": "Subject1", "name": "Visual Communication Design"}
+{"id": "85ed5523dae0450287b06de993125ea4", "type": "Subject1", "name": "Computed Tomography"}
+{"id": "0fdcc77c5d4e48dc92013f93166d397b", "type": "Subject1", "name": "Geodesy and Geomatics"}
+{"id": "d1c327a92f4342bdac837add9db39f38", "type": "Subject1", "name": "Automata Theory"}
+{"id": "a511a8aec2a94a1f987820135ea95bd6", "type": "Subject1", "name": "Microwave and Radio Engineering"}
+{"id": "a9e1185893314334aa0bb951ea3fca32", "type": "Subject1", "name": "Geomechanics"}
+{"id": "6bd4c06dafaa453c8697d127ba1ff624", "type": "Subject1", "name": "Electrical Circuits and Systems"}
+{"id": "e8412131e6e34021a28029dd302bad36", "type": "Subject1", "name": "Curriculum and Pedagogy"}
+{"id": "03137cd6d42e49ca8040fc3d4469bede", "type": "Subject1", "name": "Mobile and Wireless Communications"}
+{"id": "d9e0b9cae52a41aeb78ae45ccda0e21c", "type": "Subject1", "name": "Facility Location"}
+{"id": "0e2ed20ec17c4b7eae194ec898d78f5a", "type": "Subject1", "name": "Public Health and Health Services"}
+{"id": "477aa228dfa345b68b9c5bd4f7627a7e", "type": "Subject1", "name": "Advertising and Promotions"}
+{"id": "46636959b9054432858503279ec880fd", "type": "Subject1", "name": "Physical Medicine and Rehabilitation"}
+{"id": "bac7e0fb2d9144b781c9cd16fd5fa9bf", "type": "Subject1", "name": "Broadcasting Technologies"}

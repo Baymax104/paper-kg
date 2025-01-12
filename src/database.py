@@ -80,8 +80,9 @@ class Database:
 def insert(
     filename: Annotated[str, typer.Argument(help='jsonl file')],
     type_: Annotated[str, typer.Argument()],
+    batch: Annotated[int, typer.Option()] = 2500
 ):
-    db = Database(batch_size=2500, max_workers=15)
+    db = Database(batch_size=batch, max_workers=15)
     with open(filename, 'r', encoding='utf-8') as f:
         data = [json.loads(line) for line in f]
     if type_ == 'relation':
